@@ -1,0 +1,5 @@
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# 공개데이터와 툴을 이용한 트렌드 분석기반 설계

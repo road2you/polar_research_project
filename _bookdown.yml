@@ -14,4 +14,12 @@ delete_merged_file: true
 output_dir: "docs"
 download: no
 rmd_files: ["index.Rmd",
-            "01-polar-research-delineation.Rmd"]
+            "01-polar-research-delineation.Rmd",
+            "02-clustering-mapping.Rmd",
+            "03-patent-analysis.Rmd",
+            "04-emerging-areas.Rmd",
+            "05-performance-analysis.Rmd",
+            "06-profile-analysis.Rmd",
+            "07-design-trend-analsys-frame.Rmd",
+            "08-pilot-test-frame.Rmd",
+            "references.Rmd"]
