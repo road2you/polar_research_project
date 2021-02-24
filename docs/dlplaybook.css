@@ -1,7 +1,7 @@
 /* dlplaybook.css edited by Issac Lee  - www.theissaclee.com */
 /* The original .css file is adjusted from smltar.css written by Desirée De Leon @RStudio*/
 
-@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,600;0,700;1,400&&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:ital,wght@0,400;0,600;0,700;0,800;1,400&&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 
@@ -16,7 +16,7 @@
 }
 
 .summary > li:first-child a {
-  font-family: "Cabin", sans-serif;
+  font-family: "Nanum Gothic", sans-serif;
   font-size: 1.25em;
   font-weight: 700;
   white-space: normal !important;
@@ -63,12 +63,12 @@ li.part:first-child {
 /*------------- Body and header text---------------- */
 
 .book.font-family-1 {
-  font-family: 'Cabin', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
   color: #444;
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Cabin', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
   letter-spacing: 0.5pt;
 }
 
@@ -88,14 +88,14 @@ h3, h4 {
 }
    
 .title {
-  font-family: 'Cabin', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
   font-size: 3em !important;
   color: #2f4861;
   line-height: 1.5;
 }
 
 .subtitle {
-  font-family: 'Cabin', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
   color: #5d9dad80 !important;
 }
 
