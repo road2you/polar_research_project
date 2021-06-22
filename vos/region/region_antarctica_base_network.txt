@@ -1,0 +1,2527 @@
+D'Urville sea	Riiser-Larsen Sea	2
+D'Urville sea	adelie land	6
+D'Urville sea	amundsen sea	1
+D'Urville sea	antarctic peninsula	4
+D'Urville sea	balleny islands	1
+D'Urville sea	bransfield strait	2
+D'Urville sea	commonwealth bay	1
+D'Urville sea	cooperation sea	1
+D'Urville sea	davis sea	2
+D'Urville sea	east antarctica	14
+D'Urville sea	gerlache strait	1
+D'Urville sea	marguerite bay	2
+D'Urville sea	mcmurdo sound	1
+D'Urville sea	mertz glacier	6
+D'Urville sea	palmer archipelago	1
+D'Urville sea	princess elizabeth land	1
+D'Urville sea	prydz bay	2
+D'Urville sea	queen maud land	1
+D'Urville sea	ross sea	5
+D'Urville sea	somov sea	2
+D'Urville sea	southern ocean	8
+D'Urville sea	terra nova bay	1
+D'Urville sea	weddell sea	2
+Filchner-Ronne ice shelf	amery ice shelf	3
+Filchner-Ronne ice shelf	amundsen sea	8
+Filchner-Ronne ice shelf	antarctic ocean	2
+Filchner-Ronne ice shelf	antarctic peninsula	24
+Filchner-Ronne ice shelf	berkner island	9
+Filchner-Ronne ice shelf	bouvet island	1
+Filchner-Ronne ice shelf	bransfield strait	1
+Filchner-Ronne ice shelf	brunt ice shelf	2
+Filchner-Ronne ice shelf	coats land	3
+Filchner-Ronne ice shelf	dolleman island	1
+Filchner-Ronne ice shelf	east antarctic ice sheet	5
+Filchner-Ronne ice shelf	east antarctica	9
+Filchner-Ronne ice shelf	ekstrom ice shelf	2
+Filchner-Ronne ice shelf	enderby land	2
+Filchner-Ronne ice shelf	ferrar glacier	1
+Filchner-Ronne ice shelf	fimbul ice shelf	1
+Filchner-Ronne ice shelf	foundation ice stream	9
+Filchner-Ronne ice shelf	institute ice stream	4
+Filchner-Ronne ice shelf	kamb ice stream	1
+Filchner-Ronne ice shelf	king george island	1
+Filchner-Ronne ice shelf	lambert glacier	1
+Filchner-Ronne ice shelf	larsen ice shelf	7
+Filchner-Ronne ice shelf	lazarev sea	1
+Filchner-Ronne ice shelf	marguerite bay	1
+Filchner-Ronne ice shelf	marie byrd land	1
+Filchner-Ronne ice shelf	mcmurdo dry valleys	1
+Filchner-Ronne ice shelf	moller ice stream	2
+Filchner-Ronne ice shelf	pine island bay	1
+Filchner-Ronne ice shelf	pine island glacier	2
+Filchner-Ronne ice shelf	prydz bay	1
+Filchner-Ronne ice shelf	queen maud land	4
+Filchner-Ronne ice shelf	riiser-larsen ice shelf	1
+Filchner-Ronne ice shelf	ross ice shelf	10
+Filchner-Ronne ice shelf	ross sea	6
+Filchner-Ronne ice shelf	rutford ice stream	9
+Filchner-Ronne ice shelf	shackleton ice shelf	1
+Filchner-Ronne ice shelf	slessor glacier	4
+Filchner-Ronne ice shelf	southern ocean	10
+Filchner-Ronne ice shelf	terra nova bay	1
+Filchner-Ronne ice shelf	totten glacier	1
+Filchner-Ronne ice shelf	transantarctic mountains	4
+Filchner-Ronne ice shelf	union glacier	2
+Filchner-Ronne ice shelf	victoria land	1
+Filchner-Ronne ice shelf	weddell sea	70
+Filchner-Ronne ice shelf	west antarctic ice sheet	7
+Filchner-Ronne ice shelf	west antarctica	11
+Filchner-Ronne ice shelf	west ice shelf	1
+Filchner-Ronne ice shelf	whillans ice stream	1
+Heard Island and McDonald Islands	adelie land	2
+Heard Island and McDonald Islands	admiralty bay	1
+Heard Island and McDonald Islands	amsterdam island	2
+Heard Island and McDonald Islands	antarctic peninsula	4
+Heard Island and McDonald Islands	argentine islands	1
+Heard Island and McDonald Islands	atlas cove	4
+Heard Island and McDonald Islands	australian antarctic territory	1
+Heard Island and McDonald Islands	bellingshausen island	1
+Heard Island and McDonald Islands	bouvet island	2
+Heard Island and McDonald Islands	campbell island	1
+Heard Island and McDonald Islands	cockburn island	1
+Heard Island and McDonald Islands	crozet islands	1
+Heard Island and McDonald Islands	east antarctica	3
+Heard Island and McDonald Islands	ile de la possession	2
+Heard Island and McDonald Islands	kerguelen islands	13
+Heard Island and McDonald Islands	king george island	1
+Heard Island and McDonald Islands	laurie island	1
+Heard Island and McDonald Islands	macquarie island	19
+Heard Island and McDonald Islands	marion island	10
+Heard Island and McDonald Islands	prince edward islands	3
+Heard Island and McDonald Islands	princess elizabeth land	1
+Heard Island and McDonald Islands	prydz bay	1
+Heard Island and McDonald Islands	ross sea	1
+Heard Island and McDonald Islands	shag rocks	2
+Heard Island and McDonald Islands	signy island	1
+Heard Island and McDonald Islands	south orkney islands	2
+Heard Island and McDonald Islands	south shetland islands	2
+Heard Island and McDonald Islands	southern ocean	26
+Heard Island and McDonald Islands	vestfold hills	3
+Heard Island and McDonald Islands	windmill islands	1
+Kohler glacier	amundsen sea	5
+Kohler glacier	pine island glacier	2
+Kohler glacier	thwaites glacier	2
+Kohler glacier	west antarctica	7
+Riiser-Larsen Sea	amundsen sea	1
+Riiser-Larsen Sea	cooperation sea	3
+Riiser-Larsen Sea	davis sea	2
+Riiser-Larsen Sea	drake passage	1
+Riiser-Larsen Sea	east antarctica	6
+Riiser-Larsen Sea	enderby land	1
+Riiser-Larsen Sea	lazarev sea	2
+Riiser-Larsen Sea	pingvin island	1
+Riiser-Larsen Sea	prydz bay	1
+Riiser-Larsen Sea	queen maud land	3
+Riiser-Larsen Sea	ross sea	3
+Riiser-Larsen Sea	southern ocean	3
+Riiser-Larsen Sea	weddell sea	3
+Riiser-Larsen Sea	west ice shelf	1
+South Georgia and the South Sandwich Islands	adelaide island	1
+South Georgia and the South Sandwich Islands	admiralty bay	1
+South Georgia and the South Sandwich Islands	amundsen sea	1
+South Georgia and the South Sandwich Islands	antarctic ocean	1
+South Georgia and the South Sandwich Islands	antarctic peninsula	33
+South Georgia and the South Sandwich Islands	bellingshausen island	1
+South Georgia and the South Sandwich Islands	bird island	1
+South Georgia and the South Sandwich Islands	bouvet island	1
+South Georgia and the South Sandwich Islands	bransfield strait	1
+South Georgia and the South Sandwich Islands	british antarctic territory	1
+South Georgia and the South Sandwich Islands	candlemas island	4
+South Georgia and the South Sandwich Islands	coats land	2
+South Georgia and the South Sandwich Islands	crozet islands	1
+South Georgia and the South Sandwich Islands	deception island	1
+South Georgia and the South Sandwich Islands	drake passage	9
+South Georgia and the South Sandwich Islands	east antarctica	3
+South Georgia and the South Sandwich Islands	elephant island	6
+South Georgia and the South Sandwich Islands	james ross island	1
+South Georgia and the South Sandwich Islands	kerguelen islands	1
+South Georgia and the South Sandwich Islands	king george island	2
+South Georgia and the South Sandwich Islands	larsen ice shelf	1
+South Georgia and the South Sandwich Islands	livingston island	2
+South Georgia and the South Sandwich Islands	macquarie island	3
+South Georgia and the South Sandwich Islands	marie byrd land	1
+South Georgia and the South Sandwich Islands	marion island	2
+South Georgia and the South Sandwich Islands	maxwell bay_antarctic	2
+South Georgia and the South Sandwich Islands	montagu island	3
+South Georgia and the South Sandwich Islands	prince edward islands	1
+South Georgia and the South Sandwich Islands	queen maud land	2
+South Georgia and the South Sandwich Islands	ross sea	1
+South Georgia and the South Sandwich Islands	saunders island	3
+South Georgia and the South Sandwich Islands	scotia sea	25
+South Georgia and the South Sandwich Islands	shag rocks	6
+South Georgia and the South Sandwich Islands	signy island	1
+South Georgia and the South Sandwich Islands	south orkney islands	10
+South Georgia and the South Sandwich Islands	south shetland islands	17
+South Georgia and the South Sandwich Islands	southern ocean	53
+South Georgia and the South Sandwich Islands	southern thule	3
+South Georgia and the South Sandwich Islands	transantarctic mountains	1
+South Georgia and the South Sandwich Islands	victoria land	2
+South Georgia and the South Sandwich Islands	weddell sea	17
+South Georgia and the South Sandwich Islands	west antarctica	1
+South Georgia and the South Sandwich Islands	zavodovski island	1
+abbot ice shelf	amundsen sea	3
+abbot ice shelf	pine island bay	1
+abbot ice shelf	southern ocean	1
+abbot ice shelf	thurston island	2
+abbot ice shelf	weddell sea	1
+abbot ice shelf	west antarctic ice sheet	2
+abbot ice shelf	west antarctica	3
+adelaide island	alexander island_antarctic	10
+adelaide island	antarctic peninsula	72
+adelaide island	anvers island	6
+adelaide island	berkner island	1
+adelaide island	boyd strait	1
+adelaide island	bransfield strait	2
+adelaide island	charcot island	1
+adelaide island	deception island	1
+adelaide island	drake passage	1
+adelaide island	elephant island	1
+adelaide island	ellsworth land	1
+adelaide island	galindez island	1
+adelaide island	graham land	1
+adelaide island	king george island	2
+adelaide island	livingston island	1
+adelaide island	marguerite bay	13
+adelaide island	mcmurdo sound	2
+adelaide island	palmer archipelago	1
+adelaide island	palmer land	1
+adelaide island	potter cove	1
+adelaide island	roosevelt island	1
+adelaide island	ross sea	1
+adelaide island	ryder bay	7
+adelaide island	shag rocks	1
+adelaide island	signy island	4
+adelaide island	smith island	1
+adelaide island	south orkney islands	2
+adelaide island	south shetland islands	3
+adelaide island	southern ocean	13
+adelaide island	weddell sea	1
+adelaide island	west antarctica	1
+adelie land	admiralty bay	1
+adelie land	amsterdam island	1
+adelie land	amundsen sea	1
+adelie land	antarctic peninsula	13
+adelie land	argentine islands	1
+adelie land	balleny islands	1
+adelie land	commonwealth bay	4
+adelie land	crozet islands	1
+adelie land	davis sea	1
+adelie land	drake passage	1
+adelie land	east antarctic ice sheet	9
+adelie land	east antarctica	95
+adelie land	enderby land	1
+adelie land	george v land	16
+adelie land	kerguelen islands	4
+adelie land	king george island	1
+adelie land	lake vostok	1
+adelie land	lambert glacier	1
+adelie land	larsen ice shelf	1
+adelie land	mac robertson land	1
+adelie land	marion island	1
+adelie land	mcmurdo sound	2
+adelie land	mertz glacier	11
+adelie land	oates land	1
+adelie land	princess elizabeth land	1
+adelie land	prydz bay	4
+adelie land	queen maud land	2
+adelie land	ross sea	17
+adelie land	shag rocks	1
+adelie land	south orkney islands	2
+adelie land	south shetland islands	5
+adelie land	southern ocean	46
+adelie land	taylor valley	1
+adelie land	terra nova bay	1
+adelie land	totten glacier	2
+adelie land	transantarctic mountains	4
+adelie land	victoria land	6
+adelie land	weddell sea	13
+adelie land	west antarctic ice sheet	2
+adelie land	west antarctica	4
+adelie land	wilkes land	9
+admiralty bay	antarctic peninsula	43
+admiralty bay	argentine islands	2
+admiralty bay	baranowski glacier	3
+admiralty bay	bransfield strait	13
+admiralty bay	croker passage	1
+admiralty bay	deception island	3
+admiralty bay	drake passage	1
+admiralty bay	elephant island	7
+admiralty bay	galindez island	1
+admiralty bay	gerlache strait	1
+admiralty bay	king george island	183
+admiralty bay	livingston island	2
+admiralty bay	marguerite bay	1
+admiralty bay	maxwell bay_antarctic	2
+admiralty bay	mcmurdo sound	2
+admiralty bay	palmer archipelago	1
+admiralty bay	penguin island	1
+admiralty bay	petermann island	1
+admiralty bay	potter cove	3
+admiralty bay	queen maud land	1
+admiralty bay	ross ice shelf	1
+admiralty bay	ross sea	2
+admiralty bay	scotia sea	2
+admiralty bay	south orkney islands	4
+admiralty bay	south shetland islands	95
+admiralty bay	southern ocean	12
+admiralty bay	terra nova bay	2
+admiralty bay	victoria land	1
+admiralty bay	weddell sea	3
+admiralty bay	west antarctica	19
+aitcho islands	barrientos island	1
+alexander island_antarctic	amundsen sea	1
+alexander island_antarctic	antarctic peninsula	71
+alexander island_antarctic	anvers island	1
+alexander island_antarctic	boyd strait	1
+alexander island_antarctic	bransfield strait	1
+alexander island_antarctic	charcot island	1
+alexander island_antarctic	drake passage	1
+alexander island_antarctic	east antarctica	1
+alexander island_antarctic	elephant island	1
+alexander island_antarctic	ellsworth land	3
+alexander island_antarctic	george vi ice shelf	8
+alexander island_antarctic	graham land	5
+alexander island_antarctic	james ross island	4
+alexander island_antarctic	king george island	2
+alexander island_antarctic	lake vostok	1
+alexander island_antarctic	larsen ice shelf	1
+alexander island_antarctic	livingston island	2
+alexander island_antarctic	marguerite bay	10
+alexander island_antarctic	mcmurdo dry valleys	1
+alexander island_antarctic	palmer archipelago	1
+alexander island_antarctic	palmer land	10
+alexander island_antarctic	pine island bay	1
+alexander island_antarctic	ross sea	1
+alexander island_antarctic	signy island	2
+alexander island_antarctic	smith island	2
+alexander island_antarctic	south orkney islands	4
+alexander island_antarctic	south shetland islands	6
+alexander island_antarctic	southern ocean	4
+alexander island_antarctic	trinity peninsula	2
+alexander island_antarctic	victoria land	2
+alexander island_antarctic	weddell sea	2
+alexander island_antarctic	west antarctic ice sheet	2
+alexander island_antarctic	west antarctica	7
+alexander island_antarctic	wilkins ice shelf	2
+amanda bay	antarctic ocean	1
+amanda bay	australian antarctic territory	1
+amanda bay	east antarctica	1
+amanda bay	southern ocean	1
+amery ice shelf	amundsen sea	2
+amery ice shelf	antarctic ocean	1
+amery ice shelf	antarctic peninsula	2
+amery ice shelf	battye glacier	6
+amery ice shelf	drake passage	1
+amery ice shelf	east antarctic ice sheet	17
+amery ice shelf	east antarctica	90
+amery ice shelf	enderby land	2
+amery ice shelf	ferrar glacier	1
+amery ice shelf	getz ice shelf	1
+amery ice shelf	kerguelen islands	1
+amery ice shelf	lambert glacier	36
+amery ice shelf	larsen ice shelf	1
+amery ice shelf	mac robertson land	3
+amery ice shelf	pine island bay	1
+amery ice shelf	pine island glacier	2
+amery ice shelf	princess elizabeth land	5
+amery ice shelf	prydz bay	43
+amery ice shelf	queen maud land	2
+amery ice shelf	ross ice shelf	2
+amery ice shelf	ross sea	4
+amery ice shelf	shackleton ice shelf	1
+amery ice shelf	southern ocean	10
+amery ice shelf	stornes peninsula	1
+amery ice shelf	totten glacier	2
+amery ice shelf	transantarctic mountains	2
+amery ice shelf	vestfold hills	4
+amery ice shelf	weddell sea	5
+amery ice shelf	west antarctic ice sheet	3
+amery ice shelf	west antarctica	2
+amery ice shelf	west ice shelf	1
+amery ice shelf	wilkes land	1
+amsterdam island	antipodes islands	1
+amsterdam island	auckland island	2
+amsterdam island	drake passage	2
+amsterdam island	east antarctica	1
+amsterdam island	ile de la possession	1
+amsterdam island	kerguelen islands	3
+amsterdam island	macquarie island	6
+amsterdam island	marion island	7
+amsterdam island	prince edward islands	1
+amsterdam island	princess elizabeth land	1
+amsterdam island	prydz bay	1
+amsterdam island	saint paul island	5
+amsterdam island	southern ocean	13
+amundsen sea	antarctic ocean	8
+amundsen sea	antarctic peninsula	84
+amundsen sea	bay of whales	1
+amundsen sea	bellinghausen sea	2
+amundsen sea	bransfield strait	1
+amundsen sea	coats land	1
+amundsen sea	coulman island	1
+amundsen sea	davis sea	3
+amundsen sea	deception island	1
+amundsen sea	dotson ice shelf	10
+amundsen sea	drake passage	3
+amundsen sea	east antarctic ice sheet	9
+amundsen sea	east antarctica	36
+amundsen sea	ekstrom ice shelf	1
+amundsen sea	elephant island	2
+amundsen sea	ellsworth land	6
+amundsen sea	enderby land	6
+amundsen sea	george v land	3
+amundsen sea	george vi ice shelf	1
+amundsen sea	getz ice shelf	10
+amundsen sea	institute ice stream	2
+amundsen sea	kamb ice stream	5
+amundsen sea	kerguelen islands	1
+amundsen sea	king george island	1
+amundsen sea	lake vostok	1
+amundsen sea	lambert glacier	1
+amundsen sea	larsen ice shelf	2
+amundsen sea	lazarev sea	1
+amundsen sea	macquarie island	2
+amundsen sea	marguerite bay	3
+amundsen sea	marie byrd land	18
+amundsen sea	mcmurdo dry valleys	4
+amundsen sea	mcmurdo sound	2
+amundsen sea	mertz glacier	1
+amundsen sea	palmer land	1
+amundsen sea	peter i island	2
+amundsen sea	pine island bay	42
+amundsen sea	pine island glacier	43
+amundsen sea	prydz bay	5
+amundsen sea	queen maud land	7
+amundsen sea	roosevelt island	3
+amundsen sea	ross ice shelf	15
+amundsen sea	ross island	2
+amundsen sea	ross sea	117
+amundsen sea	rutford ice stream	1
+amundsen sea	scotia sea	10
+amundsen sea	shag rocks	1
+amundsen sea	siple dome	5
+amundsen sea	slessor glacier	1
+amundsen sea	somov sea	1
+amundsen sea	south orkney islands	7
+amundsen sea	south shetland islands	5
+amundsen sea	southern ocean	130
+amundsen sea	southern thule	1
+amundsen sea	terra nova bay	1
+amundsen sea	thurston island	5
+amundsen sea	thwaites glacier	32
+amundsen sea	thwaites ice shelf	1
+amundsen sea	totten glacier	3
+amundsen sea	transantarctic mountains	6
+amundsen sea	victoria land	3
+amundsen sea	weddell sea	53
+amundsen sea	west antarctic ice sheet	83
+amundsen sea	west antarctica	182
+amundsen sea	whillans ice stream	2
+amundsen sea	wilkes land	5
+andvord bay	antarctic peninsula	8
+andvord bay	barilari bay	1
+andvord bay	flandres bay	1
+andvord bay	gerlache strait	2
+andvord bay	graham land	1
+andvord bay	ross sea	1
+andvord bay	southern ocean	1
+antarctic ocean	antarctic peninsula	29
+antarctic ocean	antarctic sound	1
+antarctic ocean	balleny islands	1
+antarctic ocean	bouvet island	3
+antarctic ocean	bransfield strait	5
+antarctic ocean	casey bay	1
+antarctic ocean	deception island	1
+antarctic ocean	drake passage	10
+antarctic ocean	east antarctic ice sheet	1
+antarctic ocean	east antarctica	13
+antarctic ocean	elephant island	2
+antarctic ocean	enderby land	1
+antarctic ocean	gerlache strait	3
+antarctic ocean	kerguelen islands	2
+antarctic ocean	king george island	1
+antarctic ocean	livingston island	1
+antarctic ocean	lutzow-holm bay	3
+antarctic ocean	macquarie island	1
+antarctic ocean	marguerite bay	1
+antarctic ocean	marion island	2
+antarctic ocean	mertz glacier	1
+antarctic ocean	peter i island	1
+antarctic ocean	potter cove	1
+antarctic ocean	prydz bay	5
+antarctic ocean	ross ice shelf	1
+antarctic ocean	ross sea	31
+antarctic ocean	scotia sea	6
+antarctic ocean	seymour island	2
+antarctic ocean	south orkney islands	1
+antarctic ocean	south shetland islands	11
+antarctic ocean	southern ocean	386
+antarctic ocean	terra nova bay	6
+antarctic ocean	vestfold hills	1
+antarctic ocean	weddell sea	38
+antarctic ocean	west antarctica	1
+antarctic ocean	west ice shelf	1
+antarctic ocean	wilkes land	1
+antarctic peninsula	antarctic sound	2
+antarctic peninsula	anvers island	54
+antarctic peninsula	ardley island	13
+antarctic peninsula	argentine islands	14
+antarctic peninsula	australian antarctic territory	1
+antarctic peninsula	balleny islands	2
+antarctic peninsula	baranowski glacier	1
+antarctic peninsula	barilari bay	5
+antarctic peninsula	barton peninsula	3
+antarctic peninsula	bear island_antarctic	1
+antarctic peninsula	beardmore glacier	1
+antarctic peninsula	bellinghausen sea	4
+antarctic peninsula	berkner island	4
+antarctic peninsula	berthelot islands	1
+antarctic peninsula	bird island	6
+antarctic peninsula	bouvet island	5
+antarctic peninsula	boyd strait	2
+antarctic peninsula	bransfield strait	171
+antarctic peninsula	british antarctic territory	1
+antarctic peninsula	brunt ice shelf	1
+antarctic peninsula	byers peninsula	16
+antarctic peninsula	byrd glacier	1
+antarctic peninsula	candlemas island	1
+antarctic peninsula	charcot island	6
+antarctic peninsula	coats land	4
+antarctic peninsula	cockburn island	10
+antarctic peninsula	collins bay	2
+antarctic peninsula	collins glacier	3
+antarctic peninsula	cooperation sea	1
+antarctic peninsula	croker passage	8
+antarctic peninsula	crozet islands	4
+antarctic peninsula	davis sea	2
+antarctic peninsula	deception island	49
+antarctic peninsula	discovery bay	3
+antarctic peninsula	dolleman island	7
+antarctic peninsula	dotson ice shelf	1
+antarctic peninsula	doumer island	4
+antarctic peninsula	drake passage	136
+antarctic peninsula	drygalski glacier	6
+antarctic peninsula	east antarctic ice sheet	18
+antarctic peninsula	east antarctica	147
+antarctic peninsula	elephant island	53
+antarctic peninsula	ellsworth land	14
+antarctic peninsula	enderby land	10
+antarctic peninsula	ferrar glacier	1
+antarctic peninsula	fildes peninsula	8
+antarctic peninsula	flandres bay	2
+antarctic peninsula	foundation ice stream	1
+antarctic peninsula	galindez island	2
+antarctic peninsula	george v land	4
+antarctic peninsula	george vi ice shelf	19
+antarctic peninsula	gerlache strait	56
+antarctic peninsula	getz ice shelf	1
+antarctic peninsula	gibbs island	1
+antarctic peninsula	graham land	30
+antarctic peninsula	greenwich island	4
+antarctic peninsula	hope bay	39
+antarctic peninsula	horseshoe island	3
+antarctic peninsula	hurd peninsula	8
+antarctic peninsula	institute ice stream	1
+antarctic peninsula	james ross island	127
+antarctic peninsula	jason peninsula	6
+antarctic peninsula	kamb ice stream	2
+antarctic peninsula	kerguelen islands	6
+antarctic peninsula	king george island	223
+antarctic peninsula	lake vostok	1
+antarctic peninsula	lambert glacier	6
+antarctic peninsula	larsen ice shelf	102
+antarctic peninsula	laurie island	1
+antarctic peninsula	lazarev sea	4
+antarctic peninsula	litchfield island	1
+antarctic peninsula	livingston island	71
+antarctic peninsula	macquarie island	7
+antarctic peninsula	marguerite bay	122
+antarctic peninsula	marian cove	4
+antarctic peninsula	marie byrd land	25
+antarctic peninsula	marion island	2
+antarctic peninsula	maxwell bay_antarctic	21
+antarctic peninsula	mcmurdo dry valleys	9
+antarctic peninsula	mcmurdo ice shelf	1
+antarctic peninsula	mcmurdo sound	13
+antarctic peninsula	mertz glacier	2
+antarctic peninsula	montagu island	1
+antarctic peninsula	muller ice shelf	4
+antarctic peninsula	nelson island	7
+antarctic peninsula	oates land	2
+antarctic peninsula	palmer archipelago	11
+antarctic peninsula	palmer land	43
+antarctic peninsula	paulet island	2
+antarctic peninsula	penguin island	4
+antarctic peninsula	peter i island	6
+antarctic peninsula	petermann island	5
+antarctic peninsula	pine island bay	15
+antarctic peninsula	pine island glacier	7
+antarctic peninsula	potter cove	46
+antarctic peninsula	potter peninsula	9
+antarctic peninsula	prince edward islands	1
+antarctic peninsula	prince gustav channel	19
+antarctic peninsula	princess elizabeth land	2
+antarctic peninsula	prydz bay	14
+antarctic peninsula	queen maud land	31
+antarctic peninsula	robert island	1
+antarctic peninsula	roosevelt island	2
+antarctic peninsula	ross archipelago	2
+antarctic peninsula	ross ice shelf	18
+antarctic peninsula	ross island	6
+antarctic peninsula	ross sea	111
+antarctic peninsula	rutford ice stream	1
+antarctic peninsula	ryder bay	29
+antarctic peninsula	scotia sea	112
+antarctic peninsula	scott island	1
+antarctic peninsula	seymour island	107
+antarctic peninsula	shackleton ice shelf	2
+antarctic peninsula	shag rocks	6
+antarctic peninsula	signy island	24
+antarctic peninsula	siple dome	3
+antarctic peninsula	slessor glacier	2
+antarctic peninsula	smith island	9
+antarctic peninsula	snow hill island	15
+antarctic peninsula	snow island	2
+antarctic peninsula	sobral peninsula	2
+antarctic peninsula	sorsdal glacier	1
+antarctic peninsula	south bay_antarctic	2
+antarctic peninsula	south orkney islands	59
+antarctic peninsula	south shetland islands	347
+antarctic peninsula	southern ocean	556
+antarctic peninsula	southern thule	2
+antarctic peninsula	stonington island	2
+antarctic peninsula	tabarin peninsula	3
+antarctic peninsula	taylor valley	2
+antarctic peninsula	terra nova bay	5
+antarctic peninsula	thurston island	16
+antarctic peninsula	thwaites glacier	6
+antarctic peninsula	totten glacier	2
+antarctic peninsula	transantarctic mountains	22
+antarctic peninsula	trinity peninsula	20
+antarctic peninsula	ulu peninsula	8
+antarctic peninsula	union glacier	1
+antarctic peninsula	vega island	30
+antarctic peninsula	vestfold hills	3
+antarctic peninsula	victoria land	27
+antarctic peninsula	walker bay	1
+antarctic peninsula	weddell sea	342
+antarctic peninsula	west antarctic ice sheet	40
+antarctic peninsula	west antarctica	214
+antarctic peninsula	west ice shelf	2
+antarctic peninsula	whalers bay	1
+antarctic peninsula	whillans ice stream	1
+antarctic peninsula	wilkes land	10
+antarctic peninsula	wilkins ice shelf	14
+antarctic peninsula	windmill islands	1
+antarctic peninsula	wordie ice shelf	9
+antarctic peninsula	zavodovski island	3
+antarctic sound	bransfield strait	4
+antarctic sound	drake passage	1
+antarctic sound	elephant island	1
+antarctic sound	marguerite bay	1
+antarctic sound	scotia sea	1
+antarctic sound	south shetland islands	2
+antarctic sound	southern ocean	2
+antarctic sound	weddell sea	2
+antipodes islands	auckland island	12
+antipodes islands	balleny islands	1
+antipodes islands	bounty islands	7
+antipodes islands	campbell island	9
+antipodes islands	macquarie island	7
+antipodes islands	marion island	1
+antipodes islands	ross dependency	1
+antipodes islands	snares islands	4
+antipodes islands	southern ocean	3
+antipodes islands	west antarctica	1
+anuchin glacier	east antarctica	3
+anuchin glacier	queen maud land	2
+anvers island	ardley island	1
+anvers island	argentine islands	1
+anvers island	bransfield strait	1
+anvers island	charcot island	1
+anvers island	croker passage	1
+anvers island	doumer island	1
+anvers island	drake passage	1
+anvers island	graham land	1
+anvers island	king george island	3
+anvers island	larsen ice shelf	1
+anvers island	livingston island	1
+anvers island	marguerite bay	8
+anvers island	maxwell bay_antarctic	1
+anvers island	mcmurdo dry valleys	1
+anvers island	palmer archipelago	1
+anvers island	palmer land	2
+anvers island	potter cove	1
+anvers island	potter peninsula	1
+anvers island	ross island	1
+anvers island	ross sea	1
+anvers island	signy island	1
+anvers island	south shetland islands	1
+anvers island	southern ocean	7
+ardley island	argentine islands	1
+ardley island	barton peninsula	2
+ardley island	collins glacier	2
+ardley island	deception island	1
+ardley island	doumer island	1
+ardley island	fildes peninsula	14
+ardley island	king george island	13
+ardley island	livingston island	1
+ardley island	maxwell bay_antarctic	2
+ardley island	robert island	2
+ardley island	ross island	1
+ardley island	sorsdal glacier	1
+ardley island	south shetland islands	13
+ardley island	southern ocean	1
+ardley island	vestfold hills	2
+ardley island	west antarctica	5
+argentine islands	berthelot islands	1
+argentine islands	east antarctica	1
+argentine islands	fildes peninsula	2
+argentine islands	galindez island	4
+argentine islands	gerlache strait	1
+argentine islands	graham land	1
+argentine islands	king george island	5
+argentine islands	south orkney islands	1
+argentine islands	south shetland islands	4
+argentine islands	west antarctica	1
+argentine islands	wilhelm archipelago	1
+auckland island	bounty islands	4
+auckland island	campbell island	37
+auckland island	disappointment island	1
+auckland island	enderby island	25
+auckland island	kerguelen islands	2
+auckland island	macquarie island	7
+auckland island	marie byrd land	1
+auckland island	marion island	1
+auckland island	mcmurdo sound	1
+auckland island	ross dependency	1
+auckland island	ross sea	1
+auckland island	snares islands	9
+auckland island	south shetland islands	1
+auckland island	southern ocean	15
+auckland island	victoria land	1
+auckland island	west antarctica	1
+australian antarctic territory	bouvet island	1
+australian antarctic territory	east antarctica	7
+australian antarctic territory	queen mary land	1
+australian antarctic territory	ross dependency	2
+australian antarctic territory	ross sea	2
+australian antarctic territory	south shetland islands	1
+australian antarctic territory	southern ocean	6
+australian antarctic territory	vestfold hills	2
+australian antarctic territory	weddell sea	2
+australian antarctic territory	windmill islands	2
+balleny islands	bransfield strait	1
+balleny islands	drake passage	2
+balleny islands	east antarctica	4
+balleny islands	enderby land	1
+balleny islands	gerlache strait	1
+balleny islands	macquarie island	1
+balleny islands	marie byrd land	3
+balleny islands	mertz glacier	2
+balleny islands	palmer archipelago	1
+balleny islands	queen maud land	1
+balleny islands	ross island	2
+balleny islands	ross sea	12
+balleny islands	scott island	2
+balleny islands	south orkney islands	1
+balleny islands	southern ocean	9
+balleny islands	terra nova bay	1
+balleny islands	transantarctic mountains	2
+balleny islands	victoria land	4
+balleny islands	weddell sea	2
+balleny islands	west antarctica	5
+baranowski glacier	bransfield strait	1
+baranowski glacier	fildes peninsula	1
+baranowski glacier	king george island	6
+baranowski glacier	south shetland islands	4
+baranowski glacier	west antarctica	3
+barilari bay	flandres bay	1
+barilari bay	graham land	1
+barilari bay	larsen ice shelf	1
+barrientos island	king george island	1
+barton peninsula	collins glacier	1
+barton peninsula	deception island	2
+barton peninsula	fildes peninsula	2
+barton peninsula	hurd peninsula	1
+barton peninsula	king george island	29
+barton peninsula	livingston island	2
+barton peninsula	maxwell bay_antarctic	1
+barton peninsula	south shetland islands	9
+barton peninsula	west antarctica	4
+battye glacier	east antarctic ice sheet	6
+battye glacier	east antarctica	11
+battye glacier	lambert glacier	6
+battye glacier	mac robertson land	1
+battye glacier	prydz bay	3
+battye glacier	transantarctic mountains	1
+battye glacier	vestfold hills	1
+bay of whales	beardmore glacier	1
+bay of whales	coulman island	1
+bay of whales	ross ice shelf	1
+bay of whales	ross island	1
+bay of whales	ross sea	2
+bay of whales	terra nova bay	1
+bear island_antarctic	weddell sea	1
+beardmore glacier	coulman island	1
+beardmore glacier	darwin glacier	2
+beardmore glacier	east antarctic ice sheet	1
+beardmore glacier	east antarctica	4
+beardmore glacier	hatherton glacier	3
+beardmore glacier	marie byrd land	1
+beardmore glacier	mcmurdo dry valleys	4
+beardmore glacier	rennick glacier	1
+beardmore glacier	ross dependency	1
+beardmore glacier	ross ice shelf	4
+beardmore glacier	ross island	1
+beardmore glacier	ross sea	4
+beardmore glacier	shackleton glacier	2
+beardmore glacier	siple dome	1
+beardmore glacier	southern ocean	1
+beardmore glacier	taylor valley	1
+beardmore glacier	terra nova bay	1
+beardmore glacier	transantarctic mountains	24
+beardmore glacier	victoria land	5
+beardmore glacier	west antarctica	2
+beaufort island	canada glacier	1
+beaufort island	mcmurdo sound	1
+beaufort island	ross dependency	1
+beaufort island	ross ice shelf	1
+beaufort island	ross island	8
+beaufort island	ross sea	10
+beaufort island	southern ocean	1
+beaufort island	taylor valley	3
+beaufort island	victoria land	6
+beaufort island	west antarctic ice sheet	1
+beaufort island	west antarctica	1
+beaver island	casey bay	1
+beaver island	east antarctica	1
+beaver island	enderby land	1
+bechervaise island	east antarctica	8
+bechervaise island	magnetic island	1
+bechervaise island	ross sea	2
+bechervaise island	southern ocean	2
+bellinghausen sea	george vi ice shelf	1
+bellinghausen sea	gerlache strait	1
+bellinghausen sea	getz ice shelf	1
+bellinghausen sea	king george island	1
+bellinghausen sea	marie byrd land	2
+bellinghausen sea	pine island glacier	1
+bellinghausen sea	ross sea	1
+bellinghausen sea	south shetland islands	2
+bellinghausen sea	southern ocean	1
+bellinghausen sea	weddell sea	2
+bellinghausen sea	west antarctica	3
+bellingshausen island	candlemas island	1
+bellingshausen island	marion island	1
+bellingshausen island	southern ocean	1
+berkner island	dolleman island	1
+berkner island	east antarctica	1
+berkner island	foundation ice stream	2
+berkner island	james ross island	3
+berkner island	queen maud land	4
+berkner island	roosevelt island	1
+berkner island	siple dome	2
+berkner island	southern ocean	1
+berkner island	weddell sea	9
+berthelot islands	king george island	1
+berthelot islands	south shetland islands	1
+bindschadler ice stream	east antarctic ice sheet	1
+bindschadler ice stream	kamb ice stream	3
+bindschadler ice stream	lambert glacier	1
+bindschadler ice stream	marie byrd land	1
+bindschadler ice stream	roosevelt island	2
+bindschadler ice stream	ross ice shelf	2
+bindschadler ice stream	ross island	1
+bindschadler ice stream	ross sea	5
+bindschadler ice stream	rutford ice stream	2
+bindschadler ice stream	siple dome	2
+bindschadler ice stream	southern ocean	1
+bindschadler ice stream	thwaites glacier	1
+bindschadler ice stream	transantarctic mountains	1
+bindschadler ice stream	west antarctic ice sheet	7
+bindschadler ice stream	west antarctica	9
+bindschadler ice stream	whillans ice stream	1
+bird island	byers peninsula	1
+bird island	king george island	1
+bird island	livingston island	1
+bird island	macquarie island	1
+bird island	marion island	3
+bird island	mcmurdo sound	1
+bird island	ross sea	2
+bird island	scotia sea	4
+bird island	shag rocks	1
+bird island	signy island	3
+bird island	south orkney islands	6
+bird island	south shetland islands	3
+bird island	southern ocean	18
+bird island	weddell sea	2
+bolingen islands	east antarctica	6
+bolingen islands	prydz bay	3
+bolingen islands	rauer islands	2
+bolingen islands	stornes peninsula	1
+bolingen islands	vestfold hills	1
+bolingen islands	windmill islands	1
+bounty islands	campbell island	5
+bounty islands	ross dependency	1
+bounty islands	snares islands	4
+bounty islands	southern ocean	1
+bounty islands	victoria land	1
+bouvet island	bransfield strait	1
+bouvet island	crozet islands	1
+bouvet island	deception island	1
+bouvet island	drake passage	1
+bouvet island	east antarctica	2
+bouvet island	elephant island	3
+bouvet island	kerguelen islands	1
+bouvet island	king george island	1
+bouvet island	marion island	1
+bouvet island	queen mary land	1
+bouvet island	ross dependency	1
+bouvet island	ross sea	2
+bouvet island	scotia sea	2
+bouvet island	shag rocks	1
+bouvet island	south orkney islands	3
+bouvet island	south shetland islands	6
+bouvet island	southern ocean	21
+bouvet island	weddell sea	10
+bouvet island	west antarctica	1
+boyd strait	bransfield strait	2
+boyd strait	elephant island	1
+boyd strait	livingston island	1
+boyd strait	marguerite bay	1
+boyd strait	smith island	1
+boyd strait	south shetland islands	1
+bransfield strait	croker passage	1
+bransfield strait	davis sea	2
+bransfield strait	deception island	33
+bransfield strait	drake passage	64
+bransfield strait	east antarctica	5
+bransfield strait	elephant island	29
+bransfield strait	gerlache strait	48
+bransfield strait	hurd peninsula	2
+bransfield strait	james ross island	3
+bransfield strait	kerguelen islands	2
+bransfield strait	king george island	23
+bransfield strait	larsen ice shelf	2
+bransfield strait	lazarev sea	1
+bransfield strait	livingston island	21
+bransfield strait	marguerite bay	3
+bransfield strait	marie byrd land	1
+bransfield strait	maxwell bay_antarctic	4
+bransfield strait	mcmurdo sound	2
+bransfield strait	nelson island	1
+bransfield strait	palmer archipelago	1
+bransfield strait	penguin island	2
+bransfield strait	potter cove	3
+bransfield strait	prydz bay	2
+bransfield strait	ross sea	10
+bransfield strait	scotia sea	30
+bransfield strait	seymour island	1
+bransfield strait	smith island	7
+bransfield strait	snow island	2
+bransfield strait	south orkney islands	6
+bransfield strait	south shetland islands	93
+bransfield strait	southern ocean	79
+bransfield strait	terra nova bay	1
+bransfield strait	trinity peninsula	2
+bransfield strait	weddell sea	90
+bransfield strait	west antarctica	17
+bransfield strait	whalers bay	2
+bransfield strait	wilkins ice shelf	1
+bratina island	mcmurdo dry valleys	1
+bratina island	mcmurdo ice shelf	10
+bratina island	mcmurdo sound	1
+bratina island	ross ice shelf	1
+bratina island	ross island	1
+bratina island	ross sea	3
+bratina island	victoria land	2
+british antarctic territory	south orkney islands	1
+british antarctic territory	southern ocean	1
+brown peninsula	mcmurdo ice shelf	1
+brown peninsula	mcmurdo sound	2
+brown peninsula	ross island	1
+brown peninsula	ross sea	1
+brown peninsula	southern ocean	1
+brown peninsula	victoria land	1
+brunt ice shelf	byrd glacier	1
+brunt ice shelf	coats land	4
+brunt ice shelf	east antarctica	4
+brunt ice shelf	george vi ice shelf	1
+brunt ice shelf	larsen ice shelf	1
+brunt ice shelf	riiser-larsen ice shelf	1
+brunt ice shelf	ross ice shelf	2
+brunt ice shelf	signy island	1
+brunt ice shelf	south orkney islands	1
+brunt ice shelf	weddell sea	11
+byers peninsula	deception island	5
+byers peninsula	drake passage	1
+byers peninsula	east antarctica	1
+byers peninsula	fildes peninsula	1
+byers peninsula	hurd peninsula	3
+byers peninsula	james ross island	1
+byers peninsula	king george island	2
+byers peninsula	livingston island	69
+byers peninsula	marion island	1
+byers peninsula	signy island	1
+byers peninsula	snow island	2
+byers peninsula	south shetland islands	54
+byers peninsula	southern ocean	1
+byers peninsula	ulu peninsula	1
+byers peninsula	west antarctica	1
+byrd glacier	east antarctic ice sheet	3
+byrd glacier	east antarctica	10
+byrd glacier	kamb ice stream	1
+byrd glacier	lambert glacier	1
+byrd glacier	marie byrd land	2
+byrd glacier	mcmurdo dry valleys	1
+byrd glacier	mcmurdo sound	1
+byrd glacier	moller ice stream	1
+byrd glacier	pine island glacier	1
+byrd glacier	reedy glacier	1
+byrd glacier	ross ice shelf	15
+byrd glacier	ross island	3
+byrd glacier	ross sea	12
+byrd glacier	shackleton glacier	1
+byrd glacier	terra nova bay	6
+byrd glacier	transantarctic mountains	13
+byrd glacier	victoria land	1
+byrd glacier	weddell sea	2
+byrd glacier	west antarctic ice sheet	2
+byrd glacier	west antarctica	1
+byrd glacier	whillans ice stream	1
+byrd glacier	wilkes land	1
+campbell island	enderby island	3
+campbell island	kerguelen islands	1
+campbell island	macquarie island	7
+campbell island	marie byrd land	1
+campbell island	marion island	2
+campbell island	ross dependency	1
+campbell island	ross sea	1
+campbell island	snares islands	7
+campbell island	south shetland islands	2
+campbell island	southern ocean	9
+campbell island	victoria land	2
+campbell island	west antarctica	1
+canada glacier	east antarctic ice sheet	1
+canada glacier	east antarctica	1
+canada glacier	mcmurdo dry valleys	15
+canada glacier	mcmurdo sound	1
+canada glacier	ross island	2
+canada glacier	ross sea	2
+canada glacier	taylor glacier	2
+canada glacier	taylor valley	18
+canada glacier	transantarctic mountains	1
+candlemas island	southern ocean	1
+candlemas island	victoria land	1
+candlemas island	zavodovski island	1
+casey bay	east antarctica	2
+casey bay	enderby land	4
+casey bay	lutzow-holm bay	1
+casey bay	prydz bay	1
+casey bay	southern ocean	1
+casey bay	west ice shelf	1
+charcot island	croker passage	1
+charcot island	ellsworth land	1
+charcot island	larsen ice shelf	1
+charcot island	marguerite bay	4
+charcot island	south orkney islands	1
+charcot island	southern ocean	1
+charcot island	weddell sea	1
+charcot island	wilkins ice shelf	1
+coats land	deception island	1
+coats land	east antarctic ice sheet	4
+coats land	east antarctica	20
+coats land	ellsworth land	1
+coats land	lake vostok	1
+coats land	lambert glacier	1
+coats land	lazarev sea	1
+coats land	marie byrd land	1
+coats land	queen maud land	13
+coats land	ross sea	1
+coats land	scotia sea	1
+coats land	slessor glacier	4
+coats land	transantarctic mountains	5
+coats land	union glacier	1
+coats land	victoria land	2
+coats land	weddell sea	11
+coats land	west antarctic ice sheet	1
+coats land	west antarctica	5
+cockburn island	east antarctica	3
+cockburn island	james ross island	3
+cockburn island	king george island	1
+cockburn island	mcmurdo sound	1
+cockburn island	seymour island	3
+cockburn island	vestfold hills	1
+cockburn island	weddell sea	1
+cockburn island	west antarctica	1
+collins bay	king george island	2
+collins bay	marian cove	1
+collins bay	maxwell bay_antarctic	3
+collins bay	south shetland islands	3
+collins bay	west antarctica	1
+collins glacier	deception island	2
+collins glacier	drake passage	1
+collins glacier	fildes peninsula	6
+collins glacier	king george island	10
+collins glacier	maxwell bay_antarctic	1
+collins glacier	robert island	1
+collins glacier	south shetland islands	3
+commonwealth bay	east antarctica	10
+commonwealth bay	george v land	3
+commonwealth bay	macquarie island	1
+commonwealth bay	mcmurdo sound	1
+commonwealth bay	mertz glacier	8
+commonwealth bay	southern ocean	1
+commonwealth bay	vestfold hills	1
+commonwealth bay	weddell sea	1
+cooperation sea	cosmonauts sea	1
+cooperation sea	davis sea	1
+cooperation sea	east antarctica	5
+cooperation sea	prydz bay	8
+cooperation sea	ross sea	2
+cooperation sea	southern ocean	5
+cooperation sea	weddell sea	2
+cosmonauts sea	east antarctica	1
+coulman island	drygalski glacier	1
+coulman island	east antarctic ice sheet	1
+coulman island	east antarctica	1
+coulman island	hatherton glacier	1
+coulman island	marie byrd land	1
+coulman island	ross island	1
+coulman island	ross sea	11
+coulman island	siple dome	1
+coulman island	southern ocean	1
+coulman island	terra nova bay	3
+coulman island	transantarctic mountains	1
+coulman island	victoria land	6
+coulman island	west antarctic ice sheet	1
+coulman island	west antarctica	1
+courbet peninsula	kerguelen islands	2
+croker passage	gerlache strait	1
+croker passage	king george island	1
+croker passage	marguerite bay	2
+croker passage	southern ocean	2
+croker passage	weddell sea	1
+crozet islands	ile aux cochons	1
+crozet islands	kerguelen islands	11
+crozet islands	macquarie island	2
+crozet islands	marion island	8
+crozet islands	palmer archipelago	1
+crozet islands	prince edward islands	5
+crozet islands	ross sea	1
+crozet islands	south orkney islands	1
+crozet islands	south shetland islands	1
+crozet islands	southern ocean	40
+crozet islands	weddell sea	1
+darwin glacier	east antarctic ice sheet	2
+darwin glacier	east antarctica	1
+darwin glacier	hatherton glacier	2
+darwin glacier	mcmurdo dry valleys	2
+darwin glacier	mcmurdo ice shelf	2
+darwin glacier	mcmurdo sound	3
+darwin glacier	ross dependency	1
+darwin glacier	ross ice shelf	4
+darwin glacier	ross island	1
+darwin glacier	ross sea	5
+darwin glacier	transantarctic mountains	6
+darwin glacier	victoria land	5
+darwin glacier	west antarctic ice sheet	2
+darwin glacier	west antarctica	1
+david glacier	east antarctic ice sheet	2
+david glacier	east antarctica	3
+david glacier	nansen ice sheet	1
+david glacier	priestley glacier	1
+david glacier	rennick glacier	1
+david glacier	ross sea	2
+david glacier	transantarctic mountains	5
+david glacier	victoria land	5
+david glacier	west antarctica	1
+davis sea	east antarctica	1
+davis sea	mawson sea	1
+davis sea	mertz glacier	2
+davis sea	prydz bay	2
+davis sea	ross ice shelf	1
+davis sea	ross sea	4
+davis sea	south shetland islands	1
+davis sea	southern ocean	5
+davis sea	terra nova bay	1
+davis sea	weddell sea	5
+davis sea	west antarctica	1
+deception island	drake passage	1
+deception island	east antarctica	3
+deception island	elephant island	3
+deception island	galindez island	1
+deception island	gerlache strait	2
+deception island	hope bay	1
+deception island	james ross island	3
+deception island	king george island	23
+deception island	laurie island	1
+deception island	livingston island	26
+deception island	maxwell bay_antarctic	2
+deception island	nelson island	1
+deception island	penguin island	4
+deception island	potter cove	1
+deception island	potter peninsula	2
+deception island	robert island	1
+deception island	scotia sea	3
+deception island	shag rocks	1
+deception island	signy island	4
+deception island	south bay_antarctic	1
+deception island	south orkney islands	4
+deception island	south shetland islands	115
+deception island	southern ocean	15
+deception island	southern thule	1
+deception island	trinity peninsula	2
+deception island	weddell sea	5
+deception island	west antarctica	9
+deception island	whalers bay	6
+devicq glacier	dotson ice shelf	1
+devicq glacier	ellsworth land	1
+devicq glacier	getz ice shelf	3
+devicq glacier	marie byrd land	3
+devicq glacier	pine island glacier	1
+devicq glacier	thwaites glacier	2
+devicq glacier	west antarctic ice sheet	1
+devicq glacier	west antarctica	3
+dewart island	east antarctica	1
+dewart island	terra nova bay	1
+dewart island	wilkes land	1
+dewart island	windmill islands	1
+diego ramirez islands	drake passage	2
+diego ramirez islands	kerguelen islands	1
+diego ramirez islands	marion island	1
+diego ramirez islands	prince edward islands	1
+diego ramirez islands	southern ocean	2
+discovery bay	greenwich island	2
+discovery bay	south shetland islands	2
+discovery bay	southern ocean	1
+dolleman island	weddell sea	5
+dotson ice shelf	getz ice shelf	1
+dotson ice shelf	marie byrd land	1
+dotson ice shelf	pine island bay	1
+dotson ice shelf	thwaites glacier	2
+dotson ice shelf	west antarctic ice sheet	1
+dotson ice shelf	west antarctica	4
+doumer island	livingston island	1
+doumer island	palmer archipelago	1
+doumer island	south bay_antarctic	2
+drake passage	east antarctic ice sheet	6
+drake passage	east antarctica	10
+drake passage	elephant island	24
+drake passage	fildes peninsula	2
+drake passage	gerlache strait	15
+drake passage	gibbs island	1
+drake passage	james ross island	2
+drake passage	kerguelen islands	3
+drake passage	king george island	11
+drake passage	larsen ice shelf	2
+drake passage	livingston island	9
+drake passage	maxwell bay_antarctic	1
+drake passage	mcmurdo sound	1
+drake passage	mertz glacier	1
+drake passage	oates land	1
+drake passage	peter i island	1
+drake passage	potter cove	1
+drake passage	princess elizabeth land	1
+drake passage	prydz bay	3
+drake passage	ross ice shelf	1
+drake passage	ross island	1
+drake passage	ross sea	19
+drake passage	scotia sea	85
+drake passage	seymour island	4
+drake passage	shag rocks	2
+drake passage	signy island	1
+drake passage	smith island	2
+drake passage	snow island	1
+drake passage	south orkney islands	6
+drake passage	south shetland islands	44
+drake passage	southern ocean	302
+drake passage	victoria land	1
+drake passage	weddell sea	107
+drake passage	west antarctic ice sheet	1
+drake passage	west antarctica	15
+drygalski glacier	larsen ice shelf	6
+drygalski glacier	prince gustav channel	2
+drygalski glacier	ross ice shelf	1
+drygalski glacier	ross sea	2
+drygalski glacier	terra nova bay	1
+drygalski glacier	victoria land	1
+drygalski glacier	weddell sea	1
+drygalski glacier	west antarctic ice sheet	1
+east antarctic ice sheet	east antarctica	148
+east antarctic ice sheet	enderby land	1
+east antarctic ice sheet	ferrar glacier	4
+east antarctic ice sheet	foundation ice stream	1
+east antarctic ice sheet	george v land	3
+east antarctic ice sheet	getz ice shelf	1
+east antarctic ice sheet	graham land	1
+east antarctic ice sheet	hatherton glacier	2
+east antarctic ice sheet	james ross island	1
+east antarctic ice sheet	kamb ice stream	1
+east antarctic ice sheet	lake vostok	15
+east antarctic ice sheet	lambert glacier	26
+east antarctic ice sheet	larsen ice shelf	1
+east antarctic ice sheet	lutzow-holm bay	3
+east antarctic ice sheet	mac robertson land	5
+east antarctic ice sheet	marguerite bay	1
+east antarctic ice sheet	marie byrd land	5
+east antarctic ice sheet	mcmurdo dry valleys	14
+east antarctic ice sheet	mcmurdo ice shelf	1
+east antarctic ice sheet	mcmurdo sound	9
+east antarctic ice sheet	mertz glacier	1
+east antarctic ice sheet	oates land	1
+east antarctic ice sheet	palmer land	1
+east antarctic ice sheet	pine island bay	1
+east antarctic ice sheet	pine island glacier	2
+east antarctic ice sheet	princess elizabeth land	3
+east antarctic ice sheet	prydz bay	25
+east antarctic ice sheet	queen maud land	19
+east antarctic ice sheet	rauer islands	1
+east antarctic ice sheet	reedy glacier	3
+east antarctic ice sheet	rennick glacier	2
+east antarctic ice sheet	roosevelt island	1
+east antarctic ice sheet	ross ice shelf	8
+east antarctic ice sheet	ross island	3
+east antarctic ice sheet	ross sea	50
+east antarctic ice sheet	scotia sea	1
+east antarctic ice sheet	shackleton glacier	1
+east antarctic ice sheet	shackleton ice shelf	1
+east antarctic ice sheet	shirase glacier	1
+east antarctic ice sheet	slessor glacier	1
+east antarctic ice sheet	sorsdal glacier	1
+east antarctic ice sheet	southern ocean	46
+east antarctic ice sheet	taylor glacier	11
+east antarctic ice sheet	taylor valley	7
+east antarctic ice sheet	terra nova bay	3
+east antarctic ice sheet	thwaites glacier	1
+east antarctic ice sheet	totten glacier	6
+east antarctic ice sheet	transantarctic mountains	72
+east antarctic ice sheet	vega island	1
+east antarctic ice sheet	vestfold hills	7
+east antarctic ice sheet	victoria land	48
+east antarctic ice sheet	weddell sea	21
+east antarctic ice sheet	west antarctic ice sheet	62
+east antarctic ice sheet	west antarctica	32
+east antarctic ice sheet	whillans ice stream	1
+east antarctic ice sheet	wilkes land	24
+east antarctic ice sheet	windmill islands	3
+east antarctica	east ongul island	3
+east antarctica	ekstrom ice shelf	2
+east antarctica	elephant island	5
+east antarctica	ellsworth land	3
+east antarctica	enderby land	50
+east antarctica	ferrar glacier	1
+east antarctica	fimbul ice shelf	6
+east antarctica	george v land	32
+east antarctica	george vi ice shelf	1
+east antarctica	getz ice shelf	1
+east antarctica	haswell island	1
+east antarctica	hatherton glacier	1
+east antarctica	hop island	4
+east antarctica	hope bay	3
+east antarctica	james ross island	4
+east antarctica	jetty peninsula	3
+east antarctica	jutulstraumen glacier	2
+east antarctica	kaiser wilhelm ii land	4
+east antarctica	kamb ice stream	1
+east antarctica	kemp land	12
+east antarctica	kerguelen islands	2
+east antarctica	king george island	7
+east antarctica	lake vostok	33
+east antarctica	lambert glacier	59
+east antarctica	larsen ice shelf	4
+east antarctica	lazarev sea	5
+east antarctica	livingston island	1
+east antarctica	lutzow-holm bay	53
+east antarctica	mac robertson land	29
+east antarctica	macquarie island	5
+east antarctica	magnetic island	2
+east antarctica	marie byrd land	34
+east antarctica	mawson sea	1
+east antarctica	maxwell bay_antarctic	1
+east antarctica	mcintyre island	1
+east antarctica	mcmurdo dry valleys	27
+east antarctica	mcmurdo ice shelf	2
+east antarctica	mcmurdo sound	12
+east antarctica	mertz glacier	49
+east antarctica	mitchell peninsula	1
+east antarctica	moller ice stream	1
+east antarctica	oates land	6
+east antarctica	oygarden group	5
+east antarctica	palmer land	2
+east antarctica	pine island bay	5
+east antarctica	pine island glacier	8
+east antarctica	pingvin island	1
+east antarctica	priestley glacier	1
+east antarctica	prince edward islands	1
+east antarctica	princess elizabeth land	30
+east antarctica	prydz bay	172
+east antarctica	queen mary land	2
+east antarctica	queen maud land	246
+east antarctica	rauer islands	11
+east antarctica	ross ice shelf	22
+east antarctica	ross island	12
+east antarctica	ross sea	147
+east antarctica	scotia sea	11
+east antarctica	scott glacier	2
+east antarctica	seymour island	3
+east antarctica	shackleton ice shelf	2
+east antarctica	shag rocks	1
+east antarctica	shirase glacier	7
+east antarctica	siple dome	5
+east antarctica	slessor glacier	6
+east antarctica	sorsdal glacier	5
+east antarctica	south orkney islands	4
+east antarctica	south shetland islands	15
+east antarctica	southern ocean	234
+east antarctica	stornes peninsula	6
+east antarctica	taylor glacier	6
+east antarctica	taylor valley	4
+east antarctica	terra nova bay	15
+east antarctica	thurston island	6
+east antarctica	thwaites glacier	10
+east antarctica	tonagh island	8
+east antarctica	totten glacier	23
+east antarctica	transantarctic mountains	113
+east antarctica	trinity peninsula	1
+east antarctica	tucker glacier	1
+east antarctica	vestfold hills	89
+east antarctica	victoria land	102
+east antarctica	weddell sea	83
+east antarctica	west antarctic ice sheet	40
+east antarctica	west antarctica	245
+east antarctica	west ice shelf	4
+east antarctica	whillans ice stream	1
+east antarctica	wilkes land	91
+east antarctica	wilkins ice shelf	2
+east antarctica	windmill islands	48
+east ongul island	queen maud land	1
+east ongul island	southern ocean	2
+ekstrom ice shelf	fimbul ice shelf	1
+ekstrom ice shelf	queen maud land	3
+ekstrom ice shelf	rutford ice stream	1
+ekstrom ice shelf	southern ocean	1
+ekstrom ice shelf	weddell sea	2
+elephant island	fildes peninsula	1
+elephant island	gerlache strait	1
+elephant island	gibbs island	1
+elephant island	kerguelen islands	1
+elephant island	king george island	19
+elephant island	livingston island	7
+elephant island	marguerite bay	2
+elephant island	nelson island	1
+elephant island	potter cove	2
+elephant island	prydz bay	1
+elephant island	ross island	1
+elephant island	ross sea	4
+elephant island	scotia sea	19
+elephant island	seal island	3
+elephant island	shag rocks	2
+elephant island	signy island	2
+elephant island	smith island	4
+elephant island	snow island	1
+elephant island	south orkney islands	14
+elephant island	south shetland islands	68
+elephant island	southern ocean	36
+elephant island	southern thule	1
+elephant island	weddell sea	24
+elephant island	west antarctica	2
+ellsworth land	enderby land	1
+ellsworth land	james ross island	1
+ellsworth land	kamb ice stream	1
+ellsworth land	marguerite bay	1
+ellsworth land	marie byrd land	4
+ellsworth land	palmer land	3
+ellsworth land	peter i island	1
+ellsworth land	pine island bay	1
+ellsworth land	pine island glacier	3
+ellsworth land	queen maud land	2
+ellsworth land	ross sea	1
+ellsworth land	south orkney islands	1
+ellsworth land	thwaites glacier	2
+ellsworth land	transantarctic mountains	2
+ellsworth land	weddell sea	3
+ellsworth land	west antarctic ice sheet	4
+ellsworth land	west antarctica	13
+ellsworth land	wilkes land	2
+enderby land	george v land	1
+enderby land	kamb ice stream	2
+enderby land	kemp land	3
+enderby land	lutzow-holm bay	5
+enderby land	mac robertson land	6
+enderby land	marguerite bay	1
+enderby land	marie byrd land	1
+enderby land	mcintyre island	1
+enderby land	mcmurdo dry valleys	1
+enderby land	pine island glacier	1
+enderby land	princess elizabeth land	2
+enderby land	prydz bay	4
+enderby land	queen mary land	1
+enderby land	queen maud land	17
+enderby land	rauer islands	1
+enderby land	ross ice shelf	1
+enderby land	ross island	1
+enderby land	ross sea	3
+enderby land	scotia sea	2
+enderby land	shirase glacier	1
+enderby land	south shetland islands	2
+enderby land	southern ocean	6
+enderby land	tonagh island	2
+enderby land	transantarctic mountains	3
+enderby land	vestfold hills	2
+enderby land	victoria land	3
+enderby land	weddell sea	3
+enderby land	west antarctic ice sheet	1
+enderby land	west antarctica	6
+enderby land	west ice shelf	1
+enderby land	wilkes land	9
+erebus bay	mcmurdo dry valleys	1
+erebus bay	mcmurdo ice shelf	1
+erebus bay	mcmurdo sound	7
+erebus bay	ross island	1
+erebus bay	ross sea	1
+erebus bay	southern ocean	2
+erebus bay	weddell sea	19
+ferrar glacier	lambert glacier	1
+ferrar glacier	mcmurdo dry valleys	1
+ferrar glacier	mcmurdo ice shelf	1
+ferrar glacier	mcmurdo sound	3
+ferrar glacier	ross ice shelf	3
+ferrar glacier	ross island	1
+ferrar glacier	ross sea	4
+ferrar glacier	taylor glacier	1
+ferrar glacier	taylor valley	2
+ferrar glacier	transantarctic mountains	4
+ferrar glacier	victoria land	5
+ferrar glacier	west antarctic ice sheet	1
+fildes peninsula	king george island	75
+fildes peninsula	laurie island	1
+fildes peninsula	livingston island	1
+fildes peninsula	maxwell bay_antarctic	4
+fildes peninsula	mcmurdo ice shelf	1
+fildes peninsula	nelson island	1
+fildes peninsula	palmer archipelago	1
+fildes peninsula	potter peninsula	1
+fildes peninsula	robert island	1
+fildes peninsula	south orkney islands	1
+fildes peninsula	south shetland islands	24
+fildes peninsula	southern ocean	2
+fildes peninsula	weddell sea	1
+fildes peninsula	west antarctica	9
+fimbul ice shelf	jutulstraumen glacier	1
+fimbul ice shelf	queen maud land	8
+fimbul ice shelf	southern ocean	3
+fimbul ice shelf	weddell sea	9
+flandres bay	gerlache strait	1
+foundation ice stream	institute ice stream	1
+foundation ice stream	kamb ice stream	1
+foundation ice stream	moller ice stream	1
+foundation ice stream	ross sea	1
+foundation ice stream	rutford ice stream	2
+foundation ice stream	slessor glacier	2
+foundation ice stream	southern ocean	1
+foundation ice stream	transantarctic mountains	1
+foundation ice stream	weddell sea	7
+foundation ice stream	west antarctic ice sheet	4
+foundation ice stream	west antarctica	2
+foundation ice stream	whillans ice stream	1
+galindez island	ryder bay	1
+galindez island	south shetland islands	1
+galindez island	west antarctica	1
+galindez island	wilhelm archipelago	1
+george v land	kerguelen islands	1
+george v land	larsen ice shelf	1
+george v land	mac robertson land	1
+george v land	macquarie island	1
+george v land	marie byrd land	1
+george v land	mertz glacier	13
+george v land	oates land	3
+george v land	prydz bay	2
+george v land	queen maud land	2
+george v land	ross sea	4
+george v land	south orkney islands	1
+george v land	south shetland islands	1
+george v land	southern ocean	6
+george v land	transantarctic mountains	1
+george v land	victoria land	3
+george v land	weddell sea	2
+george v land	west antarctica	3
+george v land	wilkes land	6
+george vi ice shelf	larsen ice shelf	3
+george vi ice shelf	marguerite bay	3
+george vi ice shelf	palmer land	4
+george vi ice shelf	rutford ice stream	1
+george vi ice shelf	west antarctica	1
+george vi ice shelf	whillans ice stream	1
+george vi ice shelf	wilkins ice shelf	2
+gerlache strait	king george island	1
+gerlache strait	livingston island	4
+gerlache strait	marguerite bay	2
+gerlache strait	palmer archipelago	1
+gerlache strait	peter i island	1
+gerlache strait	ross sea	3
+gerlache strait	scotia sea	1
+gerlache strait	smith island	1
+gerlache strait	snow island	1
+gerlache strait	south shetland islands	6
+gerlache strait	southern ocean	17
+gerlache strait	trinity peninsula	1
+gerlache strait	weddell sea	12
+getz ice shelf	marguerite bay	1
+getz ice shelf	marie byrd land	3
+getz ice shelf	pine island glacier	2
+getz ice shelf	ross ice shelf	1
+getz ice shelf	ross sea	1
+getz ice shelf	southern ocean	2
+getz ice shelf	thwaites glacier	3
+getz ice shelf	weddell sea	1
+getz ice shelf	west antarctic ice sheet	5
+getz ice shelf	west antarctica	7
+gibbs island	smith island	1
+gibbs island	south shetland islands	2
+gibbs island	west antarctica	1
+graham land	hope bay	1
+graham land	horseshoe island	1
+graham land	hurd peninsula	1
+graham land	james ross island	1
+graham land	jason peninsula	1
+graham land	lambert glacier	1
+graham land	larsen ice shelf	2
+graham land	marguerite bay	1
+graham land	muller ice shelf	1
+graham land	palmer land	5
+graham land	ryder bay	1
+graham land	seymour island	1
+graham land	south orkney islands	1
+graham land	south shetland islands	2
+graham land	stonington island	1
+graham land	trinity peninsula	7
+graham land	weddell sea	1
+graham land	wordie ice shelf	1
+greenwich island	south shetland islands	7
+greenwich island	union glacier	1
+hatherton glacier	marie byrd land	1
+hatherton glacier	rennick glacier	1
+hatherton glacier	ross ice shelf	2
+hatherton glacier	ross island	1
+hatherton glacier	ross sea	3
+hatherton glacier	siple dome	1
+hatherton glacier	taylor valley	1
+hatherton glacier	terra nova bay	1
+hatherton glacier	transantarctic mountains	5
+hatherton glacier	west antarctic ice sheet	1
+hatherton glacier	west antarctica	1
+hop island	king george island	1
+hop island	rauer islands	1
+hop island	vestfold hills	1
+hope bay	king george island	4
+hope bay	laurie island	1
+hope bay	marie byrd land	1
+hope bay	nelson island	1
+hope bay	potter cove	1
+hope bay	potter peninsula	5
+hope bay	prince gustav channel	1
+hope bay	ross sea	1
+hope bay	scotia sea	1
+hope bay	seymour island	1
+hope bay	south orkney islands	3
+hope bay	south shetland islands	7
+hope bay	tabarin peninsula	1
+hope bay	thurston island	1
+hope bay	trinity peninsula	1
+hope bay	weddell sea	7
+horseshoe island	marguerite bay	2
+horseshoe island	stonington island	1
+horseshoe island	trinity peninsula	1
+hurd peninsula	king george island	2
+hurd peninsula	livingston island	18
+hurd peninsula	penguin island	1
+hurd peninsula	south shetland islands	15
+hurd peninsula	trinity peninsula	1
+hurd peninsula	west antarctica	1
+ile aux cochons	ile de la possession	1
+ile de la possession	kerguelen islands	1
+ile de la possession	macquarie island	1
+ile de la possession	marion island	2
+ile de la possession	palmer archipelago	1
+ile de la possession	prince edward islands	2
+ile de la possession	southern ocean	2
+inaccessible island	mcmurdo sound	1
+inaccessible island	ross sea	1
+institute ice stream	lake whillans	2
+institute ice stream	moller ice stream	2
+institute ice stream	pine island glacier	1
+institute ice stream	ross ice shelf	1
+institute ice stream	slessor glacier	1
+institute ice stream	weddell sea	2
+institute ice stream	west antarctic ice sheet	4
+institute ice stream	west antarctica	7
+institute ice stream	whillans ice stream	1
+james ross island	jason peninsula	1
+james ross island	king george island	6
+james ross island	larsen ice shelf	1
+james ross island	livingston island	8
+james ross island	mcmurdo dry valleys	1
+james ross island	mcmurdo sound	1
+james ross island	paulet island	1
+james ross island	prince gustav channel	10
+james ross island	queen maud land	1
+james ross island	robert island	1
+james ross island	ross archipelago	2
+james ross island	seymour island	12
+james ross island	signy island	4
+james ross island	snow hill island	11
+james ross island	sobral peninsula	1
+james ross island	south orkney islands	1
+james ross island	south shetland islands	16
+james ross island	southern ocean	3
+james ross island	tabarin peninsula	2
+james ross island	trinity peninsula	5
+james ross island	ulu peninsula	13
+james ross island	vega island	19
+james ross island	weddell sea	19
+james ross island	west antarctica	7
+jason peninsula	larsen ice shelf	2
+jason peninsula	seymour island	1
+jutulstraumen glacier	queen maud land	3
+kaiser wilhelm ii land	kemp land	1
+kaiser wilhelm ii land	lambert glacier	1
+kaiser wilhelm ii land	princess elizabeth land	1
+kaiser wilhelm ii land	prydz bay	1
+kaiser wilhelm ii land	transantarctic mountains	1
+kaiser wilhelm ii land	west antarctica	1
+kaiser wilhelm ii land	west ice shelf	1
+kamb ice stream	lake vostok	1
+kamb ice stream	lambert glacier	1
+kamb ice stream	macayeal ice stream	4
+kamb ice stream	moller ice stream	1
+kamb ice stream	pine island glacier	1
+kamb ice stream	ross ice shelf	11
+kamb ice stream	ross sea	5
+kamb ice stream	siple dome	8
+kamb ice stream	southern ocean	1
+kamb ice stream	thwaites glacier	1
+kamb ice stream	transantarctic mountains	1
+kamb ice stream	weddell sea	1
+kamb ice stream	west antarctic ice sheet	21
+kamb ice stream	west antarctica	59
+kamb ice stream	whillans ice stream	28
+kamb ice stream	wilkes land	1
+kemp land	mac robertson land	5
+kemp land	oygarden group	3
+kemp land	pine island glacier	1
+kemp land	princess elizabeth land	1
+kemp land	prydz bay	1
+kemp land	queen maud land	1
+kemp land	southern ocean	1
+kemp land	vestfold hills	1
+kerguelen islands	macquarie island	3
+kerguelen islands	marion island	3
+kerguelen islands	palmer archipelago	2
+kerguelen islands	prince edward islands	4
+kerguelen islands	prydz bay	2
+kerguelen islands	ross sea	1
+kerguelen islands	south orkney islands	1
+kerguelen islands	south shetland islands	3
+kerguelen islands	southern ocean	64
+kerguelen islands	weddell sea	1
+kerguelen islands	west antarctica	2
+king george island	larsen ice shelf	1
+king george island	livingston island	14
+king george island	macquarie island	2
+king george island	marguerite bay	2
+king george island	marian cove	17
+king george island	marion island	1
+king george island	maxwell bay_antarctic	45
+king george island	mcmurdo ice shelf	1
+king george island	mcmurdo sound	2
+king george island	nelson island	4
+king george island	palmer archipelago	1
+king george island	penguin island	7
+king george island	potter cove	84
+king george island	potter peninsula	24
+king george island	robert island	3
+king george island	ross ice shelf	2
+king george island	ross sea	7
+king george island	scotia sea	9
+king george island	seymour island	5
+king george island	signy island	6
+king george island	smith island	1
+king george island	sorsdal glacier	1
+king george island	south bay_antarctic	1
+king george island	south orkney islands	9
+king george island	south shetland islands	355
+king george island	southern ocean	47
+king george island	terra nova bay	2
+king george island	transantarctic mountains	2
+king george island	trinity peninsula	2
+king george island	ulu peninsula	1
+king george island	vega island	1
+king george island	vestfold hills	2
+king george island	weddell sea	28
+king george island	west antarctica	80
+king george island	windmill islands	1
+lake vostok	lake whillans	2
+lake vostok	lambert glacier	1
+lake vostok	marie byrd land	1
+lake vostok	mcmurdo dry valleys	1
+lake vostok	pine island glacier	1
+lake vostok	prydz bay	1
+lake vostok	queen maud land	2
+lake vostok	ross ice shelf	1
+lake vostok	ross sea	1
+lake vostok	southern ocean	1
+lake vostok	totten glacier	2
+lake vostok	transantarctic mountains	1
+lake vostok	victoria land	2
+lake vostok	west antarctic ice sheet	1
+lake vostok	west antarctica	1
+lake whillans	marie byrd land	2
+lake whillans	roosevelt island	1
+lake whillans	ross ice shelf	1
+lake whillans	ross sea	1
+lake whillans	siple dome	1
+lake whillans	southern ocean	2
+lake whillans	west antarctic ice sheet	7
+lake whillans	west antarctica	15
+lake whillans	whillans ice stream	11
+lambert glacier	lutzow-holm bay	1
+lambert glacier	mac robertson land	1
+lambert glacier	marie byrd land	2
+lambert glacier	moller ice stream	1
+lambert glacier	pine island glacier	1
+lambert glacier	princess elizabeth land	3
+lambert glacier	prydz bay	16
+lambert glacier	queen maud land	5
+lambert glacier	rauer islands	1
+lambert glacier	ross ice shelf	1
+lambert glacier	ross sea	3
+lambert glacier	rutford ice stream	1
+lambert glacier	southern ocean	3
+lambert glacier	transantarctic mountains	3
+lambert glacier	vestfold hills	4
+lambert glacier	victoria land	4
+lambert glacier	weddell sea	2
+lambert glacier	west antarctica	3
+lambert glacier	west ice shelf	1
+larsen ice shelf	marguerite bay	2
+larsen ice shelf	muller ice shelf	1
+larsen ice shelf	palmer land	2
+larsen ice shelf	prince gustav channel	4
+larsen ice shelf	prydz bay	1
+larsen ice shelf	riiser-larsen ice shelf	2
+larsen ice shelf	ross ice shelf	3
+larsen ice shelf	ross sea	2
+larsen ice shelf	rutford ice stream	1
+larsen ice shelf	shackleton ice shelf	1
+larsen ice shelf	south orkney islands	2
+larsen ice shelf	south shetland islands	2
+larsen ice shelf	southern ocean	5
+larsen ice shelf	thwaites glacier	1
+larsen ice shelf	transantarctic mountains	1
+larsen ice shelf	weddell sea	33
+larsen ice shelf	west antarctic ice sheet	1
+larsen ice shelf	west antarctica	4
+larsen ice shelf	west ice shelf	1
+larsen ice shelf	whillans ice stream	1
+larsen ice shelf	wilkins ice shelf	4
+larsen ice shelf	wordie ice shelf	1
+laurie island	macquarie island	1
+laurie island	mossman peninsula	1
+laurie island	nelson island	1
+laurie island	potter peninsula	1
+laurie island	ross sea	1
+laurie island	signy island	1
+laurie island	south orkney islands	23
+laurie island	south shetland islands	3
+laurie island	weddell sea	6
+lazarev sea	marguerite bay	1
+lazarev sea	prince edward islands	1
+lazarev sea	prydz bay	2
+lazarev sea	queen maud land	4
+lazarev sea	ross sea	4
+lazarev sea	scotia sea	2
+lazarev sea	southern ocean	25
+lazarev sea	weddell sea	23
+livingston island	marguerite bay	2
+livingston island	marion island	1
+livingston island	maxwell bay_antarctic	1
+livingston island	mcmurdo dry valleys	2
+livingston island	mcmurdo ice shelf	1
+livingston island	penguin island	1
+livingston island	robert island	1
+livingston island	ross sea	2
+livingston island	scotia sea	10
+livingston island	shag rocks	1
+livingston island	signy island	7
+livingston island	smith island	4
+livingston island	snow island	2
+livingston island	south bay_antarctic	6
+livingston island	south orkney islands	4
+livingston island	south shetland islands	161
+livingston island	southern ocean	10
+livingston island	southern thule	1
+livingston island	trinity peninsula	3
+livingston island	ulu peninsula	1
+livingston island	victoria land	2
+livingston island	walker bay	2
+livingston island	weddell sea	10
+livingston island	west antarctica	6
+livingston island	whalers bay	1
+lutzow-holm bay	prydz bay	4
+lutzow-holm bay	queen maud land	8
+lutzow-holm bay	ross sea	1
+lutzow-holm bay	shirase glacier	3
+lutzow-holm bay	southern ocean	14
+lutzow-holm bay	transantarctic mountains	1
+lutzow-holm bay	west ice shelf	1
+lutzow-holm bay	wilkes land	1
+mac robertson land	oygarden group	1
+mac robertson land	princess elizabeth land	4
+mac robertson land	prydz bay	8
+mac robertson land	queen maud land	1
+mac robertson land	rauer islands	1
+mac robertson land	ross sea	1
+mac robertson land	southern ocean	3
+mac robertson land	vestfold hills	2
+mac robertson land	victoria land	1
+mac robertson land	weddell sea	2
+mac robertson land	west antarctic ice sheet	1
+mac robertson land	west ice shelf	1
+mac robertson land	wilkes land	1
+macayeal ice stream	ross ice shelf	2
+macayeal ice stream	ross sea	1
+macayeal ice stream	rutford ice stream	1
+macayeal ice stream	west antarctic ice sheet	2
+macayeal ice stream	west antarctica	7
+macayeal ice stream	whillans ice stream	4
+macquarie island	marion island	14
+macquarie island	mcmurdo sound	2
+macquarie island	mertz glacier	1
+macquarie island	prince edward islands	1
+macquarie island	prydz bay	1
+macquarie island	ross dependency	1
+macquarie island	ross sea	5
+macquarie island	shag rocks	1
+macquarie island	signy island	1
+macquarie island	south orkney islands	3
+macquarie island	south shetland islands	4
+macquarie island	southern ocean	56
+macquarie island	terra nova bay	1
+macquarie island	vestfold hills	1
+macquarie island	victoria land	2
+macquarie island	weddell sea	4
+macquarie island	west antarctica	3
+macquarie island	windmill islands	2
+marguerite bay	mcmurdo sound	3
+marguerite bay	muller ice shelf	1
+marguerite bay	palmer land	1
+marguerite bay	pine island bay	2
+marguerite bay	ross sea	5
+marguerite bay	ryder bay	10
+marguerite bay	scotia sea	2
+marguerite bay	smith island	1
+marguerite bay	south orkney islands	3
+marguerite bay	south shetland islands	6
+marguerite bay	southern ocean	48
+marguerite bay	terra nova bay	2
+marguerite bay	thwaites glacier	2
+marguerite bay	victoria land	2
+marguerite bay	weddell sea	5
+marguerite bay	west antarctic ice sheet	3
+marguerite bay	west antarctica	6
+marguerite bay	wordie ice shelf	4
+marian cove	maxwell bay_antarctic	6
+marian cove	potter cove	2
+marian cove	south shetland islands	6
+marian cove	southern ocean	2
+marian cove	west antarctica	5
+marie byrd land	mcmurdo dry valleys	2
+marie byrd land	mcmurdo sound	2
+marie byrd land	palmer land	2
+marie byrd land	peter i island	2
+marie byrd land	pine island bay	6
+marie byrd land	pine island glacier	7
+marie byrd land	prydz bay	2
+marie byrd land	queen maud land	4
+marie byrd land	roosevelt island	1
+marie byrd land	ross ice shelf	16
+marie byrd land	ross island	9
+marie byrd land	ross sea	48
+marie byrd land	shackleton glacier	1
+marie byrd land	siple dome	6
+marie byrd land	south orkney islands	1
+marie byrd land	south shetland islands	3
+marie byrd land	southern ocean	8
+marie byrd land	terra nova bay	3
+marie byrd land	thurston island	16
+marie byrd land	thwaites glacier	6
+marie byrd land	transantarctic mountains	28
+marie byrd land	trinity peninsula	1
+marie byrd land	vestfold hills	1
+marie byrd land	victoria land	25
+marie byrd land	weddell sea	10
+marie byrd land	west antarctic ice sheet	37
+marie byrd land	west antarctica	109
+marie byrd land	whillans ice stream	1
+marie byrd land	wilkes land	2
+marion island	maxwell bay_antarctic	1
+marion island	palmer archipelago	1
+marion island	petermann island	1
+marion island	prince edward islands	74
+marion island	south orkney islands	1
+marion island	south shetland islands	2
+marion island	southern ocean	69
+marion island	vestfold hills	1
+mawson sea	ross sea	1
+mawson sea	terra nova bay	1
+mawson sea	weddell sea	1
+maxwell bay_antarctic	nelson island	1
+maxwell bay_antarctic	potter cove	1
+maxwell bay_antarctic	robert island	1
+maxwell bay_antarctic	ross sea	1
+maxwell bay_antarctic	south shetland islands	21
+maxwell bay_antarctic	southern ocean	3
+maxwell bay_antarctic	west antarctica	8
+mcmurdo dry valleys	mcmurdo ice shelf	5
+mcmurdo dry valleys	mcmurdo sound	24
+mcmurdo dry valleys	queen maud land	1
+mcmurdo dry valleys	ross ice shelf	4
+mcmurdo dry valleys	ross island	12
+mcmurdo dry valleys	ross sea	32
+mcmurdo dry valleys	shackleton glacier	1
+mcmurdo dry valleys	signy island	1
+mcmurdo dry valleys	south shetland islands	2
+mcmurdo dry valleys	southern ocean	7
+mcmurdo dry valleys	taylor glacier	22
+mcmurdo dry valleys	taylor valley	111
+mcmurdo dry valleys	terra nova bay	2
+mcmurdo dry valleys	transantarctic mountains	26
+mcmurdo dry valleys	vestfold hills	9
+mcmurdo dry valleys	victoria land	55
+mcmurdo dry valleys	west antarctic ice sheet	3
+mcmurdo dry valleys	west antarctica	4
+mcmurdo ice shelf	mcmurdo sound	29
+mcmurdo ice shelf	roosevelt island	1
+mcmurdo ice shelf	ross ice shelf	13
+mcmurdo ice shelf	ross island	14
+mcmurdo ice shelf	ross sea	27
+mcmurdo ice shelf	south shetland islands	2
+mcmurdo ice shelf	southern ocean	5
+mcmurdo ice shelf	taylor valley	1
+mcmurdo ice shelf	transantarctic mountains	5
+mcmurdo ice shelf	victoria land	8
+mcmurdo ice shelf	west antarctic ice sheet	1
+mcmurdo ice shelf	west antarctica	1
+mcmurdo sound	potter cove	1
+mcmurdo sound	ross dependency	2
+mcmurdo sound	ross ice shelf	22
+mcmurdo sound	ross island	40
+mcmurdo sound	ross sea	129
+mcmurdo sound	salmon bay	2
+mcmurdo sound	seymour island	1
+mcmurdo sound	signy island	1
+mcmurdo sound	south shetland islands	4
+mcmurdo sound	southern ocean	26
+mcmurdo sound	taylor glacier	2
+mcmurdo sound	taylor valley	18
+mcmurdo sound	terra nova bay	14
+mcmurdo sound	transantarctic mountains	25
+mcmurdo sound	vestfold hills	7
+mcmurdo sound	victoria land	50
+mcmurdo sound	weddell sea	67
+mcmurdo sound	west antarctic ice sheet	11
+mcmurdo sound	west antarctica	8
+mcmurdo sound	winter quarters bay	6
+mcmurdo sound	wood bay	2
+mertz glacier	prydz bay	1
+mertz glacier	ross ice shelf	2
+mertz glacier	ross sea	3
+mertz glacier	southern ocean	11
+mertz glacier	terra nova bay	1
+mertz glacier	victoria land	1
+mertz glacier	weddell sea	1
+mertz glacier	west antarctica	1
+mertz glacier	wilkes land	1
+mitchell peninsula	windmill islands	2
+moller ice stream	pine island glacier	1
+moller ice stream	weddell sea	4
+moller ice stream	west antarctic ice sheet	2
+moller ice stream	west antarctica	6
+montagu island	saunders island	1
+montagu island	scotia sea	1
+montagu island	southern ocean	1
+montagu island	southern thule	1
+mossman peninsula	south orkney islands	2
+mossman peninsula	south shetland islands	1
+muller ice shelf	wordie ice shelf	1
+nansen ice sheet	priestley glacier	5
+nansen ice sheet	ross sea	4
+nansen ice sheet	terra nova bay	7
+nansen ice sheet	transantarctic mountains	1
+nansen ice sheet	victoria land	3
+nelson island	potter cove	2
+nelson island	south orkney islands	1
+nelson island	south shetland islands	27
+nelson island	weddell sea	1
+nelson island	west antarctica	3
+nelson island	windmill islands	1
+oates land	ross ice shelf	2
+oates land	ross sea	3
+oates land	scotia sea	1
+oates land	southern ocean	1
+oates land	victoria land	5
+oates land	west antarctic ice sheet	1
+oates land	west antarctica	2
+oates land	wilkes land	1
+palmer archipelago	prince edward islands	4
+palmer archipelago	ross island	1
+palmer archipelago	ross sea	2
+palmer archipelago	scotia sea	2
+palmer archipelago	south bay_antarctic	1
+palmer archipelago	south orkney islands	1
+palmer archipelago	south shetland islands	6
+palmer archipelago	southern ocean	4
+palmer archipelago	weddell sea	2
+palmer land	pine island bay	1
+palmer land	southern ocean	3
+palmer land	thurston island	1
+palmer land	trinity peninsula	1
+palmer land	weddell sea	7
+palmer land	west antarctic ice sheet	3
+palmer land	west antarctica	6
+paulet island	prince gustav channel	1
+paulet island	tabarin peninsula	1
+paulet island	zavodovski island	1
+penguin island	scotia sea	1
+penguin island	south shetland islands	9
+penguin island	weddell sea	2
+penguin island	west antarctica	4
+peter i island	scotia sea	1
+peter i island	south orkney islands	1
+peter i island	south shetland islands	1
+peter i island	southern ocean	7
+peter i island	victoria land	1
+peter i island	weddell sea	1
+peter i island	west antarctica	4
+petermann island	potter cove	1
+petermann island	south shetland islands	1
+pine island bay	pine island glacier	19
+pine island bay	ross ice shelf	2
+pine island bay	ross sea	11
+pine island bay	scotia sea	2
+pine island bay	shag rocks	1
+pine island bay	south orkney islands	1
+pine island bay	south shetland islands	2
+pine island bay	southern ocean	10
+pine island bay	southern thule	1
+pine island bay	thurston island	5
+pine island bay	thwaites glacier	10
+pine island bay	totten glacier	1
+pine island bay	transantarctic mountains	2
+pine island bay	weddell sea	5
+pine island bay	west antarctic ice sheet	19
+pine island bay	west antarctica	37
+pine island glacier	queen maud land	3
+pine island glacier	ross ice shelf	3
+pine island glacier	ross sea	8
+pine island glacier	rutford ice stream	1
+pine island glacier	southern ocean	6
+pine island glacier	thurston island	1
+pine island glacier	thwaites glacier	26
+pine island glacier	totten glacier	4
+pine island glacier	transantarctic mountains	1
+pine island glacier	weddell sea	1
+pine island glacier	west antarctic ice sheet	38
+pine island glacier	west antarctica	85
+pine island glacier	wilkins ice shelf	1
+pingvin island	ross sea	1
+pingvin island	west ice shelf	2
+potter cove	potter peninsula	1
+potter cove	scotia sea	1
+potter cove	south shetland islands	67
+potter cove	southern ocean	12
+potter cove	weddell sea	2
+potter cove	west antarctica	4
+potter peninsula	signy island	1
+potter peninsula	south orkney islands	1
+potter peninsula	south shetland islands	12
+potter peninsula	southern ocean	1
+potter peninsula	weddell sea	2
+priestley glacier	queen maud land	1
+priestley glacier	ross sea	1
+priestley glacier	terra nova bay	4
+priestley glacier	transantarctic mountains	4
+priestley glacier	victoria land	1
+prince edward islands	ross sea	2
+prince edward islands	southern ocean	57
+prince gustav channel	seymour island	1
+prince gustav channel	snow hill island	1
+prince gustav channel	south orkney islands	1
+prince gustav channel	south shetland islands	1
+prince gustav channel	southern ocean	1
+prince gustav channel	tabarin peninsula	1
+prince gustav channel	ulu peninsula	1
+prince gustav channel	weddell sea	8
+princess elizabeth land	prydz bay	7
+princess elizabeth land	queen maud land	3
+princess elizabeth land	ross sea	2
+princess elizabeth land	southern ocean	2
+princess elizabeth land	stornes peninsula	1
+princess elizabeth land	vestfold hills	10
+princess elizabeth land	west antarctica	1
+princess elizabeth land	west ice shelf	1
+princess elizabeth land	wilkes land	2
+prydz bay	queen maud land	2
+prydz bay	rauer islands	6
+prydz bay	ross ice shelf	1
+prydz bay	ross sea	28
+prydz bay	scotia sea	3
+prydz bay	signy island	1
+prydz bay	sorsdal glacier	2
+prydz bay	south orkney islands	1
+prydz bay	south shetland islands	1
+prydz bay	southern ocean	79
+prydz bay	stornes peninsula	2
+prydz bay	terra nova bay	1
+prydz bay	transantarctic mountains	2
+prydz bay	vestfold hills	20
+prydz bay	victoria land	1
+prydz bay	weddell sea	23
+prydz bay	west antarctica	4
+prydz bay	west ice shelf	2
+prydz bay	wilkes land	8
+queen mary land	queen maud land	1
+queen mary land	ross dependency	1
+queen mary land	scotia sea	1
+queen mary land	southern ocean	1
+queen mary land	wilkes land	1
+queen maud land	riiser-larsen ice shelf	2
+queen maud land	ross dependency	1
+queen maud land	ross ice shelf	2
+queen maud land	ross island	1
+queen maud land	ross sea	10
+queen maud land	scotia sea	2
+queen maud land	shirase glacier	3
+queen maud land	siple dome	1
+queen maud land	south orkney islands	4
+queen maud land	south shetland islands	4
+queen maud land	southern ocean	26
+queen maud land	terra nova bay	1
+queen maud land	totten glacier	1
+queen maud land	transantarctic mountains	19
+queen maud land	union glacier	1
+queen maud land	vestfold hills	1
+queen maud land	victoria land	21
+queen maud land	weddell sea	35
+queen maud land	west antarctic ice sheet	6
+queen maud land	west antarctica	26
+queen maud land	wilkes land	14
+rauer islands	vestfold hills	9
+rauer islands	windmill islands	1
+reedy glacier	ross sea	1
+reedy glacier	shackleton glacier	2
+reedy glacier	transantarctic mountains	4
+reedy glacier	victoria land	1
+reedy glacier	west antarctic ice sheet	1
+reedy glacier	west antarctica	1
+rennick glacier	roosevelt island	1
+rennick glacier	ross sea	4
+rennick glacier	taylor valley	1
+rennick glacier	terra nova bay	2
+rennick glacier	transantarctic mountains	2
+rennick glacier	victoria land	7
+rennick glacier	west antarctica	1
+riiser-larsen ice shelf	southern ocean	1
+riiser-larsen ice shelf	weddell sea	2
+robert island	signy island	1
+robert island	south orkney islands	1
+robert island	south shetland islands	9
+robert island	trinity peninsula	1
+roosevelt island	ross ice shelf	7
+roosevelt island	ross sea	12
+roosevelt island	shackleton glacier	1
+roosevelt island	siple dome	3
+roosevelt island	southern ocean	2
+roosevelt island	victoria land	1
+roosevelt island	weddell sea	1
+roosevelt island	west antarctic ice sheet	5
+roosevelt island	west antarctica	6
+ross archipelago	seymour island	1
+ross archipelago	snow hill island	1
+ross archipelago	tabarin peninsula	1
+ross archipelago	vega island	3
+ross dependency	ross island	2
+ross dependency	ross sea	2
+ross dependency	scotia sea	1
+ross dependency	snares islands	1
+ross dependency	south shetland islands	1
+ross dependency	southern ocean	2
+ross dependency	taylor valley	4
+ross dependency	transantarctic mountains	1
+ross dependency	victoria land	7
+ross dependency	weddell sea	1
+ross ice shelf	ross island	36
+ross ice shelf	ross sea	145
+ross ice shelf	shackleton ice shelf	1
+ross ice shelf	siple dome	3
+ross ice shelf	slessor glacier	1
+ross ice shelf	south shetland islands	1
+ross ice shelf	southern ocean	27
+ross ice shelf	terra nova bay	23
+ross ice shelf	thwaites glacier	3
+ross ice shelf	transantarctic mountains	37
+ross ice shelf	victoria land	18
+ross ice shelf	weddell sea	10
+ross ice shelf	west antarctic ice sheet	37
+ross ice shelf	west antarctica	47
+ross ice shelf	west ice shelf	1
+ross ice shelf	whillans ice stream	17
+ross ice shelf	wilkes land	2
+ross ice shelf	wilkins ice shelf	1
+ross island	ross sea	90
+ross island	signy island	1
+ross island	siple dome	1
+ross island	snow hill island	1
+ross island	south shetland islands	1
+ross island	southern ocean	14
+ross island	stonington island	1
+ross island	taylor glacier	2
+ross island	taylor valley	7
+ross island	terra nova bay	9
+ross island	transantarctic mountains	27
+ross island	vestfold hills	3
+ross island	victoria land	31
+ross island	weddell sea	7
+ross island	west antarctic ice sheet	12
+ross island	west antarctica	12
+ross island	wilkes land	1
+ross island	winter quarters bay	2
+ross sea	scotia sea	13
+ross sea	scott glacier	1
+ross sea	scott island	6
+ross sea	seymour island	2
+ross sea	shackleton glacier	1
+ross sea	shag rocks	2
+ross sea	siple dome	5
+ross sea	snares islands	2
+ross sea	somov sea	3
+ross sea	sorsdal glacier	1
+ross sea	south orkney islands	3
+ross sea	south shetland islands	17
+ross sea	southern ocean	403
+ross sea	taylor glacier	7
+ross sea	taylor valley	22
+ross sea	terra nova bay	280
+ross sea	thurston island	4
+ross sea	thwaites glacier	5
+ross sea	transantarctic mountains	108
+ross sea	tucker glacier	2
+ross sea	vestfold hills	5
+ross sea	victoria land	204
+ross sea	weddell sea	238
+ross sea	west antarctic ice sheet	91
+ross sea	west antarctica	139
+ross sea	west ice shelf	3
+ross sea	whillans ice stream	7
+ross sea	wilkes land	18
+ross sea	winter quarters bay	1
+ross sea	wood bay	8
+rutford ice stream	west antarctic ice sheet	2
+rutford ice stream	west antarctica	26
+rutford ice stream	whillans ice stream	2
+ryder bay	southern ocean	11
+saunders island	scotia sea	1
+saunders island	southern ocean	1
+scotia sea	seymour island	1
+scotia sea	shag rocks	7
+scotia sea	signy island	2
+scotia sea	smith island	1
+scotia sea	south orkney islands	22
+scotia sea	south shetland islands	36
+scotia sea	southern ocean	169
+scotia sea	southern thule	2
+scotia sea	weddell sea	122
+scotia sea	west antarctic ice sheet	1
+scotia sea	west antarctica	7
+scotia sea	wilkes land	2
+scotia sea	zavodovski island	1
+scott glacier	shackleton glacier	1
+scott glacier	transantarctic mountains	5
+scott glacier	victoria land	4
+scott glacier	west antarctic ice sheet	1
+scott glacier	west antarctica	2
+scott island	southern ocean	3
+seal island	south shetland islands	5
+seymour island	snow hill island	6
+seymour island	south shetland islands	2
+seymour island	southern ocean	14
+seymour island	trinity peninsula	1
+seymour island	ulu peninsula	1
+seymour island	vega island	10
+seymour island	weddell sea	6
+seymour island	west antarctica	14
+shackleton glacier	transantarctic mountains	12
+shackleton glacier	victoria land	1
+shackleton glacier	west antarctica	2
+shackleton ice shelf	transantarctic mountains	1
+shackleton ice shelf	west ice shelf	1
+shag rocks	south orkney islands	3
+shag rocks	south shetland islands	4
+shag rocks	southern ocean	22
+shag rocks	southern thule	2
+shag rocks	weddell sea	3
+shag rocks	west antarctic ice sheet	1
+signy island	south orkney islands	79
+signy island	south shetland islands	12
+signy island	southern ocean	14
+signy island	trinity peninsula	1
+signy island	vestfold hills	2
+signy island	victoria land	1
+signy island	weddell sea	6
+siple dome	southern ocean	3
+siple dome	terra nova bay	1
+siple dome	transantarctic mountains	1
+siple dome	weddell sea	2
+siple dome	west antarctic ice sheet	14
+siple dome	west antarctica	43
+siple dome	whillans ice stream	2
+slessor glacier	weddell sea	2
+slessor glacier	whillans ice stream	1
+smith island	south shetland islands	6
+smith island	southern ocean	1
+snares islands	southern ocean	5
+snares islands	victoria land	1
+snow hill island	southern ocean	1
+snow hill island	stonington island	1
+snow hill island	vega island	11
+snow hill island	weddell sea	3
+snow island	south shetland islands	2
+somov sea	southern ocean	2
+somov sea	weddell sea	1
+sorsdal glacier	south shetland islands	1
+sorsdal glacier	vestfold hills	5
+south bay_antarctic	south shetland islands	3
+south orkney islands	south shetland islands	50
+south orkney islands	southern ocean	40
+south orkney islands	southern thule	1
+south orkney islands	transantarctic mountains	2
+south orkney islands	trinity peninsula	1
+south orkney islands	victoria land	1
+south orkney islands	weddell sea	33
+south orkney islands	west antarctica	4
+south shetland islands	southern ocean	112
+south shetland islands	terra nova bay	3
+south shetland islands	thurston island	1
+south shetland islands	transantarctic mountains	3
+south shetland islands	trinity peninsula	6
+south shetland islands	ulu peninsula	2
+south shetland islands	vega island	2
+south shetland islands	vestfold hills	2
+south shetland islands	victoria land	7
+south shetland islands	walker bay	2
+south shetland islands	weddell sea	72
+south shetland islands	west antarctic ice sheet	1
+south shetland islands	west antarctica	65
+south shetland islands	whalers bay	3
+south shetland islands	windmill islands	2
+southern ocean	southern thule	4
+southern ocean	taylor glacier	1
+southern ocean	taylor valley	2
+southern ocean	terra nova bay	28
+southern ocean	thurston island	4
+southern ocean	thwaites glacier	2
+southern ocean	totten glacier	2
+southern ocean	transantarctic mountains	7
+southern ocean	vestfold hills	7
+southern ocean	victoria land	29
+southern ocean	weddell sea	467
+southern ocean	west antarctic ice sheet	38
+southern ocean	west antarctica	80
+southern ocean	west ice shelf	1
+southern ocean	whalers bay	1
+southern ocean	whillans ice stream	4
+southern ocean	wilkes land	33
+southern ocean	windmill islands	1
+southern ocean	wordie ice shelf	1
+southern ocean	zavodovski island	1
+stonington island	trinity peninsula	1
+stornes peninsula	vestfold hills	1
+tabarin peninsula	vega island	1
+taylor glacier	taylor valley	15
+taylor glacier	transantarctic mountains	5
+taylor glacier	victoria land	7
+taylor glacier	west antarctic ice sheet	1
+taylor glacier	west antarctica	1
+taylor valley	transantarctic mountains	8
+taylor valley	victoria land	36
+taylor valley	west antarctic ice sheet	2
+taylor valley	wilkes land	1
+terra nova bay	transantarctic mountains	9
+terra nova bay	tucker glacier	1
+terra nova bay	victoria land	67
+terra nova bay	weddell sea	12
+terra nova bay	west antarctica	4
+terra nova bay	wood bay	4
+thurston island	thwaites glacier	2
+thurston island	transantarctic mountains	3
+thurston island	trinity peninsula	1
+thurston island	victoria land	2
+thurston island	weddell sea	5
+thurston island	west antarctic ice sheet	1
+thurston island	west antarctica	23
+thwaites glacier	thwaites ice shelf	4
+thwaites glacier	totten glacier	3
+thwaites glacier	transantarctic mountains	1
+thwaites glacier	weddell sea	1
+thwaites glacier	west antarctic ice sheet	18
+thwaites glacier	west antarctica	76
+thwaites ice shelf	west antarctica	3
+totten glacier	west antarctic ice sheet	2
+totten glacier	west antarctica	6
+totten glacier	wilkes land	4
+transantarctic mountains	union glacier	1
+transantarctic mountains	vestfold hills	1
+transantarctic mountains	victoria land	151
+transantarctic mountains	weddell sea	14
+transantarctic mountains	west antarctic ice sheet	20
+transantarctic mountains	west antarctica	75
+transantarctic mountains	west ice shelf	1
+transantarctic mountains	whillans ice stream	2
+transantarctic mountains	wilkes land	6
+trinity peninsula	vega island	1
+trinity peninsula	weddell sea	1
+trinity peninsula	west antarctica	3
+tucker glacier	victoria land	2
+ulu peninsula	vega island	2
+ulu peninsula	weddell sea	4
+ulu peninsula	west antarctica	1
+union glacier	west antarctic ice sheet	1
+union glacier	west antarctica	4
+vestfold hills	victoria land	3
+vestfold hills	weddell sea	11
+vestfold hills	west ice shelf	1
+vestfold hills	windmill islands	6
+victoria land	weddell sea	12
+victoria land	west antarctic ice sheet	11
+victoria land	west antarctica	42
+victoria land	wilkes land	9
+victoria land	wood bay	4
+weddell sea	west antarctic ice sheet	28
+weddell sea	west antarctica	75
+weddell sea	west ice shelf	1
+weddell sea	wilkes land	11
+weddell sea	wilkins ice shelf	1
+weddell sea	wood bay	1
+west antarctic ice sheet	west antarctica	206
+west antarctic ice sheet	whillans ice stream	21
+west antarctic ice sheet	wilkes land	3
+west antarctic ice sheet	wordie ice shelf	2
+west antarctica	whillans ice stream	80
+west antarctica	wilhelm archipelago	1
+west antarctica	wilkes land	15
+west antarctica	wilkins ice shelf	4
+whillans ice stream	wilkes land	2
+wilkes land	windmill islands	17
