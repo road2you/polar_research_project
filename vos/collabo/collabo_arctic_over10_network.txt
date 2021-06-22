@@ -1,0 +1,3274 @@
+AAD	Antarctic Climate & Ecosyst Cooperat Res Ctr	28
+AAD	Univ Tasmania	44
+AARI	AWI	138
+AARI	CEA - France	24
+AARI	CNRS	46
+AARI	Finnish Meteorol Inst	20
+AARI	Fisheries & Oceans Canada	20
+AARI	GEOMAR Helmholtz Ctr Ocean Res Kiel	96
+AARI	Geol Inst - RAS	22
+AARI	Lomonosov Moscow State Univ	40
+AARI	Max Planck Society	24
+AARI	NASA	22
+AARI	NERC National Oceanography Centre	32
+AARI	NOAA	36
+AARI	NPI	54
+AARI	Nansen Environm & Remote Sensing Ctr	32
+AARI	Natl Oceanog Ctr - UK	26
+AARI	Obukhov Inst Atmospher Phys - RAS	32
+AARI	Russian Acad Sci	176
+AARI	Shirshov Inst Oceanol - RAS	20
+AARI	St Petersburg State Univ	88
+AARI	US Navy	20
+AARI	Univ Alaska	44
+AARI	Univ Alaska Fairbanks	124
+AARI	Univ Bergen	24
+AARI	Univ Colorado	30
+AARI	Univ Ctr Svalbard UNIS	20
+AARI	Univ Hamburg	26
+AARI	Univ Kiel	50
+AARI	Univ Leicester	30
+AARI	Univ Tromso	26
+AARI	Univ Washington	44
+AARI	Woods Hole Oceanog Inst	24
+AP Karpinsky Russian Geol Res Inst	Geol Inst - RAS	66
+AP Karpinsky Russian Geol Res Inst	Russian Acad Sci	184
+AP Karpinsky Russian Geol Res Inst	St Petersburg State Univ	82
+AP Karpinsky Russian Geol Res Inst	Univ Oslo	22
+AWI	Aarhus Univ	60
+AWI	Aberystwyth Univ	26
+AWI	Akvaplan Niva AS	38
+AWI	BAS	94
+AWI	Bjerknes Ctr Climate Res	84
+AWI	CALTECH	62
+AWI	CEA - France	76
+AWI	CNRS	172
+AWI	CSIC	26
+AWI	CSIRO	20
+AWI	Cardiff Univ	20
+AWI	Carl von Ossietzky Univ Oldenburg	34
+AWI	Chinese Acad Sci	32
+AWI	Cold Reg Res & Engn Lab CRREL	24
+AWI	Columbia Univ	56
+AWI	Consiglio Nazionale delle Ricerche CNR	80
+AWI	Dalhousie Univ	24
+AWI	Danish Meteorol Inst	50
+AWI	Desert Research Institute NSHE	34
+AWI	Durham Univ	24
+AWI	ETH Zurich	74
+AWI	Environm Climate Change Canada	64
+AWI	Finnish Meteorol Inst	98
+AWI	Fisheries & Oceans Canada	72
+AWI	Free Univ Berlin	54
+AWI	GEOMAR Helmholtz Ctr Ocean Res Kiel	340
+AWI	GFZ German Res Ctr Geosci	134
+AWI	Geol Survey Canada	42
+AWI	Geol Survey Denmark & Greenland	66
+AWI	Geol Survey Norway	44
+AWI	German Aerosp Ctr	46
+AWI	Ghent University	32
+AWI	Hadley Ctr - UK	26
+AWI	Heidelberg Univ	38
+AWI	Helmholtz-Zentrum Geesthacht - Ctr Materials & Coastal Research	32
+AWI	Hokkaido Univ	48
+AWI	IFREMER	40
+AWI	Inst Oceanol - Polish Acad Sci	92
+AWI	JAMSTEC	42
+AWI	Johannes Gutenberg Univ Mainz	42
+AWI	KOPRI	52
+AWI	Lomonosov Moscow State Univ	130
+AWI	Lund Univ	40
+AWI	MIT	26
+AWI	Max Planck Inst Marine Microbiol	76
+AWI	Max Planck Society	206
+AWI	McGill Univ	26
+AWI	NASA	76
+AWI	NCAR	42
+AWI	NERC National Oceanography Centre	98
+AWI	NIPR	66
+AWI	NOAA	72
+AWI	NPI	230
+AWI	Natl Inst Earth Sciences & Astronomy - CNRS	64
+AWI	Natl Oceanog Ctr - UK	60
+AWI	Newcastle Univ	22
+AWI	Niels Bohr Inst	120
+AWI	Norwegian Inst Air Res	62
+AWI	Norwegian Inst Marine Res	66
+AWI	Norwegian Meteorol Inst	40
+AWI	Obukhov Inst Atmospher Phys - RAS	24
+AWI	Ohio State Univ	50
+AWI	Oregon State Univ	42
+AWI	Penn State Univ	20
+AWI	Plymouth Marine Lab	36
+AWI	Polish Acad Sci	90
+AWI	Potsdam Inst Climate Impact Res	26
+AWI	Royal Netherlands Inst Sea Res NIOZ	48
+AWI	Ruprecht Karls Univ Heidelberg	54
+AWI	Russian Acad Sci	374
+AWI	Senckenberg Gesellschaft fur Naturforschung SGN	38
+AWI	Shirshov Inst Oceanol - RAS	144
+AWI	Sorbonne Univ	38
+AWI	St Petersburg State Univ	48
+AWI	Stockholm Univ	140
+AWI	Tech Univ Denmark	60
+AWI	US Geol Survey	58
+AWI	US Navy	20
+AWI	Univ Alaska	78
+AWI	Univ Alaska Fairbanks	242
+AWI	Univ Alberta	46
+AWI	Univ Bergen	168
+AWI	Univ Bern	94
+AWI	Univ Bordeaux	22
+AWI	Univ Bremen	490
+AWI	Univ Bristol	56
+AWI	Univ British Columbia	28
+AWI	Univ Calif Irvine	38
+AWI	Univ Calif San Diego	48
+AWI	Univ Calif Santa Barbara	22
+AWI	Univ Cambridge	78
+AWI	Univ Coll London	48
+AWI	Univ Cologne	62
+AWI	Univ Colorado	120
+AWI	Univ Copenhagen	186
+AWI	Univ Ctr Svalbard UNIS	78
+AWI	Univ Edinburgh	30
+AWI	Univ Florence	30
+AWI	Univ Ghent	26
+AWI	Univ Gothenburg	74
+AWI	Univ Gottingen	26
+AWI	Univ Grenoble Alpes	76
+AWI	Univ Groningen	32
+AWI	Univ Hamburg	184
+AWI	Univ Helsinki	46
+AWI	Univ Iceland	36
+AWI	Univ Kiel	168
+AWI	Univ Laval	56
+AWI	Univ Leeds	32
+AWI	Univ Libre Brussels	46
+AWI	Univ Liege	26
+AWI	Univ Manitoba	26
+AWI	Univ Maryland	32
+AWI	Univ Munich	20
+AWI	Univ New Hampshire	26
+AWI	Univ New South Wales	26
+AWI	Univ Oslo	90
+AWI	Univ Oxford	24
+AWI	Univ Pierre & Marie Curie	34
+AWI	Univ Potsdam	164
+AWI	Univ Quebec	58
+AWI	Univ Reading	24
+AWI	Univ Rhode Island	24
+AWI	Univ Sheffield	24
+AWI	Univ Southampton	36
+AWI	Univ Texas	22
+AWI	Univ Tokyo	36
+AWI	Univ Toronto	24
+AWI	Univ Tromso	138
+AWI	Univ Utrecht	102
+AWI	Univ Vienna	20
+AWI	Univ Washington	106
+AWI	Univ Wisconsin	20
+AWI	Univ Wisconsin Madison	24
+AWI	Uppsala Univ	22
+AWI	Vrije Univ Amsterdam	20
+AWI	Woods Hole Oceanog Inst	80
+AWI	York Univ	38
+AWI	Zoo Inst - RAS	44
+Aarhus Univ	BAS	20
+Aarhus Univ	Bjerknes Ctr Climate Res	42
+Aarhus Univ	CEA - France	24
+Aarhus Univ	CNRS	82
+Aarhus Univ	CSIC	58
+Aarhus Univ	Canadian Wildlife Serv	198
+Aarhus Univ	Carleton Univ	176
+Aarhus Univ	Dalhousie Univ	20
+Aarhus Univ	Danish Meteorol Inst	40
+Aarhus Univ	Durham Univ	34
+Aarhus Univ	Environm Climate Change Canada	144
+Aarhus Univ	Fisheries & Oceans Canada	66
+Aarhus Univ	GEOMAR Helmholtz Ctr Ocean Res Kiel	32
+Aarhus Univ	GFZ German Res Ctr Geosci	26
+Aarhus Univ	Geol Survey Canada	28
+Aarhus Univ	Geol Survey Denmark & Greenland	200
+Aarhus Univ	Geol Survey Norway	28
+Aarhus Univ	Greenland Inst Nat Resources	650
+Aarhus Univ	Inst Ecology & Environment - CNRS	20
+Aarhus Univ	Inst Oceanol - Polish Acad Sci	26
+Aarhus Univ	Lund Univ	258
+Aarhus Univ	Max Planck Inst Marine Microbiol	28
+Aarhus Univ	Max Planck Society	44
+Aarhus Univ	Mem Univ Newfoundland	20
+Aarhus Univ	NOAA	32
+Aarhus Univ	NPI	106
+Aarhus Univ	Natl Environm Res Inst Denmark	504
+Aarhus Univ	Natl Inst Earth Sciences & Astronomy - CNRS	26
+Aarhus Univ	Norwegian Inst Air Res	26
+Aarhus Univ	Norwegian Inst Marine Res	30
+Aarhus Univ	Norwegian Inst Nat Res	68
+Aarhus Univ	Norwegian Univ Life Sci	28
+Aarhus Univ	Norwegian Univ Sci & Technol	92
+Aarhus Univ	Penn State Univ	34
+Aarhus Univ	Polish Acad Sci	36
+Aarhus Univ	Royal Netherlands Inst Sea Res NIOZ	76
+Aarhus Univ	Russian Acad Sci	76
+Aarhus Univ	Stockholm Univ	100
+Aarhus Univ	Swedish Museum Nat Hist	28
+Aarhus Univ	Swedish Univ Agr Sci	34
+Aarhus Univ	Swiss Fed Inst Forest Snow & Landscape Res	20
+Aarhus Univ	Tech Univ Denmark	188
+Aarhus Univ	UHI Millenium Inst	26
+Aarhus Univ	US Fish & Wildlife Serv	30
+Aarhus Univ	US Geol Survey	34
+Aarhus Univ	Univ Aberdeen	38
+Aarhus Univ	Univ Alaska	26
+Aarhus Univ	Univ Alaska Fairbanks	56
+Aarhus Univ	Univ Alberta	38
+Aarhus Univ	Univ Antwerp	32
+Aarhus Univ	Univ Bergen	104
+Aarhus Univ	Univ Birmingham	24
+Aarhus Univ	Univ Bristol	34
+Aarhus Univ	Univ Calif Davis	32
+Aarhus Univ	Univ Cambridge	40
+Aarhus Univ	Univ Cape Town	20
+Aarhus Univ	Univ Colorado	46
+Aarhus Univ	Univ Copenhagen	832
+Aarhus Univ	Univ Ctr Svalbard UNIS	120
+Aarhus Univ	Univ Exeter	24
+Aarhus Univ	Univ Gothenburg	60
+Aarhus Univ	Univ Groningen	22
+Aarhus Univ	Univ Helsinki	62
+Aarhus Univ	Univ Iceland	106
+Aarhus Univ	Univ Kiel	20
+Aarhus Univ	Univ Laval	42
+Aarhus Univ	Univ Manitoba	170
+Aarhus Univ	Univ New Brunswick	20
+Aarhus Univ	Univ New Hampshire	30
+Aarhus Univ	Univ Oslo	102
+Aarhus Univ	Univ Ottawa	26
+Aarhus Univ	Univ Quebec	38
+Aarhus Univ	Univ Southern Denmark	158
+Aarhus Univ	Univ Tromso	166
+Aarhus Univ	Univ Utrecht	92
+Aarhus Univ	Univ Vienna	20
+Aarhus Univ	Univ Washington	48
+Aarhus Univ	Vrije Univ Amsterdam	28
+Aberystwyth Univ	BAS	22
+Aberystwyth Univ	British Geol Survey	20
+Aberystwyth Univ	Geol Survey Denmark & Greenland	58
+Aberystwyth Univ	Swansea Univ	46
+Aberystwyth Univ	Univ Bristol	34
+Aberystwyth Univ	Univ Cambridge	64
+Aberystwyth Univ	Univ Colorado	24
+Aberystwyth Univ	Univ Copenhagen	52
+Aberystwyth Univ	Univ Ctr Svalbard UNIS	34
+Aberystwyth Univ	Univ Edinburgh	22
+Aberystwyth Univ	Univ Leeds	24
+Aberystwyth Univ	Univ Oslo	22
+Aberystwyth Univ	Univ Sheffield	48
+Aberystwyth Univ	Univ St Andrews	30
+Aberystwyth Univ	Univ Tromso	70
+Aberystwyth Univ	Univ Utrecht	24
+Aberystwyth Univ	Univ Wales	152
+Aberystwyth Univ	Uppsala Univ	22
+Acad Sci Czech Republ	Charles Univ Prague	26
+Acad Sci Czech Republ	Czech Acad Sci	152
+Aix Marseille Univ	CEA - France	32
+Aix Marseille Univ	CNRS	80
+Aix Marseille Univ	Inst Ecology & Environment - CNRS	22
+Aix Marseille Univ	Natl Inst Earth Sciences & Astronomy - CNRS	70
+Aix Marseille Univ	Univ Bordeaux	20
+Aix Marseille Univ	Univ Laval	28
+Aix Marseille Univ	Univ Pierre & Marie Curie	24
+Aix Marseille Univ	Univ Quebec	42
+Akvaplan Niva AS	Inst Oceanol - Polish Acad Sci	52
+Akvaplan Niva AS	NPI	170
+Akvaplan Niva AS	Norwegian Inst Air Res	40
+Akvaplan Niva AS	Norwegian Inst Marine Res	46
+Akvaplan Niva AS	Norwegian Univ Sci & Technol	40
+Akvaplan Niva AS	Polish Acad Sci	46
+Akvaplan Niva AS	Russian Acad Sci	72
+Akvaplan Niva AS	SINTEF	24
+Akvaplan Niva AS	Univ Bergen	30
+Akvaplan Niva AS	Univ Ctr Svalbard UNIS	124
+Akvaplan Niva AS	Univ Oslo	20
+Akvaplan Niva AS	Univ Tromso	240
+Alaska Dept Fish & Game	Fisheries & Oceans Canada	26
+Alaska Dept Fish & Game	Greenland Inst Nat Resources	22
+Alaska Dept Fish & Game	NOAA	146
+Alaska Dept Fish & Game	Natl Marine Fisheries Serv - US	48
+Alaska Dept Fish & Game	US Fish & Wildlife Serv	58
+Alaska Dept Fish & Game	US Geol Survey	60
+Alaska Dept Fish & Game	Univ Alaska	54
+Alaska Dept Fish & Game	Univ Alaska Fairbanks	174
+Alaska Dept Fish & Game	Univ Washington	56
+Antarctic Climate & Ecosyst Cooperat Res Ctr	Univ Tasmania	24
+Australian Natl Univ	Columbia Univ	22
+Australian Natl Univ	Geol Survey Denmark & Greenland	36
+Australian Natl Univ	Univ Cambridge	28
+Australian Natl Univ	Univ New South Wales	22
+BAS	Bjerknes Ctr Climate Res	32
+BAS	CALTECH	26
+BAS	CEA - France	42
+BAS	CNRS	72
+BAS	Columbia Univ	38
+BAS	Consiglio Nazionale delle Ricerche CNR	22
+BAS	Desert Research Institute NSHE	26
+BAS	Durham Univ	20
+BAS	ETH Zurich	22
+BAS	Finnish Meteorol Inst	54
+BAS	Fisheries & Oceans Canada	20
+BAS	GEOMAR Helmholtz Ctr Ocean Res Kiel	28
+BAS	Geol Survey Denmark & Greenland	32
+BAS	Inst Oceanol - Polish Acad Sci	24
+BAS	Lancaster Univ	22
+BAS	Max Planck Society	34
+BAS	NASA	48
+BAS	NCAR	22
+BAS	NERC National Oceanography Centre	40
+BAS	NIPR	24
+BAS	NOAA	36
+BAS	NPI	56
+BAS	Natl Inst Earth Sciences & Astronomy - CNRS	28
+BAS	Natl Oceanog Ctr - UK	22
+BAS	Natural Environment Research Council NERC	84
+BAS	Niels Bohr Inst	74
+BAS	Oregon State Univ	32
+BAS	Polish Acad Sci	32
+BAS	Stockholm Univ	40
+BAS	Swansea Univ	24
+BAS	Univ Alaska Fairbanks	32
+BAS	Univ Bergen	34
+BAS	Univ Bern	64
+BAS	Univ Birmingham	24
+BAS	Univ Bremen	28
+BAS	Univ Bristol	48
+BAS	Univ Calif Irvine	24
+BAS	Univ Calif San Diego	32
+BAS	Univ Cambridge	90
+BAS	Univ Coll London	40
+BAS	Univ Colorado	60
+BAS	Univ Copenhagen	102
+BAS	Univ Ctr Svalbard UNIS	54
+BAS	Univ East Anglia	34
+BAS	Univ Grenoble Alpes	52
+BAS	Univ Iceland	20
+BAS	Univ Lapland	24
+BAS	Univ Leeds	44
+BAS	Univ Maryland	20
+BAS	Univ New Hampshire	22
+BAS	Univ Otago	52
+BAS	Univ Oulu	36
+BAS	Univ Sheffield	20
+BAS	Univ Southampton	32
+BAS	Univ St Andrews	24
+BAS	Univ Toronto	20
+BAS	Univ Tromso	30
+BAS	Univ Utrecht	32
+BAS	Univ Washington	46
+BAS	Woods Hole Oceanog Inst	32
+Beijing Normal Univ	Chinese Acad Sci	36
+Beijing Normal Univ	Univ Lapland	36
+Bjerknes Ctr Climate Res	CEA - France	32
+Bjerknes Ctr Climate Res	CNRS	66
+Bjerknes Ctr Climate Res	Chinese Acad Sci	72
+Bjerknes Ctr Climate Res	Columbia Univ	54
+Bjerknes Ctr Climate Res	ETH Zurich	34
+Bjerknes Ctr Climate Res	GEOMAR Helmholtz Ctr Ocean Res Kiel	52
+Bjerknes Ctr Climate Res	Geol Survey Denmark & Greenland	34
+Bjerknes Ctr Climate Res	Inst Atmospher Phys - Chinese Acad Sci	52
+Bjerknes Ctr Climate Res	Lund Univ	28
+Bjerknes Ctr Climate Res	Max Planck Society	34
+Bjerknes Ctr Climate Res	NOAA	30
+Bjerknes Ctr Climate Res	NPI	68
+Bjerknes Ctr Climate Res	Nansen Environm & Remote Sensing Ctr	168
+Bjerknes Ctr Climate Res	Natl Inst Earth Sciences & Astronomy - CNRS	36
+Bjerknes Ctr Climate Res	Norwegian Inst Marine Res	188
+Bjerknes Ctr Climate Res	Norwegian Meteorol Inst	28
+Bjerknes Ctr Climate Res	Norwegian Univ Sci & Technol	20
+Bjerknes Ctr Climate Res	Oregon State Univ	28
+Bjerknes Ctr Climate Res	Russian Acad Sci	38
+Bjerknes Ctr Climate Res	Stockholm Univ	38
+Bjerknes Ctr Climate Res	Univ Alaska Fairbanks	30
+Bjerknes Ctr Climate Res	Univ Bergen	862
+Bjerknes Ctr Climate Res	Univ Bern	26
+Bjerknes Ctr Climate Res	Univ Bremen	26
+Bjerknes Ctr Climate Res	Univ Coll London	30
+Bjerknes Ctr Climate Res	Univ Colorado	42
+Bjerknes Ctr Climate Res	Univ Copenhagen	38
+Bjerknes Ctr Climate Res	Univ Ctr Svalbard UNIS	62
+Bjerknes Ctr Climate Res	Univ East Anglia	26
+Bjerknes Ctr Climate Res	Univ Gothenburg	50
+Bjerknes Ctr Climate Res	Univ Helsinki	20
+Bjerknes Ctr Climate Res	Univ Iceland	24
+Bjerknes Ctr Climate Res	Univ Massachusetts	20
+Bjerknes Ctr Climate Res	Univ Oslo	42
+Bjerknes Ctr Climate Res	Univ Oxford	22
+Bjerknes Ctr Climate Res	Univ Pierre & Marie Curie	28
+Bjerknes Ctr Climate Res	Univ Toronto	30
+Bjerknes Ctr Climate Res	Univ Tromso	60
+Bjerknes Ctr Climate Res	Univ Washington	30
+Bjerknes Ctr Climate Res	Woods Hole Oceanog Inst	64
+Boston Univ	Univ Alaska	20
+Boston Univ	Univ Alaska Fairbanks	28
+Boston Univ	Univ Copenhagen	20
+Boston Univ	Univ Southern Denmark	46
+British Geol Survey	Durham Univ	44
+British Geol Survey	Geol Survey Denmark & Greenland	36
+British Geol Survey	Geol Survey Norway	24
+British Geol Survey	NERC National Oceanography Centre	24
+British Geol Survey	Natural Environment Research Council NERC	36
+British Geol Survey	Univ Bergen	26
+British Geol Survey	Univ Bristol	24
+British Geol Survey	Univ Cambridge	24
+British Geol Survey	Univ Edinburgh	34
+British Geol Survey	Univ Leeds	24
+British Geol Survey	Univ Leicester	36
+British Geol Survey	Univ Tromso	32
+Brown Univ	Univ Calif Los Angeles	20
+Brown Univ	Univ Massachusetts	26
+Brown Univ	Woods Hole Oceanog Inst	26
+Bureau of Meteorology - Australia	CSIRO	24
+CALTECH	CEA - France	26
+CALTECH	CNRS	58
+CALTECH	City Univ New York	22
+CALTECH	Cold Reg Res & Engn Lab CRREL	30
+CALTECH	Columbia Univ	46
+CALTECH	Dalhousie Univ	26
+CALTECH	Danish Meteorol Inst	22
+CALTECH	Environm Climate Change Canada	50
+CALTECH	Finnish Meteorol Inst	20
+CALTECH	Fisheries & Oceans Canada	26
+CALTECH	GEOMAR Helmholtz Ctr Ocean Res Kiel	20
+CALTECH	Geol Survey Canada	20
+CALTECH	Geol Survey Denmark & Greenland	20
+CALTECH	Harvard Univ	66
+CALTECH	JAMSTEC	20
+CALTECH	Los Alamos Natl Lab	20
+CALTECH	MIT	36
+CALTECH	Max Planck Society	28
+CALTECH	NASA	176
+CALTECH	NCAR	52
+CALTECH	NERC National Oceanography Centre	26
+CALTECH	NOAA	78
+CALTECH	Natl Inst Water & Atmospher Res NIWA	20
+CALTECH	Ohio State Univ	50
+CALTECH	Oregon State Univ	26
+CALTECH	Princeton Univ	30
+CALTECH	Purdue Univ	20
+CALTECH	Russian Acad Sci	22
+CALTECH	Stockholm Univ	20
+CALTECH	Tech Univ Denmark	28
+CALTECH	US Geol Survey	20
+CALTECH	Univ Alaska Fairbanks	86
+CALTECH	Univ Alberta	20
+CALTECH	Univ Bremen	40
+CALTECH	Univ Bristol	48
+CALTECH	Univ Calif Berkeley	20
+CALTECH	Univ Calif Irvine	190
+CALTECH	Univ Calif Los Angeles	48
+CALTECH	Univ Calif San Diego	30
+CALTECH	Univ Calif Santa Barbara	20
+CALTECH	Univ Cambridge	24
+CALTECH	Univ Colorado	122
+CALTECH	Univ Copenhagen	20
+CALTECH	Univ Grenoble Alpes	34
+CALTECH	Univ Kansas	52
+CALTECH	Univ Leeds	22
+CALTECH	Univ Maryland	58
+CALTECH	Univ New Hampshire	22
+CALTECH	Univ Oslo	20
+CALTECH	Univ Texas	50
+CALTECH	Univ Texas Austin	44
+CALTECH	Univ Tokyo	20
+CALTECH	Univ Toronto	40
+CALTECH	Univ Utrecht	64
+CALTECH	Univ Washington	124
+CALTECH	Univ Waterloo	22
+CALTECH	Univ Wisconsin	20
+CALTECH	Univ Wisconsin Madison	26
+CALTECH	Woods Hole Oceanog Inst	50
+CALTECH	Yale Univ	20
+CEA - France	CNRS	384
+CEA - France	Chinese Acad Sci	22
+CEA - France	Columbia Univ	78
+CEA - France	ETH Zurich	38
+CEA - France	Environm Climate Change Canada	22
+CEA - France	Finnish Meteorol Inst	20
+CEA - France	GEOMAR Helmholtz Ctr Ocean Res Kiel	28
+CEA - France	Inst Ecology & Environment - CNRS	34
+CEA - France	JAMSTEC	20
+CEA - France	Max Planck Society	58
+CEA - France	Museum Natl Hist Nat - France	20
+CEA - France	NASA	44
+CEA - France	NCAR	28
+CEA - France	NERC National Oceanography Centre	26
+CEA - France	NOAA	42
+CEA - France	Natl Inst Earth Sciences & Astronomy - CNRS	174
+CEA - France	Niels Bohr Inst	98
+CEA - France	Norwegian Inst Air Res	28
+CEA - France	Oregon State Univ	38
+CEA - France	Russian Acad Sci	46
+CEA - France	Sorbonne Univ	50
+CEA - France	Stockholm Univ	26
+CEA - France	Univ Bergen	30
+CEA - France	Univ Bern	102
+CEA - France	Univ Bordeaux	76
+CEA - France	Univ Bremen	40
+CEA - France	Univ Calif San Diego	48
+CEA - France	Univ Cambridge	28
+CEA - France	Univ Colorado	68
+CEA - France	Univ Copenhagen	154
+CEA - France	Univ Grenoble Alpes	108
+CEA - France	Univ Iceland	60
+CEA - France	Univ Kiel	22
+CEA - France	Univ Libre Brussels	30
+CEA - France	Univ Liege	24
+CEA - France	Univ Montpellier	22
+CEA - France	Univ Paris	64
+CEA - France	Univ Pierre & Marie Curie	56
+CEA - France	Univ Quebec	22
+CEA - France	Univ Utrecht	36
+CEA - France	Univ Washington	36
+CEA - France	Vrije Univ Amsterdam	46
+CEA - France	Woods Hole Oceanog Inst	26
+CNRS	CSIC	68
+CNRS	CSIRO	40
+CNRS	Chinese Acad Sci	30
+CNRS	Cold Reg Res & Engn Lab CRREL	20
+CNRS	Columbia Univ	94
+CNRS	Consiglio Nazionale delle Ricerche CNR	84
+CNRS	Curtin Univ	36
+CNRS	Danish Meteorol Inst	34
+CNRS	Desert Research Institute NSHE	34
+CNRS	ETH Zurich	74
+CNRS	Environm Climate Change Canada	96
+CNRS	Finnish Meteorol Inst	62
+CNRS	Fisheries & Oceans Canada	62
+CNRS	Florida State Univ	22
+CNRS	GEOMAR Helmholtz Ctr Ocean Res Kiel	72
+CNRS	Geol Survey Canada	24
+CNRS	Geol Survey Denmark & Greenland	40
+CNRS	Geol Survey Norway	22
+CNRS	German Aerosp Ctr	30
+CNRS	Greenland Inst Nat Resources	24
+CNRS	Hadley Ctr - UK	24
+CNRS	Heidelberg Univ	22
+CNRS	Hokkaido Univ	20
+CNRS	IFREMER	94
+CNRS	Imperial Coll London	20
+CNRS	Inst Ecology & Environment - CNRS	156
+CNRS	Inst Oceanol - Polish Acad Sci	38
+CNRS	Ist Nazl Geofis & Vulcanol	26
+CNRS	KU Louvain	24
+CNRS	Laboratoire dEtudes en Geophysique et oceanographie spatiales - CNRS	70
+CNRS	Lund Univ	22
+CNRS	MIT	24
+CNRS	Max Planck Society	88
+CNRS	McGill Univ	20
+CNRS	Museum Natl Hist Nat - France	80
+CNRS	NASA	84
+CNRS	NCAR	62
+CNRS	NERC National Oceanography Centre	76
+CNRS	NIPR	26
+CNRS	NOAA	94
+CNRS	NPI	136
+CNRS	Natl Inst Earth Sciences & Astronomy - CNRS	462
+CNRS	Natl Inst Water & Atmospher Res NIWA	22
+CNRS	Natl Oceanog Ctr - UK	34
+CNRS	Niels Bohr Inst	92
+CNRS	Norwegian Inst Air Res	60
+CNRS	Norwegian Inst Nat Res	54
+CNRS	Norwegian Meteorol Inst	22
+CNRS	Norwegian Univ Sci & Technol	34
+CNRS	Oregon State Univ	38
+CNRS	Penn State Univ	22
+CNRS	Plymouth Marine Lab	26
+CNRS	Polish Acad Sci	44
+CNRS	Res Ctr Julich - Helmholtz Association	20
+CNRS	Royal Netherlands Inst Sea Res NIOZ	22
+CNRS	Ruprecht Karls Univ Heidelberg	28
+CNRS	Russian Acad Sci	132
+CNRS	Shirshov Inst Oceanol - RAS	42
+CNRS	Sorbonne Univ	220
+CNRS	Stockholm Univ	50
+CNRS	Univ Aberdeen	22
+CNRS	Univ Alaska Fairbanks	48
+CNRS	Univ Alberta	28
+CNRS	Univ Antwerp	26
+CNRS	Univ Bergen	70
+CNRS	Univ Bern	138
+CNRS	Univ Bordeaux	94
+CNRS	Univ Bremen	54
+CNRS	Univ Bristol	36
+CNRS	Univ British Columbia	26
+CNRS	Univ Calif Irvine	30
+CNRS	Univ Calif Los Angeles	26
+CNRS	Univ Calif San Diego	66
+CNRS	Univ Cambridge	52
+CNRS	Univ Cape Town	52
+CNRS	Univ Coll London	24
+CNRS	Univ Colorado	74
+CNRS	Univ Copenhagen	184
+CNRS	Univ Ctr Svalbard UNIS	32
+CNRS	Univ East Anglia	34
+CNRS	Univ Edinburgh	28
+CNRS	Univ Gothenburg	20
+CNRS	Univ Grenoble Alpes	466
+CNRS	Univ Hamburg	26
+CNRS	Univ Helsinki	32
+CNRS	Univ Iceland	100
+CNRS	Univ Kansas	24
+CNRS	Univ Kiel	20
+CNRS	Univ Laval	188
+CNRS	Univ Leeds	20
+CNRS	Univ Libre Brussels	44
+CNRS	Univ Liege	46
+CNRS	Univ Liverpool	20
+CNRS	Univ Manitoba	22
+CNRS	Univ Maryland	34
+CNRS	Univ Massachusetts	20
+CNRS	Univ Montpellier	90
+CNRS	Univ New Hampshire	38
+CNRS	Univ Oslo	72
+CNRS	Univ Oulu	20
+CNRS	Univ Oxford	36
+CNRS	Univ Paris	130
+CNRS	Univ Pierre & Marie Curie	280
+CNRS	Univ Quebec	124
+CNRS	Univ Reading	22
+CNRS	Univ Saskatchewan	20
+CNRS	Univ Southampton	42
+CNRS	Univ Toronto	36
+CNRS	Univ Toulouse	152
+CNRS	Univ Tromso	98
+CNRS	Univ Utrecht	72
+CNRS	Univ Washington	48
+CNRS	Univ Wisconsin	28
+CNRS	Univ Wisconsin Madison	24
+CNRS	Uppsala Univ	26
+CNRS	Woods Hole Oceanog Inst	52
+CSIC	Complutense University of Madrid	22
+CSIC	IFREMER	32
+CSIC	Inst Ecology & Environment - CNRS	20
+CSIC	Inst Marine Sci ICM - CSIC	140
+CSIC	NERC National Oceanography Centre	28
+CSIC	Natl Inst Earth Sciences & Astronomy - CNRS	42
+CSIC	Sorbonne Univ	28
+CSIC	Tech Univ Denmark	20
+CSIC	Univ Barcelona	48
+CSIC	Univ Bremen	32
+CSIC	Univ Cambridge	26
+CSIC	Univ Complutense	20
+CSIC	Univ Copenhagen	28
+CSIC	Univ Laval	52
+CSIC	Univ Pierre & Marie Curie	30
+CSIC	Univ Tromso	56
+CSIC	Univ Western Australia	28
+CSIRO	Max Planck Society	20
+CSIRO	NASA	20
+CSIRO	NCAR	20
+CSIRO	NERC National Oceanography Centre	24
+CSIRO	NOAA	34
+CSIRO	Oregon State Univ	20
+CSIRO	Univ Bern	20
+CSIRO	Univ Calif San Diego	28
+CSIRO	Univ Colorado	30
+CSIRO	Univ East Anglia	28
+CSIRO	Univ Grenoble Alpes	30
+CSIRO	Univ New South Wales	20
+CSIRO	Univ Tasmania	36
+CSIRO	Univ Utrecht	38
+CSIRO	Univ Washington	20
+CSIRO	Woods Hole Oceanog Inst	22
+California State Univ	NASA	28
+California State Univ	NOAA	38
+California State Univ	Oregon State Univ	24
+California State Univ	US Geol Survey	30
+California State Univ	Univ Alaska	36
+California State Univ	Univ Alaska Fairbanks	66
+California State Univ	Univ Calif Davis	20
+California State Univ	Univ Calif San Diego	20
+California State Univ	Univ Calif Santa Barbara	26
+California State Univ	Univ Calif Santa Cruz	24
+California State Univ	Univ Colorado	32
+California State Univ	Univ Sheffield	32
+California State Univ	Univ Texas	22
+Canadian Wildlife Serv	Carleton Univ	414
+Canadian Wildlife Serv	Dalhousie Univ	26
+Canadian Wildlife Serv	Environm Climate Change Canada	416
+Canadian Wildlife Serv	Fisheries & Oceans Canada	64
+Canadian Wildlife Serv	Greenland Inst Nat Resources	88
+Canadian Wildlife Serv	Mem Univ Newfoundland	48
+Canadian Wildlife Serv	NPI	74
+Canadian Wildlife Serv	Natl Environm Res Inst Denmark	42
+Canadian Wildlife Serv	Norwegian Univ Sci & Technol	48
+Canadian Wildlife Serv	Queens Univ	34
+Canadian Wildlife Serv	Simon Fraser Univ	22
+Canadian Wildlife Serv	Trent Univ	32
+Canadian Wildlife Serv	US Fish & Wildlife Serv	54
+Canadian Wildlife Serv	US Geol Survey	58
+Canadian Wildlife Serv	Univ Alaska Fairbanks	20
+Canadian Wildlife Serv	Univ Alberta	174
+Canadian Wildlife Serv	Univ Copenhagen	48
+Canadian Wildlife Serv	Univ Guelph	26
+Canadian Wildlife Serv	Univ Laval	40
+Canadian Wildlife Serv	Univ Manitoba	48
+Canadian Wildlife Serv	Univ New Brunswick	22
+Canadian Wildlife Serv	Univ Ottawa	64
+Canadian Wildlife Serv	Univ Quebec	30
+Canadian Wildlife Serv	Univ Saskatchewan	64
+Canadian Wildlife Serv	Univ Toronto	20
+Cardiff Univ	Geol Survey Denmark & Greenland	20
+Cardiff Univ	NERC National Oceanography Centre	22
+Cardiff Univ	Univ Bristol	36
+Cardiff Univ	Univ Cambridge	24
+Cardiff Univ	Univ Southampton	20
+Cardiff Univ	Univ Wales	30
+Carl von Ossietzky Univ Oldenburg	Newcastle Univ	22
+Carleton Univ	Environm Climate Change Canada	150
+Carleton Univ	Fisheries & Oceans Canada	28
+Carleton Univ	Geol Survey Canada	84
+Carleton Univ	Greenland Inst Nat Resources	72
+Carleton Univ	Mem Univ Newfoundland	22
+Carleton Univ	NPI	58
+Carleton Univ	Natl Environm Res Inst Denmark	20
+Carleton Univ	Norwegian Univ Sci & Technol	42
+Carleton Univ	Queens Univ	36
+Carleton Univ	US Fish & Wildlife Serv	20
+Carleton Univ	Univ Alberta	30
+Carleton Univ	Univ British Columbia	20
+Carleton Univ	Univ Calgary	22
+Carleton Univ	Univ Copenhagen	42
+Carleton Univ	Univ Laval	24
+Carleton Univ	Univ Manitoba	26
+Carleton Univ	Univ Ottawa	50
+Carleton Univ	Univ Quebec	24
+Carleton Univ	Univ Toronto	24
+Carleton Univ	Univ Victoria	20
+Charles Univ Prague	Czech Acad Sci	52
+Charles Univ Prague	Geol Survey Denmark & Greenland	28
+Charles Univ Prague	Univ Copenhagen	20
+China Meteorol Adm	Chinese Acad Sci	56
+China Meteorol Adm	Inst Atmospher Phys - Chinese Acad Sci	26
+China Meteorol Adm	Nanjing Univ Informat Sci & Technol	28
+China Univ Geosci	Chinese Acad Sci	28
+Chinese Acad Sci	Cold & Arid Reg Environm & Engn Res Inst - Chinese Acad Sci	80
+Chinese Acad Sci	Columbia Univ	34
+Chinese Acad Sci	Inst Atmospher Phys - Chinese Acad Sci	378
+Chinese Acad Sci	Inst Geol & Geophys - Chinese Acad Sci	142
+Chinese Acad Sci	Inst Tibetan Plateau Research - Chinese Acad Sci	60
+Chinese Acad Sci	Lanzhou Univ	20
+Chinese Acad Sci	Max Planck Society	30
+Chinese Acad Sci	NASA	30
+Chinese Acad Sci	NCAR	34
+Chinese Acad Sci	NOAA	36
+Chinese Acad Sci	Nanjing Univ	24
+Chinese Acad Sci	Nanjing Univ Informat Sci & Technol	82
+Chinese Acad Sci	Nansen Environm & Remote Sensing Ctr	52
+Chinese Acad Sci	Ocean Univ China	46
+Chinese Acad Sci	Ohio State Univ	40
+Chinese Acad Sci	PRIC	48
+Chinese Acad Sci	Peking Univ	24
+Chinese Acad Sci	Russian Acad Sci	34
+Chinese Acad Sci	State Ocean Adm China	70
+Chinese Acad Sci	Stockholm Univ	20
+Chinese Acad Sci	Univ Alaska Fairbanks	46
+Chinese Acad Sci	Univ Bergen	40
+Chinese Acad Sci	Univ Chinese Acad Sci	304
+Chinese Acad Sci	Univ Colorado	30
+Chinese Acad Sci	Univ Copenhagen	24
+Chinese Acad Sci	Univ Maine	20
+Chinese Acad Sci	Univ Minnesota	28
+Chinese Acad Sci	Univ Sci & Technol China	48
+Chinese Acad Sci	Univ Washington	22
+Chinese Acad Sci	Uppsala Univ	26
+Chinese Acad Sci	Woods Hole Oceanog Inst	22
+City Univ New York	Columbia Univ	64
+City Univ New York	NASA	40
+City Univ New York	Rutgers State Univ	24
+City Univ New York	Univ Colorado	36
+City Univ New York	Univ Edinburgh	24
+City Univ New York	Univ Liege	32
+City Univ New York	Univ Maryland	20
+City Univ New York	Univ Utrecht	22
+Cold Reg Res & Engn Lab CRREL	Colorado State Univ	36
+Cold Reg Res & Engn Lab CRREL	Columbia Univ	24
+Cold Reg Res & Engn Lab CRREL	Dartmouth Coll	84
+Cold Reg Res & Engn Lab CRREL	Desert Research Institute NSHE	22
+Cold Reg Res & Engn Lab CRREL	Environm Climate Change Canada	28
+Cold Reg Res & Engn Lab CRREL	Michigan State Univ	20
+Cold Reg Res & Engn Lab CRREL	NASA	56
+Cold Reg Res & Engn Lab CRREL	NOAA	48
+Cold Reg Res & Engn Lab CRREL	NPI	26
+Cold Reg Res & Engn Lab CRREL	Oregon State Univ	24
+Cold Reg Res & Engn Lab CRREL	Penn State Univ	42
+Cold Reg Res & Engn Lab CRREL	US Geol Survey	38
+Cold Reg Res & Engn Lab CRREL	US Navy	24
+Cold Reg Res & Engn Lab CRREL	Univ Alaska	36
+Cold Reg Res & Engn Lab CRREL	Univ Alaska Fairbanks	116
+Cold Reg Res & Engn Lab CRREL	Univ Colorado	54
+Cold Reg Res & Engn Lab CRREL	Univ Maryland	32
+Cold Reg Res & Engn Lab CRREL	Univ Michigan	22
+Cold Reg Res & Engn Lab CRREL	Univ New Hampshire	36
+Cold Reg Res & Engn Lab CRREL	Univ Washington	84
+Cold Reg Res & Engn Lab CRREL	Woods Hole Oceanog Inst	30
+Colorado State Univ	Environm Climate Change Canada	36
+Colorado State Univ	Los Alamos Natl Lab	26
+Colorado State Univ	NASA	24
+Colorado State Univ	NCAR	26
+Colorado State Univ	NOAA	70
+Colorado State Univ	NPI	20
+Colorado State Univ	US Geol Survey	36
+Colorado State Univ	Univ Alaska	30
+Colorado State Univ	Univ Alaska Anchorage	24
+Colorado State Univ	Univ Alaska Fairbanks	54
+Colorado State Univ	Univ Calif Santa Barbara	22
+Colorado State Univ	Univ Colorado	62
+Colorado State Univ	Univ Copenhagen	32
+Colorado State Univ	Univ Oslo	24
+Colorado State Univ	Univ Washington	32
+Columbia Univ	Dartmouth Coll	20
+Columbia Univ	ETH Zurich	46
+Columbia Univ	Fisheries & Oceans Canada	42
+Columbia Univ	GEOMAR Helmholtz Ctr Ocean Res Kiel	48
+Columbia Univ	Geol Survey Denmark & Greenland	40
+Columbia Univ	Georgia Inst Technol	20
+Columbia Univ	Harvard Univ	32
+Columbia Univ	Inst Ecology & Environment - CNRS	32
+Columbia Univ	JAMSTEC	22
+Columbia Univ	Lamont Doherty Earth Observ	198
+Columbia Univ	MIT	28
+Columbia Univ	Max Planck Society	42
+Columbia Univ	McGill Univ	52
+Columbia Univ	NASA	192
+Columbia Univ	NCAR	44
+Columbia Univ	NERC National Oceanography Centre	34
+Columbia Univ	NOAA	86
+Columbia Univ	Natl Inst Earth Sciences & Astronomy - CNRS	38
+Columbia Univ	Niels Bohr Inst	26
+Columbia Univ	Ohio State Univ	20
+Columbia Univ	Oregon State Univ	56
+Columbia Univ	Penn State Univ	30
+Columbia Univ	Princeton Univ	36
+Columbia Univ	Purdue Univ	28
+Columbia Univ	Ruprecht Karls Univ Heidelberg	26
+Columbia Univ	Russian Acad Sci	38
+Columbia Univ	Rutgers State Univ	66
+Columbia Univ	Stockholm Univ	34
+Columbia Univ	US Geol Survey	58
+Columbia Univ	Univ Alaska	30
+Columbia Univ	Univ Alaska Fairbanks	82
+Columbia Univ	Univ Bergen	60
+Columbia Univ	Univ Bern	26
+Columbia Univ	Univ Bordeaux	22
+Columbia Univ	Univ Bremen	44
+Columbia Univ	Univ Bristol	20
+Columbia Univ	Univ Calif Berkeley	36
+Columbia Univ	Univ Calif Irvine	20
+Columbia Univ	Univ Calif Los Angeles	26
+Columbia Univ	Univ Calif San Diego	70
+Columbia Univ	Univ Calif Santa Barbara	30
+Columbia Univ	Univ Cambridge	42
+Columbia Univ	Univ Colorado	88
+Columbia Univ	Univ Copenhagen	62
+Columbia Univ	Univ Edinburgh	28
+Columbia Univ	Univ Georgia	26
+Columbia Univ	Univ Gothenburg	30
+Columbia Univ	Univ Hawaii	24
+Columbia Univ	Univ Hawaii Manoa	20
+Columbia Univ	Univ Kiel	24
+Columbia Univ	Univ Liege	28
+Columbia Univ	Univ Maine	30
+Columbia Univ	Univ Maryland	26
+Columbia Univ	Univ Massachusetts	32
+Columbia Univ	Univ Miami	26
+Columbia Univ	Univ Montpellier	24
+Columbia Univ	Univ New Hampshire	22
+Columbia Univ	Univ Oslo	24
+Columbia Univ	Univ Paris	20
+Columbia Univ	Univ Quebec	20
+Columbia Univ	Univ Sheffield	20
+Columbia Univ	Univ Texas	28
+Columbia Univ	Univ Utrecht	30
+Columbia Univ	Univ Washington	76
+Columbia Univ	Univ Wisconsin	36
+Columbia Univ	Univ Wisconsin Madison	38
+Columbia Univ	Woods Hole Oceanog Inst	102
+Complutense University of Madrid	Potsdam Inst Climate Impact Res	28
+Complutense University of Madrid	Univ Complutense	128
+Consiglio Nazionale delle Ricerche CNR	Danish Meteorol Inst	24
+Consiglio Nazionale delle Ricerche CNR	Finnish Meteorol Inst	30
+Consiglio Nazionale delle Ricerche CNR	Ist Nazl Geofis & Vulcanol	26
+Consiglio Nazionale delle Ricerche CNR	Max Planck Society	28
+Consiglio Nazionale delle Ricerche CNR	NOAA	22
+Consiglio Nazionale delle Ricerche CNR	NPI	26
+Consiglio Nazionale delle Ricerche CNR	Niels Bohr Inst	36
+Consiglio Nazionale delle Ricerche CNR	Norwegian Inst Air Res	28
+Consiglio Nazionale delle Ricerche CNR	Polish Acad Sci	30
+Consiglio Nazionale delle Ricerche CNR	Russian Acad Sci	36
+Consiglio Nazionale delle Ricerche CNR	Sapienza Univ	36
+Consiglio Nazionale delle Ricerche CNR	Stockholm Univ	30
+Consiglio Nazionale delle Ricerche CNR	Univ Colorado	36
+Consiglio Nazionale delle Ricerche CNR	Univ Copenhagen	42
+Consiglio Nazionale delle Ricerche CNR	Univ Florence	44
+Consiglio Nazionale delle Ricerche CNR	Univ Grenoble Alpes	54
+Consiglio Nazionale delle Ricerche CNR	Univ Manitoba	24
+Consiglio Nazionale delle Ricerche CNR	Univ Milan	30
+Consiglio Nazionale delle Ricerche CNR	Univ Oslo	22
+Consiglio Nazionale delle Ricerche CNR	Univ Pisa	30
+Consiglio Nazionale delle Ricerche CNR	Univ Tromso	26
+Cornell Univ	NOAA	28
+Cornell Univ	Univ Alaska Fairbanks	22
+Curtin Univ	Univ Copenhagen	24
+Curtin Univ	Univ Grenoble Alpes	28
+Curtin Univ	Univ Western Australia	26
+Czech Acad Sci	Russian Acad Sci	28
+Czech Acad Sci	Swiss Fed Inst Forest Snow & Landscape Res	34
+Czech Acad Sci	Univ Cambridge	20
+Dalhousie Univ	Environm Climate Change Canada	76
+Dalhousie Univ	Fisheries & Oceans Canada	120
+Dalhousie Univ	GEOMAR Helmholtz Ctr Ocean Res Kiel	22
+Dalhousie Univ	Geol Survey Canada	60
+Dalhousie Univ	Harvard Univ	20
+Dalhousie Univ	McGill Univ	40
+Dalhousie Univ	Mem Univ Newfoundland	32
+Dalhousie Univ	NOAA	38
+Dalhousie Univ	Natl Res Council Canada	20
+Dalhousie Univ	Tech Univ Denmark	20
+Dalhousie Univ	Univ Alaska Fairbanks	40
+Dalhousie Univ	Univ Alberta	28
+Dalhousie Univ	Univ British Columbia	32
+Dalhousie Univ	Univ Colorado	34
+Dalhousie Univ	Univ Laval	56
+Dalhousie Univ	Univ Manitoba	36
+Dalhousie Univ	Univ New Brunswick	22
+Dalhousie Univ	Univ Quebec	50
+Dalhousie Univ	Univ Saskatchewan	20
+Dalhousie Univ	Univ Toronto	72
+Dalhousie Univ	Univ Victoria	24
+Dalhousie Univ	Univ Waterloo	20
+Dalhousie Univ	Univ Western Ontario	20
+Dalhousie Univ	Western Univ	20
+Dalhousie Univ	York Univ	24
+Danish Meteorol Inst	ETH Zurich	24
+Danish Meteorol Inst	Finnish Meteorol Inst	50
+Danish Meteorol Inst	Geol Survey Denmark & Greenland	60
+Danish Meteorol Inst	Greenland Inst Nat Resources	32
+Danish Meteorol Inst	Hadley Ctr - UK	22
+Danish Meteorol Inst	Los Alamos Natl Lab	24
+Danish Meteorol Inst	Max Planck Society	48
+Danish Meteorol Inst	NASA	40
+Danish Meteorol Inst	NCAR	20
+Danish Meteorol Inst	Niels Bohr Inst	46
+Danish Meteorol Inst	Norwegian Meteorol Inst	24
+Danish Meteorol Inst	Russian Acad Sci	30
+Danish Meteorol Inst	Stockholm Univ	20
+Danish Meteorol Inst	Swiss Fed Inst Forest Snow & Landscape Res	20
+Danish Meteorol Inst	Tech Univ Denmark	46
+Danish Meteorol Inst	Univ Alaska Fairbanks	42
+Danish Meteorol Inst	Univ Alberta	20
+Danish Meteorol Inst	Univ Bremen	22
+Danish Meteorol Inst	Univ Colorado	44
+Danish Meteorol Inst	Univ Copenhagen	94
+Danish Meteorol Inst	Univ Iceland	22
+Danish Meteorol Inst	Univ Liege	22
+Danish Meteorol Inst	Univ Michigan	22
+Danish Meteorol Inst	Univ Oslo	26
+Danish Meteorol Inst	Univ Sheffield	48
+Danish Meteorol Inst	Univ Tromso	20
+Danish Meteorol Inst	Univ Utrecht	40
+Danish Meteorol Inst	Univ Washington	24
+Danish Meteorol Inst	Woods Hole Oceanog Inst	24
+Dartmouth Coll	NASA	44
+Dartmouth Coll	Univ Alaska Fairbanks	34
+Dartmouth Coll	Univ Colorado	20
+Dartmouth Coll	Univ Maine	38
+Dartmouth Coll	Univ New Hampshire	32
+Dartmouth Coll	Univ Washington	30
+Desert Research Institute NSHE	NASA	40
+Desert Research Institute NSHE	Niels Bohr Inst	30
+Desert Research Institute NSHE	Ohio State Univ	28
+Desert Research Institute NSHE	Oregon State Univ	22
+Desert Research Institute NSHE	Penn State Univ	36
+Desert Research Institute NSHE	Univ Arizona	22
+Desert Research Institute NSHE	Univ Bern	22
+Desert Research Institute NSHE	Univ Calif San Diego	24
+Desert Research Institute NSHE	Univ Colorado	34
+Desert Research Institute NSHE	Univ Copenhagen	38
+Desert Research Institute NSHE	Univ Grenoble Alpes	28
+Desert Research Institute NSHE	Univ Nevada	120
+Desert Research Institute NSHE	Univ New Hampshire	48
+Desert Research Institute NSHE	Univ Washington	52
+Durham Univ	Geol Survey Canada	28
+Durham Univ	Geol Survey Denmark & Greenland	54
+Durham Univ	Newcastle Univ	24
+Durham Univ	Stockholm Univ	28
+Durham Univ	Univ Aberdeen	38
+Durham Univ	Univ Alberta	26
+Durham Univ	Univ Cambridge	92
+Durham Univ	Univ Colorado	30
+Durham Univ	Univ Copenhagen	50
+Durham Univ	Univ Ctr Svalbard UNIS	34
+Durham Univ	Univ Edinburgh	38
+Durham Univ	Univ Leeds	26
+Durham Univ	Univ Ottawa	22
+Durham Univ	Univ Sheffield	20
+Durham Univ	Univ Toronto	20
+Durham Univ	Univ Utrecht	22
+ETH Zurich	GEOMAR Helmholtz Ctr Ocean Res Kiel	48
+ETH Zurich	GFZ German Res Ctr Geosci	20
+ETH Zurich	Geol Survey Denmark & Greenland	24
+ETH Zurich	German Aerosp Ctr	32
+ETH Zurich	Johannes Gutenberg Univ Mainz	20
+ETH Zurich	Los Alamos Natl Lab	24
+ETH Zurich	Lund Univ	22
+ETH Zurich	Max Planck Society	42
+ETH Zurich	NASA	36
+ETH Zurich	NOAA	26
+ETH Zurich	Natl Inst Earth Sciences & Astronomy - CNRS	30
+ETH Zurich	Ruprecht Karls Univ Heidelberg	20
+ETH Zurich	Russian Acad Sci	40
+ETH Zurich	Stockholm Univ	38
+ETH Zurich	Swiss Fed Inst Forest Snow & Landscape Res	44
+ETH Zurich	Univ Alaska Fairbanks	42
+ETH Zurich	Univ Bergen	30
+ETH Zurich	Univ Bern	78
+ETH Zurich	Univ Bremen	36
+ETH Zurich	Univ Bristol	22
+ETH Zurich	Univ British Columbia	22
+ETH Zurich	Univ Cambridge	34
+ETH Zurich	Univ Colorado	46
+ETH Zurich	Univ Copenhagen	34
+ETH Zurich	Univ Edinburgh	20
+ETH Zurich	Univ Grenoble Alpes	24
+ETH Zurich	Univ Iceland	32
+ETH Zurich	Univ Kiel	20
+ETH Zurich	Univ New Hampshire	20
+ETH Zurich	Univ Oslo	28
+ETH Zurich	Univ Oxford	24
+ETH Zurich	Univ Texas	24
+ETH Zurich	Univ Texas Austin	20
+ETH Zurich	Univ Utrecht	44
+ETH Zurich	Univ Zurich	50
+ETH Zurich	Uppsala Univ	28
+ETH Zurich	Woods Hole Oceanog Inst	42
+Environm Climate Change Canada	Finnish Meteorol Inst	60
+Environm Climate Change Canada	Fisheries & Oceans Canada	246
+Environm Climate Change Canada	Geol Survey Canada	44
+Environm Climate Change Canada	Greenland Inst Nat Resources	86
+Environm Climate Change Canada	Harvard Univ	22
+Environm Climate Change Canada	Helmholtz-Zentrum Geesthacht - Ctr Materials & Coastal Research	20
+Environm Climate Change Canada	JAMSTEC	20
+Environm Climate Change Canada	Johannes Gutenberg Univ Mainz	22
+Environm Climate Change Canada	Lancaster Univ	28
+Environm Climate Change Canada	Max Planck Society	38
+Environm Climate Change Canada	McGill Univ	42
+Environm Climate Change Canada	Mem Univ Newfoundland	36
+Environm Climate Change Canada	NASA	56
+Environm Climate Change Canada	NCAR	60
+Environm Climate Change Canada	NOAA	120
+Environm Climate Change Canada	NPI	84
+Environm Climate Change Canada	Natl Environm Res Inst Denmark	46
+Environm Climate Change Canada	Natl Inst Earth Sciences & Astronomy - CNRS	26
+Environm Climate Change Canada	Natl Res Council Canada	36
+Environm Climate Change Canada	Norwegian Inst Air Res	70
+Environm Climate Change Canada	Norwegian Univ Sci & Technol	26
+Environm Climate Change Canada	Pacific Northwest Natl Lab	26
+Environm Climate Change Canada	Purdue Univ	50
+Environm Climate Change Canada	Queens Univ	52
+Environm Climate Change Canada	Ruprecht Karls Univ Heidelberg	24
+Environm Climate Change Canada	Russian Acad Sci	32
+Environm Climate Change Canada	Simon Fraser Univ	34
+Environm Climate Change Canada	Sorbonne Univ	22
+Environm Climate Change Canada	Stockholm Univ	48
+Environm Climate Change Canada	Swedish Univ Agr Sci	22
+Environm Climate Change Canada	Trent Univ	46
+Environm Climate Change Canada	US Fish & Wildlife Serv	58
+Environm Climate Change Canada	US Geol Survey	48
+Environm Climate Change Canada	Univ Alaska	28
+Environm Climate Change Canada	Univ Alaska Fairbanks	82
+Environm Climate Change Canada	Univ Alberta	166
+Environm Climate Change Canada	Univ Bremen	32
+Environm Climate Change Canada	Univ British Columbia	34
+Environm Climate Change Canada	Univ Calgary	50
+Environm Climate Change Canada	Univ Calif Irvine	22
+Environm Climate Change Canada	Univ Calif San Diego	20
+Environm Climate Change Canada	Univ Colorado	102
+Environm Climate Change Canada	Univ Copenhagen	32
+Environm Climate Change Canada	Univ Ctr Svalbard UNIS	20
+Environm Climate Change Canada	Univ Georgia	36
+Environm Climate Change Canada	Univ Grenoble Alpes	38
+Environm Climate Change Canada	Univ Guelph	70
+Environm Climate Change Canada	Univ Laval	54
+Environm Climate Change Canada	Univ Manitoba	124
+Environm Climate Change Canada	Univ Michigan	22
+Environm Climate Change Canada	Univ New Brunswick	30
+Environm Climate Change Canada	Univ New Hampshire	22
+Environm Climate Change Canada	Univ Oslo	44
+Environm Climate Change Canada	Univ Ottawa	78
+Environm Climate Change Canada	Univ Quebec	46
+Environm Climate Change Canada	Univ Saskatchewan	80
+Environm Climate Change Canada	Univ Toronto	204
+Environm Climate Change Canada	Univ Victoria	74
+Environm Climate Change Canada	Univ Washington	46
+Environm Climate Change Canada	Univ Waterloo	80
+Environm Climate Change Canada	Univ Wisconsin	28
+Environm Climate Change Canada	Univ Wisconsin Madison	28
+Environm Climate Change Canada	Woods Hole Oceanog Inst	22
+Environm Climate Change Canada	York Univ	72
+Finnish Meteorol Inst	Max Planck Society	32
+Finnish Meteorol Inst	NASA	30
+Finnish Meteorol Inst	NCAR	28
+Finnish Meteorol Inst	NOAA	62
+Finnish Meteorol Inst	NPI	44
+Finnish Meteorol Inst	Norwegian Inst Air Res	58
+Finnish Meteorol Inst	Norwegian Meteorol Inst	22
+Finnish Meteorol Inst	Royal Netherlands Meteorol Inst	30
+Finnish Meteorol Inst	Russian Acad Sci	30
+Finnish Meteorol Inst	Stockholm Univ	62
+Finnish Meteorol Inst	Univ Alaska Fairbanks	24
+Finnish Meteorol Inst	Univ Bergen	26
+Finnish Meteorol Inst	Univ Bremen	36
+Finnish Meteorol Inst	Univ Coll London	22
+Finnish Meteorol Inst	Univ Colorado	50
+Finnish Meteorol Inst	Univ Ctr Svalbard UNIS	36
+Finnish Meteorol Inst	Univ E Finland	30
+Finnish Meteorol Inst	Univ Gothenburg	20
+Finnish Meteorol Inst	Univ Hamburg	26
+Finnish Meteorol Inst	Univ Helsinki	194
+Finnish Meteorol Inst	Univ Maryland	24
+Finnish Meteorol Inst	Univ Oslo	28
+Finnish Meteorol Inst	Univ Otago	38
+Finnish Meteorol Inst	Univ Oulu	74
+Fisheries & Oceans Canada	Geol Survey Canada	74
+Fisheries & Oceans Canada	Greenland Inst Nat Resources	112
+Fisheries & Oceans Canada	Hokkaido Univ	20
+Fisheries & Oceans Canada	IFREMER	20
+Fisheries & Oceans Canada	Inst Oceanol - Polish Acad Sci	66
+Fisheries & Oceans Canada	JAMSTEC	66
+Fisheries & Oceans Canada	McGill Univ	74
+Fisheries & Oceans Canada	Mem Univ Newfoundland	130
+Fisheries & Oceans Canada	NASA	26
+Fisheries & Oceans Canada	NERC National Oceanography Centre	52
+Fisheries & Oceans Canada	NOAA	194
+Fisheries & Oceans Canada	NPI	78
+Fisheries & Oceans Canada	Natl Environm Res Inst Denmark	28
+Fisheries & Oceans Canada	Natl Marine Fisheries Serv - US	40
+Fisheries & Oceans Canada	Natl Oceanog Ctr - UK	34
+Fisheries & Oceans Canada	Natl Res Council Canada	24
+Fisheries & Oceans Canada	Norwegian Inst Marine Res	64
+Fisheries & Oceans Canada	Norwegian Inst Nat Res	28
+Fisheries & Oceans Canada	Oregon State Univ	62
+Fisheries & Oceans Canada	Polish Acad Sci	66
+Fisheries & Oceans Canada	Research lnstitute of Fisheries & Oceanography - RAS	24
+Fisheries & Oceans Canada	Russian Acad Sci	54
+Fisheries & Oceans Canada	Simon Fraser Univ	30
+Fisheries & Oceans Canada	Sorbonne Univ	24
+Fisheries & Oceans Canada	Stockholm Univ	20
+Fisheries & Oceans Canada	Trent Univ	46
+Fisheries & Oceans Canada	US Geol Survey	24
+Fisheries & Oceans Canada	US Navy	20
+Fisheries & Oceans Canada	Univ Alaska	34
+Fisheries & Oceans Canada	Univ Alaska Fairbanks	116
+Fisheries & Oceans Canada	Univ Alberta	92
+Fisheries & Oceans Canada	Univ Bremen	26
+Fisheries & Oceans Canada	Univ British Columbia	142
+Fisheries & Oceans Canada	Univ Calif San Diego	46
+Fisheries & Oceans Canada	Univ Cape Town	20
+Fisheries & Oceans Canada	Univ Colorado	26
+Fisheries & Oceans Canada	Univ Delaware	22
+Fisheries & Oceans Canada	Univ Gothenburg	64
+Fisheries & Oceans Canada	Univ Guelph	36
+Fisheries & Oceans Canada	Univ Hamburg	30
+Fisheries & Oceans Canada	Univ Laval	212
+Fisheries & Oceans Canada	Univ Manitoba	412
+Fisheries & Oceans Canada	Univ Maryland	24
+Fisheries & Oceans Canada	Univ New Brunswick	24
+Fisheries & Oceans Canada	Univ Oslo	28
+Fisheries & Oceans Canada	Univ Ottawa	32
+Fisheries & Oceans Canada	Univ Quebec	264
+Fisheries & Oceans Canada	Univ Rhode Island	46
+Fisheries & Oceans Canada	Univ Saskatchewan	30
+Fisheries & Oceans Canada	Univ Southampton	20
+Fisheries & Oceans Canada	Univ Toronto	54
+Fisheries & Oceans Canada	Univ Tromso	36
+Fisheries & Oceans Canada	Univ Victoria	144
+Fisheries & Oceans Canada	Univ Washington	154
+Fisheries & Oceans Canada	Univ Waterloo	96
+Fisheries & Oceans Canada	Woods Hole Oceanog Inst	108
+Fisheries & Oceans Canada	York Univ	32
+Fisheries Research Agency - Japan	Hokkaido Univ	66
+Fisheries Research Agency - Japan	NOAA	34
+Florida State Univ	GEOMAR Helmholtz Ctr Ocean Res Kiel	22
+Florida State Univ	NASA	24
+Florida State Univ	NOAA	32
+Florida State Univ	Univ Alaska	20
+Florida State Univ	Univ Alaska Fairbanks	44
+Florida State Univ	Univ Colorado	22
+Florida State Univ	Univ Washington	24
+Florida State Univ	Woods Hole Oceanog Inst	28
+Free Univ Berlin	GFZ German Res Ctr Geosci	52
+Free Univ Berlin	Russian Acad Sci	26
+Free Univ Berlin	Univ Cologne	24
+GEOMAR Helmholtz Ctr Ocean Res Kiel	GFZ German Res Ctr Geosci	20
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Geol Survey Canada	22
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Geol Survey Denmark & Greenland	24
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Hadley Ctr - UK	20
+GEOMAR Helmholtz Ctr Ocean Res Kiel	IFREMER	30
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Lomonosov Moscow State Univ	46
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Max Planck Society	58
+GEOMAR Helmholtz Ctr Ocean Res Kiel	NASA	24
+GEOMAR Helmholtz Ctr Ocean Res Kiel	NCAR	24
+GEOMAR Helmholtz Ctr Ocean Res Kiel	NERC National Oceanography Centre	104
+GEOMAR Helmholtz Ctr Ocean Res Kiel	NOAA	36
+GEOMAR Helmholtz Ctr Ocean Res Kiel	NPI	40
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Natl Inst Earth Sciences & Astronomy - CNRS	22
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Natl Oceanog Ctr - UK	56
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Ohio State Univ	26
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Oregon State Univ	26
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Royal Netherlands Inst Sea Res NIOZ	52
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Russian Acad Sci	98
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Shirshov Inst Oceanol - RAS	34
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Sorbonne Univ	22
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Stockholm Univ	44
+GEOMAR Helmholtz Ctr Ocean Res Kiel	US Geol Survey	38
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Univ Alaska Fairbanks	44
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Univ Alberta	20
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Univ Bergen	96
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Univ Bremen	112
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Univ Bristol	26
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Univ Calif San Diego	32
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Univ Cambridge	32
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Univ Colorado	34
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Univ Copenhagen	26
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Univ Gothenburg	26
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Univ Hamburg	30
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Univ Kiel	352
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Univ Oslo	30
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Univ Oxford	26
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Univ Pierre & Marie Curie	26
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Univ Southampton	46
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Univ Toronto	20
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Univ Tromso	52
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Univ Utrecht	44
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Univ Washington	36
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Vernadsky Inst Geochem & Analyt Chem - RAS	22
+GEOMAR Helmholtz Ctr Ocean Res Kiel	Woods Hole Oceanog Inst	40
+GFZ German Res Ctr Geosci	Geol Survey Denmark & Greenland	28
+GFZ German Res Ctr Geosci	Geol Survey Norway	20
+GFZ German Res Ctr Geosci	Max Planck Society	26
+GFZ German Res Ctr Geosci	Russian Acad Sci	40
+GFZ German Res Ctr Geosci	Univ Bremen	36
+GFZ German Res Ctr Geosci	Univ Bristol	30
+GFZ German Res Ctr Geosci	Univ Copenhagen	24
+GFZ German Res Ctr Geosci	Univ Hamburg	22
+GFZ German Res Ctr Geosci	Univ Iceland	20
+GFZ German Res Ctr Geosci	Univ Kiel	20
+GFZ German Res Ctr Geosci	Univ Leeds	22
+GFZ German Res Ctr Geosci	Univ Oslo	36
+GFZ German Res Ctr Geosci	Univ Potsdam	54
+GFZ German Res Ctr Geosci	Univ Utrecht	26
+GNS Science - New Zealand	Victoria Univ Wellington	24
+Geol Inst - RAS	Kola Sci Ctr - RAS	128
+Geol Inst - RAS	Lomonosov Moscow State Univ	82
+Geol Inst - RAS	Open Univ	24
+Geol Inst - RAS	Russian Acad Sci	1136
+Geol Inst - RAS	Shirshov Inst Oceanol - RAS	38
+Geol Inst - RAS	St Petersburg State Univ	96
+Geol Inst - RAS	Univ Bern	20
+Geol Inst - RAS	Univ Oulu	28
+Geol Inst - RAS	Vernadsky Inst Geochem & Analyt Chem - RAS	32
+Geol Survey Canada	Geol Survey Denmark & Greenland	58
+Geol Survey Canada	McGill Univ	94
+Geol Survey Canada	Mem Univ Newfoundland	56
+Geol Survey Canada	Natl Res Council Canada	138
+Geol Survey Canada	Niels Bohr Inst	22
+Geol Survey Canada	Oregon State Univ	22
+Geol Survey Canada	Queens Univ	38
+Geol Survey Canada	Russian Acad Sci	34
+Geol Survey Canada	Stockholm Univ	28
+Geol Survey Canada	US Geol Survey	50
+Geol Survey Canada	Univ Alaska Fairbanks	34
+Geol Survey Canada	Univ Alberta	136
+Geol Survey Canada	Univ British Columbia	34
+Geol Survey Canada	Univ Calgary	78
+Geol Survey Canada	Univ Calif San Diego	26
+Geol Survey Canada	Univ Cambridge	24
+Geol Survey Canada	Univ Colorado	70
+Geol Survey Canada	Univ Copenhagen	36
+Geol Survey Canada	Univ Laval	26
+Geol Survey Canada	Univ Leeds	32
+Geol Survey Canada	Univ Manitoba	42
+Geol Survey Canada	Univ New Brunswick	36
+Geol Survey Canada	Univ New Hampshire	22
+Geol Survey Canada	Univ Oslo	32
+Geol Survey Canada	Univ Ottawa	112
+Geol Survey Canada	Univ Quebec	72
+Geol Survey Canada	Univ Saskatchewan	26
+Geol Survey Canada	Univ Toronto	36
+Geol Survey Canada	Univ Victoria	40
+Geol Survey Canada	Univ Washington	20
+Geol Survey Canada	Vrije Univ Amsterdam	20
+Geol Survey Denmark & Greenland	Geol Survey Norway	34
+Geol Survey Denmark & Greenland	Lund Univ	92
+Geol Survey Denmark & Greenland	NASA	32
+Geol Survey Denmark & Greenland	NERC National Oceanography Centre	26
+Geol Survey Denmark & Greenland	NOAA	20
+Geol Survey Denmark & Greenland	NPI	30
+Geol Survey Denmark & Greenland	Niels Bohr Inst	50
+Geol Survey Denmark & Greenland	Ohio State Univ	44
+Geol Survey Denmark & Greenland	Oregon State Univ	36
+Geol Survey Denmark & Greenland	Royal Netherlands Inst Sea Res NIOZ	28
+Geol Survey Denmark & Greenland	Russian Acad Sci	22
+Geol Survey Denmark & Greenland	Stockholm Univ	68
+Geol Survey Denmark & Greenland	Swansea Univ	22
+Geol Survey Denmark & Greenland	Swedish Museum Nat Hist	26
+Geol Survey Denmark & Greenland	Swiss Fed Inst Forest Snow & Landscape Res	20
+Geol Survey Denmark & Greenland	Tech Univ Denmark	110
+Geol Survey Denmark & Greenland	Univ Alaska Fairbanks	26
+Geol Survey Denmark & Greenland	Univ Alberta	50
+Geol Survey Denmark & Greenland	Univ Bergen	68
+Geol Survey Denmark & Greenland	Univ Bremen	24
+Geol Survey Denmark & Greenland	Univ Bristol	44
+Geol Survey Denmark & Greenland	Univ Calif Irvine	36
+Geol Survey Denmark & Greenland	Univ Calif Los Angeles	20
+Geol Survey Denmark & Greenland	Univ Calif Santa Barbara	20
+Geol Survey Denmark & Greenland	Univ Cambridge	54
+Geol Survey Denmark & Greenland	Univ Cologne	48
+Geol Survey Denmark & Greenland	Univ Colorado	98
+Geol Survey Denmark & Greenland	Univ Copenhagen	464
+Geol Survey Denmark & Greenland	Univ Ctr Svalbard UNIS	74
+Geol Survey Denmark & Greenland	Univ Edinburgh	38
+Geol Survey Denmark & Greenland	Univ Helsinki	28
+Geol Survey Denmark & Greenland	Univ Iceland	30
+Geol Survey Denmark & Greenland	Univ Kansas	20
+Geol Survey Denmark & Greenland	Univ Leicester	20
+Geol Survey Denmark & Greenland	Univ Liege	34
+Geol Survey Denmark & Greenland	Univ New Hampshire	20
+Geol Survey Denmark & Greenland	Univ Oslo	32
+Geol Survey Denmark & Greenland	Univ Oxford	36
+Geol Survey Denmark & Greenland	Univ Sheffield	32
+Geol Survey Denmark & Greenland	Univ Tromso	92
+Geol Survey Denmark & Greenland	Univ Utrecht	96
+Geol Survey Denmark & Greenland	Univ Washington	34
+Geol Survey Denmark & Greenland	Univ Western Australia	22
+Geol Survey Denmark & Greenland	Univ Zurich	44
+Geol Survey Denmark & Greenland	Uppsala Univ	40
+Geol Survey Denmark & Greenland	Vrije Univ Amsterdam	36
+Geol Survey Denmark & Greenland	Woods Hole Oceanog Inst	28
+Geol Survey Denmark & Greenland	York Univ	22
+Geol Survey Norway	Kola Sci Ctr - RAS	26
+Geol Survey Norway	Lund Univ	36
+Geol Survey Norway	Natl Inst Earth Sciences & Astronomy - CNRS	20
+Geol Survey Norway	Norwegian Inst Marine Res	28
+Geol Survey Norway	Norwegian Univ Sci & Technol	104
+Geol Survey Norway	Russian Acad Sci	64
+Geol Survey Norway	SINTEF	38
+Geol Survey Norway	Univ Bergen	104
+Geol Survey Norway	Univ Bremen	26
+Geol Survey Norway	Univ Cambridge	38
+Geol Survey Norway	Univ Copenhagen	54
+Geol Survey Norway	Univ Ctr Svalbard UNIS	50
+Geol Survey Norway	Univ Oslo	120
+Geol Survey Norway	Univ Tromso	168
+Georgia Inst Technol	NASA	52
+Georgia Inst Technol	NCAR	34
+Georgia Inst Technol	NOAA	50
+Georgia Inst Technol	Purdue Univ	20
+Georgia Inst Technol	Univ Calif Irvine	24
+Georgia Inst Technol	Univ Colorado	46
+Georgia Inst Technol	Univ New Hampshire	56
+Georgia Inst Technol	Woods Hole Oceanog Inst	26
+German Aerosp Ctr	Max Planck Society	28
+German Aerosp Ctr	NASA	34
+German Aerosp Ctr	NOAA	20
+German Aerosp Ctr	Natl Inst Earth Sciences & Astronomy - CNRS	20
+German Aerosp Ctr	Sorbonne Univ	20
+German Aerosp Ctr	Univ Munich	32
+Ghent University	Univ Bremen	20
+Ghent University	Univ Ghent	172
+Goethe Univ Frankfurt	Senckenberg Gesellschaft fur Naturforschung SGN	26
+Grad Univ Adv Studies - Japan	Hokkaido Univ	24
+Grad Univ Adv Studies - Japan	NIPR	100
+Grad Univ Adv Studies - Japan	Nagoya Univ	22
+Greenland Inst Nat Resources	Lund Univ	20
+Greenland Inst Nat Resources	Mem Univ Newfoundland	22
+Greenland Inst Nat Resources	NOAA	64
+Greenland Inst Nat Resources	NPI	72
+Greenland Inst Nat Resources	Natl Environm Res Inst Denmark	130
+Greenland Inst Nat Resources	Norwegian Inst Marine Res	50
+Greenland Inst Nat Resources	Norwegian Univ Sci & Technol	20
+Greenland Inst Nat Resources	Royal Netherlands Inst Sea Res NIOZ	44
+Greenland Inst Nat Resources	Swedish Museum Nat Hist	20
+Greenland Inst Nat Resources	Tech Univ Denmark	146
+Greenland Inst Nat Resources	UHI Millenium Inst	26
+Greenland Inst Nat Resources	US Fish & Wildlife Serv	22
+Greenland Inst Nat Resources	Univ Alaska Fairbanks	22
+Greenland Inst Nat Resources	Univ Alberta	22
+Greenland Inst Nat Resources	Univ Copenhagen	196
+Greenland Inst Nat Resources	Univ Laval	24
+Greenland Inst Nat Resources	Univ Manitoba	154
+Greenland Inst Nat Resources	Univ Oslo	56
+Greenland Inst Nat Resources	Univ Quebec	20
+Greenland Inst Nat Resources	Univ Southern Denmark	56
+Greenland Inst Nat Resources	Univ St Andrews	22
+Greenland Inst Nat Resources	Univ Tromso	44
+Greenland Inst Nat Resources	Univ Utrecht	40
+Greenland Inst Nat Resources	Univ Washington	126
+Hadley Ctr - UK	Max Planck Society	28
+Hadley Ctr - UK	Met Office - UK	44
+Hadley Ctr - UK	NASA	20
+Hadley Ctr - UK	NCAR	26
+Hadley Ctr - UK	NERC National Oceanography Centre	26
+Hadley Ctr - UK	NOAA	26
+Hadley Ctr - UK	Univ Bristol	32
+Hadley Ctr - UK	Univ East Anglia	20
+Hadley Ctr - UK	Univ Reading	68
+Hadley Ctr - UK	Univ Utrecht	24
+Harvard Univ	MIT	38
+Harvard Univ	McGill Univ	24
+Harvard Univ	NASA	46
+Harvard Univ	NCAR	32
+Harvard Univ	NOAA	54
+Harvard Univ	Princeton Univ	24
+Harvard Univ	Russian Acad Sci	26
+Harvard Univ	Stockholm Univ	20
+Harvard Univ	US Geol Survey	20
+Harvard Univ	Univ Alaska Fairbanks	20
+Harvard Univ	Univ Colorado	48
+Harvard Univ	Univ Copenhagen	52
+Harvard Univ	Univ Southern Denmark	60
+Harvard Univ	Univ Toronto	48
+Harvard Univ	Univ Washington	22
+Heidelberg Univ	Max Planck Society	20
+Heidelberg Univ	Niels Bohr Inst	20
+Heidelberg Univ	Ruprecht Karls Univ Heidelberg	214
+Heidelberg Univ	Univ Alaska Fairbanks	24
+Heidelberg Univ	Univ Bern	40
+Heidelberg Univ	Univ Copenhagen	24
+Heidelberg Univ	Univ Grenoble Alpes	20
+Hokkaido Univ	JAMSTEC	204
+Hokkaido Univ	KOPRI	20
+Hokkaido Univ	Kyoto Univ	24
+Hokkaido Univ	Kyushu Univ	32
+Hokkaido Univ	NIPR	184
+Hokkaido Univ	NOAA	50
+Hokkaido Univ	Nagoya Univ	64
+Hokkaido Univ	Natl Inst Adv Ind Sci & Technol AIST - Japan	20
+Hokkaido Univ	Natl Inst Environm Studies - Japan	24
+Hokkaido Univ	Russian Acad Sci	28
+Hokkaido Univ	Tohoku Univ	28
+Hokkaido Univ	Univ Alaska	46
+Hokkaido Univ	Univ Alaska Fairbanks	152
+Hokkaido Univ	Univ Bergen	70
+Hokkaido Univ	Univ Copenhagen	20
+Hokkaido Univ	Univ Oslo	20
+Hokkaido Univ	Univ Tokyo	116
+Hokkaido Univ	Univ Washington	34
+IFREMER	Inst Ecology & Environment - CNRS	20
+IFREMER	NERC National Oceanography Centre	44
+IFREMER	Natl Inst Earth Sciences & Astronomy - CNRS	58
+Imperial Coll London	Univ Bristol	30
+Imperial Coll London	Univ Coll London	28
+Imperial Coll London	Univ London Imperial Coll Sci & Technol	150
+Imperial Coll London	Univ Oslo	26
+Imperial Coll London	Univ Oulu	20
+Inst Atmospher Phys - Chinese Acad Sci	Nanjing Univ Informat Sci & Technol	70
+Inst Atmospher Phys - Chinese Acad Sci	Nansen Environm & Remote Sensing Ctr	32
+Inst Atmospher Phys - Chinese Acad Sci	Ocean Univ China	22
+Inst Atmospher Phys - Chinese Acad Sci	Univ Bergen	22
+Inst Atmospher Phys - Chinese Acad Sci	Univ Chinese Acad Sci	96
+Inst Ecology & Environment - CNRS	Museum Natl Hist Nat - France	28
+Inst Ecology & Environment - CNRS	NPI	32
+Inst Ecology & Environment - CNRS	Natl Inst Earth Sciences & Astronomy - CNRS	56
+Inst Ecology & Environment - CNRS	Norwegian Inst Nat Res	28
+Inst Ecology & Environment - CNRS	Sorbonne Univ	32
+Inst Ecology & Environment - CNRS	Univ Laval	36
+Inst Ecology & Environment - CNRS	Univ Montpellier	50
+Inst Ecology & Environment - CNRS	Univ Paris	26
+Inst Ecology & Environment - CNRS	Univ Pierre & Marie Curie	56
+Inst Ecology & Environment - CNRS	Univ Tromso	22
+Inst Geol & Geophys - Chinese Acad Sci	Univ Chinese Acad Sci	36
+Inst Marine Sci ICM - CSIC	Univ Laval	34
+Inst Oceanol - Polish Acad Sci	NPI	122
+Inst Oceanol - Polish Acad Sci	Natural History Museum London	52
+Inst Oceanol - Polish Acad Sci	Norwegian Inst Marine Res	42
+Inst Oceanol - Polish Acad Sci	Plymouth Marine Lab	22
+Inst Oceanol - Polish Acad Sci	Polish Acad Sci	786
+Inst Oceanol - Polish Acad Sci	Russian Acad Sci	20
+Inst Oceanol - Polish Acad Sci	Univ Alaska Fairbanks	28
+Inst Oceanol - Polish Acad Sci	Univ Bergen	24
+Inst Oceanol - Polish Acad Sci	Univ Ctr Svalbard UNIS	76
+Inst Oceanol - Polish Acad Sci	Univ Maryland	26
+Inst Oceanol - Polish Acad Sci	Univ Tromso	84
+JAMSTEC	KOPRI	26
+JAMSTEC	Kyoto Univ	22
+JAMSTEC	Kyushu Univ	32
+JAMSTEC	NASA	30
+JAMSTEC	NCAR	22
+JAMSTEC	NIPR	132
+JAMSTEC	NOAA	42
+JAMSTEC	Nagoya Univ	46
+JAMSTEC	Natl Inst Environm Studies - Japan	38
+JAMSTEC	Russian Acad Sci	42
+JAMSTEC	Tohoku Univ	28
+JAMSTEC	Univ Alaska	28
+JAMSTEC	Univ Alaska Fairbanks	100
+JAMSTEC	Univ Calif San Diego	24
+JAMSTEC	Univ Colorado	22
+JAMSTEC	Univ Maryland	22
+JAMSTEC	Univ Tokyo	170
+JAMSTEC	Univ Washington	46
+JAMSTEC	Woods Hole Oceanog Inst	42
+Japan Aerosp Explor Agcy JAXA	NIPR	20
+Japan Aerosp Explor Agcy JAXA	Nagoya Univ	22
+Johannes Gutenberg Univ Mainz	Max Planck Society	48
+Johannes Gutenberg Univ Mainz	Univ Toronto	28
+Johns Hopkins Univ	NOAA	20
+Johns Hopkins Univ	Univ Alberta	24
+Johns Hopkins Univ	Univ Bergen	24
+Johns Hopkins Univ	Univ Ctr Svalbard UNIS	24
+Johns Hopkins Univ	Univ Oslo	30
+Johns Hopkins Univ	Woods Hole Oceanog Inst	24
+KIOST	KOPRI	72
+KIOST	Univ Grenoble Alpes	20
+KOPRI	NOAA	22
+KOPRI	NPI	22
+KOPRI	Seoul Natl Univ	68
+KOPRI	Stockholm Univ	30
+KOPRI	Univ Alaska Fairbanks	42
+KOPRI	Univ Bremen	26
+KU Louvain	Vrije Univ Amsterdam	28
+Karlsruhe Inst Technol - Helmholtz Association	NCAR	24
+Karlsruhe Inst Technol - Helmholtz Association	Univ Bremen	36
+Kola Sci Ctr - RAS	Lomonosov Moscow State Univ	30
+Kola Sci Ctr - RAS	Russian Acad Sci	924
+Kola Sci Ctr - RAS	Shirshov Inst Oceanol - RAS	32
+Kola Sci Ctr - RAS	St Petersburg State Univ	64
+Kyoto Univ	NIPR	54
+Kyoto Univ	Univ Tokyo	20
+Kyushu Univ	NIPR	24
+Kyushu Univ	Nagoya Univ	20
+Kyushu Univ	Univ Tokyo	24
+Laboratoire dEtudes en Geophysique et oceanographie spatiales - CNRS	Univ Toulouse	62
+Lamont Doherty Earth Observ	Woods Hole Oceanog Inst	22
+Lancaster Univ	NIPR	20
+Lancaster Univ	Norwegian Inst Air Res	20
+Lancaster Univ	Univ Coll London	22
+Lancaster Univ	Univ Ctr Svalbard UNIS	28
+Lancaster Univ	Univ Tromso	28
+Lawrence Berkeley Natl Lab	Los Alamos Natl Lab	26
+Lawrence Berkeley Natl Lab	Pacific Northwest Natl Lab	22
+Lawrence Berkeley Natl Lab	Univ Alaska Fairbanks	20
+Lawrence Berkeley Natl Lab	Univ Calif Berkeley	102
+Lawrence Livermore Natl Lab	Univ Calif Berkeley	24
+Lawrence Livermore Natl Lab	Univ Calif Santa Barbara	34
+Lawrence Livermore Natl Lab	Univ Calif Santa Cruz	26
+Lawrence Livermore Natl Lab	Univ Colorado	26
+Lawrence Livermore Natl Lab	Univ Washington	20
+Lomonosov Moscow State Univ	Obukhov Inst Atmospher Phys - RAS	34
+Lomonosov Moscow State Univ	Research lnstitute of Fisheries & Oceanography - RAS	48
+Lomonosov Moscow State Univ	Russian Acad Sci	846
+Lomonosov Moscow State Univ	Severtsov Inst Ecol & Evolut - RAS	68
+Lomonosov Moscow State Univ	Shirshov Inst Oceanol - RAS	236
+Lomonosov Moscow State Univ	St Petersburg State Univ	76
+Lomonosov Moscow State Univ	Stockholm Univ	28
+Lomonosov Moscow State Univ	Univ Alaska	26
+Lomonosov Moscow State Univ	Univ Alaska Fairbanks	80
+Lomonosov Moscow State Univ	Univ Copenhagen	22
+Lomonosov Moscow State Univ	Vernadsky Inst Geochem & Analyt Chem - RAS	52
+Lomonosov Moscow State Univ	Zoo Inst - RAS	26
+Los Alamos Natl Lab	NASA	52
+Los Alamos Natl Lab	NCAR	42
+Los Alamos Natl Lab	Univ Alaska Fairbanks	74
+Los Alamos Natl Lab	Univ Bristol	28
+Los Alamos Natl Lab	Univ Calif Berkeley	24
+Los Alamos Natl Lab	Univ Colorado	44
+Los Alamos Natl Lab	Univ Copenhagen	26
+Los Alamos Natl Lab	Univ Sheffield	24
+Los Alamos Natl Lab	Univ Texas	50
+Los Alamos Natl Lab	Univ Texas Austin	38
+Los Alamos Natl Lab	Univ Utrecht	36
+Los Alamos Natl Lab	Univ Washington	30
+Louisiana State Univ	NOAA	26
+Lund Univ	Max Planck Society	36
+Lund Univ	NPI	20
+Lund Univ	Niels Bohr Inst	58
+Lund Univ	Norwegian Univ Life Sci	20
+Lund Univ	Norwegian Univ Sci & Technol	20
+Lund Univ	Royal Holloway Univ London	20
+Lund Univ	Russian Acad Sci	54
+Lund Univ	Stockholm Univ	92
+Lund Univ	Swedish Museum Nat Hist	30
+Lund Univ	Swedish Univ Agr Sci	22
+Lund Univ	Univ Alaska Fairbanks	22
+Lund Univ	Univ Bergen	52
+Lund Univ	Univ Bern	38
+Lund Univ	Univ Bonn	22
+Lund Univ	Univ Cambridge	22
+Lund Univ	Univ Colorado	38
+Lund Univ	Univ Copenhagen	304
+Lund Univ	Univ Ctr Svalbard UNIS	50
+Lund Univ	Univ Gothenburg	48
+Lund Univ	Univ Helsinki	38
+Lund Univ	Univ Iceland	60
+Lund Univ	Univ Oxford	26
+Lund Univ	Univ Sheffield	20
+Lund Univ	Univ Stockholm	26
+Lund Univ	Univ Tromso	54
+Lund Univ	Univ Utrecht	62
+Lund Univ	Univ Washington	22
+Lund Univ	Uppsala Univ	38
+Lund Univ	Vrije Univ Amsterdam	22
+Lund Univ	Woods Hole Oceanog Inst	20
+MIT	Max Planck Society	20
+MIT	NASA	30
+MIT	NERC National Oceanography Centre	20
+MIT	Princeton Univ	22
+MIT	Univ Calif San Diego	38
+MIT	Univ Texas	26
+MIT	Univ Washington	38
+MIT	Woods Hole Oceanog Inst	142
+Macquarie Univ	Russian Acad Sci	20
+Marine Biol Lab - US	US Geol Survey	20
+Marine Biol Lab - US	Univ Alaska Fairbanks	38
+Marine Biol Lab - US	Univ Michigan	24
+Marine Biol Lab - US	Univ New Hampshire	20
+Marine Biol Lab - US	Univ Texas	56
+Marine Biol Lab - US	Univ Texas Austin	24
+Marine Biol Lab - US	Woods Hole Oceanog Inst	274
+Max Planck Inst Marine Microbiol	Max Planck Society	170
+Max Planck Inst Marine Microbiol	Univ Bremen	28
+Max Planck Society	NASA	46
+Max Planck Society	NCAR	34
+Max Planck Society	NERC National Oceanography Centre	22
+Max Planck Society	NOAA	52
+Max Planck Society	NPI	20
+Max Planck Society	Nansen Environm & Remote Sensing Ctr	26
+Max Planck Society	Natl Inst Earth Sciences & Astronomy - CNRS	36
+Max Planck Society	Oregon State Univ	22
+Max Planck Society	Potsdam Inst Climate Impact Res	20
+Max Planck Society	Res Ctr Julich - Helmholtz Association	26
+Max Planck Society	Royal Netherlands Meteorol Inst	44
+Max Planck Society	Ruprecht Karls Univ Heidelberg	34
+Max Planck Society	Russian Acad Sci	76
+Max Planck Society	Sorbonne Univ	32
+Max Planck Society	Stockholm Univ	66
+Max Planck Society	Univ Alaska	22
+Max Planck Society	Univ Alaska Fairbanks	56
+Max Planck Society	Univ Bergen	30
+Max Planck Society	Univ Bern	34
+Max Planck Society	Univ Bremen	72
+Max Planck Society	Univ Bristol	22
+Max Planck Society	Univ Calif Berkeley	20
+Max Planck Society	Univ Calif San Diego	26
+Max Planck Society	Univ Calif Santa Barbara	24
+Max Planck Society	Univ Cambridge	20
+Max Planck Society	Univ Colorado	60
+Max Planck Society	Univ Copenhagen	58
+Max Planck Society	Univ East Anglia	26
+Max Planck Society	Univ Gothenburg	20
+Max Planck Society	Univ Grenoble Alpes	36
+Max Planck Society	Univ Hamburg	88
+Max Planck Society	Univ Hawaii	20
+Max Planck Society	Univ Helsinki	26
+Max Planck Society	Univ Kiel	42
+Max Planck Society	Univ Leeds	28
+Max Planck Society	Univ Leicester	26
+Max Planck Society	Univ Oulu	22
+Max Planck Society	Univ Pierre & Marie Curie	20
+Max Planck Society	Univ Toronto	30
+Max Planck Society	Univ Tromso	48
+Max Planck Society	Univ Utrecht	48
+Max Planck Society	Univ Washington	32
+Max Planck Society	Vrije Univ Amsterdam	24
+Max Planck Society	Wageningen Univ	20
+Max Planck Society	Woods Hole Oceanog Inst	26
+McGill Univ	Natl Res Council Canada	26
+McGill Univ	Princeton Univ	20
+McGill Univ	Univ Alaska Fairbanks	22
+McGill Univ	Univ Alberta	32
+McGill Univ	Univ British Columbia	20
+McGill Univ	Univ Calif San Diego	20
+McGill Univ	Univ Copenhagen	24
+McGill Univ	Univ Guelph	32
+McGill Univ	Univ Laval	100
+McGill Univ	Univ Manitoba	58
+McGill Univ	Univ Montreal	66
+McGill Univ	Univ Ottawa	32
+McGill Univ	Univ Quebec	74
+McGill Univ	Univ Toronto	58
+McGill Univ	Univ Victoria	22
+McGill Univ	Univ Washington	20
+McMaster Univ	Univ Toronto	38
+McMaster Univ	Univ Tromso	50
+McMaster Univ	York Univ	26
+Mem Univ Newfoundland	Univ Alberta	30
+Mem Univ Newfoundland	Univ British Columbia	28
+Mem Univ Newfoundland	Univ Copenhagen	30
+Mem Univ Newfoundland	Univ Laval	44
+Mem Univ Newfoundland	Univ Ottawa	26
+Mem Univ Newfoundland	Univ Quebec	26
+Mem Univ Newfoundland	Univ Toronto	22
+Met Office - UK	Univ Bristol	22
+Met Office - UK	Univ Exeter	20
+Met Office - UK	Univ Reading	40
+Michigan State Univ	US Geol Survey	30
+Michigan State Univ	Univ Alaska Fairbanks	34
+Monash Univ	Univ Colorado	22
+Museum Natl Hist Nat - France	Univ Kansas	20
+Museum Natl Hist Nat - France	Univ Pierre & Marie Curie	66
+NASA	NCAR	110
+NASA	NERC National Oceanography Centre	30
+NASA	NOAA	174
+NASA	Natl Inst Earth Sciences & Astronomy - CNRS	46
+NASA	Natl Oceanog Ctr - UK	20
+NASA	Naval Res Lab - US	38
+NASA	Norwegian Inst Air Res	36
+NASA	Ohio State Univ	96
+NASA	Oregon State Univ	34
+NASA	Pacific Northwest Natl Lab	24
+NASA	Penn State Univ	62
+NASA	Res Ctr Julich - Helmholtz Association	24
+NASA	Russian Acad Sci	38
+NASA	Rutgers State Univ	56
+NASA	Sorbonne Univ	30
+NASA	Stockholm Univ	34
+NASA	Tech Univ Denmark	32
+NASA	US Geol Survey	46
+NASA	US Navy	40
+NASA	Univ Alaska	66
+NASA	Univ Alaska Fairbanks	138
+NASA	Univ Arizona	20
+NASA	Univ Bremen	40
+NASA	Univ Bristol	44
+NASA	Univ Calif Irvine	88
+NASA	Univ Calif Los Angeles	46
+NASA	Univ Calif San Diego	58
+NASA	Univ Calif Santa Barbara	26
+NASA	Univ Cambridge	32
+NASA	Univ Coll London	38
+NASA	Univ Colorado	238
+NASA	Univ Copenhagen	28
+NASA	Univ Edinburgh	20
+NASA	Univ Georgia	24
+NASA	Univ Grenoble Alpes	30
+NASA	Univ Hawaii	30
+NASA	Univ Iceland	22
+NASA	Univ Kansas	60
+NASA	Univ Laval	28
+NASA	Univ Leeds	32
+NASA	Univ Leicester	24
+NASA	Univ Libre Brussels	24
+NASA	Univ Liege	46
+NASA	Univ Maine	22
+NASA	Univ Maryland	288
+NASA	Univ Michigan	28
+NASA	Univ Nevada	24
+NASA	Univ New Hampshire	62
+NASA	Univ Oslo	44
+NASA	Univ Pierre & Marie Curie	32
+NASA	Univ S Florida	22
+NASA	Univ Sheffield	22
+NASA	Univ Texas	58
+NASA	Univ Texas Austin	40
+NASA	Univ Tokyo	32
+NASA	Univ Toronto	24
+NASA	Univ Utah	22
+NASA	Univ Utrecht	50
+NASA	Univ Washington	134
+NASA	Univ Waterloo	22
+NASA	Univ Wisconsin	60
+NASA	Univ Wisconsin Madison	62
+NASA	Univ Zurich	22
+NASA	Woods Hole Oceanog Inst	50
+NCAR	NERC National Oceanography Centre	26
+NCAR	NOAA	192
+NCAR	Natl Inst Earth Sciences & Astronomy - CNRS	36
+NCAR	Natl Inst Water & Atmospher Res NIWA	20
+NCAR	Oregon State Univ	28
+NCAR	Pacific Northwest Natl Lab	34
+NCAR	Penn State Univ	30
+NCAR	Purdue Univ	22
+NCAR	Rutgers State Univ	30
+NCAR	Sorbonne Univ	20
+NCAR	US Navy	26
+NCAR	Univ Alaska Fairbanks	50
+NCAR	Univ Arizona	20
+NCAR	Univ Bremen	44
+NCAR	Univ Bristol	20
+NCAR	Univ Calif Berkeley	30
+NCAR	Univ Calif Davis	26
+NCAR	Univ Calif Irvine	42
+NCAR	Univ Calif San Diego	30
+NCAR	Univ Colorado	248
+NCAR	Univ Copenhagen	22
+NCAR	Univ Grenoble Alpes	24
+NCAR	Univ Illinois	32
+NCAR	Univ Leeds	28
+NCAR	Univ Michigan	20
+NCAR	Univ New Hampshire	30
+NCAR	Univ Oslo	20
+NCAR	Univ Tokyo	32
+NCAR	Univ Toronto	40
+NCAR	Univ Tromso	20
+NCAR	Univ Utrecht	34
+NCAR	Univ Washington	66
+NCAR	Univ Wisconsin	44
+NCAR	Univ Wisconsin Madison	44
+NCAR	Woods Hole Oceanog Inst	26
+NERC National Oceanography Centre	NOAA	44
+NERC National Oceanography Centre	NPI	48
+NERC National Oceanography Centre	Natl Inst Earth Sciences & Astronomy - CNRS	24
+NERC National Oceanography Centre	Natl Oceanog Ctr - UK	374
+NERC National Oceanography Centre	Norwegian Inst Marine Res	24
+NERC National Oceanography Centre	Oregon State Univ	30
+NERC National Oceanography Centre	Plymouth Marine Lab	36
+NERC National Oceanography Centre	Royal Netherlands Inst Sea Res NIOZ	36
+NERC National Oceanography Centre	Russian Acad Sci	30
+NERC National Oceanography Centre	Shirshov Inst Oceanol - RAS	24
+NERC National Oceanography Centre	Stockholm Univ	26
+NERC National Oceanography Centre	UHI Millenium Inst	36
+NERC National Oceanography Centre	Univ Alaska	24
+NERC National Oceanography Centre	Univ Alaska Fairbanks	66
+NERC National Oceanography Centre	Univ Bergen	44
+NERC National Oceanography Centre	Univ Birmingham	24
+NERC National Oceanography Centre	Univ Bremen	38
+NERC National Oceanography Centre	Univ Bristol	54
+NERC National Oceanography Centre	Univ Calif San Diego	32
+NERC National Oceanography Centre	Univ Cambridge	38
+NERC National Oceanography Centre	Univ Coll London	28
+NERC National Oceanography Centre	Univ Colorado	24
+NERC National Oceanography Centre	Univ Ctr Svalbard UNIS	20
+NERC National Oceanography Centre	Univ East Anglia	36
+NERC National Oceanography Centre	Univ Edinburgh	22
+NERC National Oceanography Centre	Univ Hamburg	20
+NERC National Oceanography Centre	Univ Kiel	44
+NERC National Oceanography Centre	Univ New South Wales	20
+NERC National Oceanography Centre	Univ Oslo	24
+NERC National Oceanography Centre	Univ Oxford	28
+NERC National Oceanography Centre	Univ Pierre & Marie Curie	26
+NERC National Oceanography Centre	Univ Reading	20
+NERC National Oceanography Centre	Univ Southampton	396
+NERC National Oceanography Centre	Univ Tromso	58
+NERC National Oceanography Centre	Univ Utrecht	38
+NERC National Oceanography Centre	Univ Washington	50
+NERC National Oceanography Centre	Woods Hole Oceanog Inst	50
+NIPR	NOAA	20
+NIPR	NPI	24
+NIPR	Nagoya Univ	146
+NIPR	Niels Bohr Inst	46
+NIPR	Stockholm Univ	26
+NIPR	Tohoku Univ	54
+NIPR	Univ Alaska Fairbanks	48
+NIPR	Univ Bern	26
+NIPR	Univ Calif San Diego	22
+NIPR	Univ Colorado	24
+NIPR	Univ Copenhagen	50
+NIPR	Univ Ctr Svalbard UNIS	22
+NIPR	Univ Grenoble Alpes	24
+NIPR	Univ Laval	30
+NIPR	Univ Oulu	28
+NIPR	Univ Saskatchewan	20
+NIPR	Univ Tokyo	74
+NIPR	Univ Tromso	108
+NOAA	NPI	30
+NOAA	Natl Inst Earth Sciences & Astronomy - CNRS	42
+NOAA	Natl Inst Water & Atmospher Res NIWA	24
+NOAA	Natl Marine Fisheries Serv - US	440
+NOAA	Naval Res Lab - US	42
+NOAA	Norwegian Inst Air Res	48
+NOAA	Norwegian Inst Marine Res	76
+NOAA	Norwegian Meteorol Inst	22
+NOAA	Ohio State Univ	22
+NOAA	Oregon State Univ	238
+NOAA	Pacific Northwest Natl Lab	40
+NOAA	Penn State Univ	42
+NOAA	Princeton Univ	154
+NOAA	Purdue Univ	22
+NOAA	Research lnstitute of Fisheries & Oceanography - RAS	28
+NOAA	Russian Acad Sci	78
+NOAA	Rutgers State Univ	68
+NOAA	Shirshov Inst Oceanol - RAS	20
+NOAA	Sorbonne Univ	22
+NOAA	State Univ New York	26
+NOAA	State Univ New York Stony Brook	24
+NOAA	Stockholm Univ	54
+NOAA	Texas A&M Univ	34
+NOAA	US Fish & Wildlife Serv	68
+NOAA	US Geol Survey	128
+NOAA	US Navy	66
+NOAA	Univ Alaska	264
+NOAA	Univ Alaska Fairbanks	586
+NOAA	Univ Alberta	20
+NOAA	Univ Bergen	42
+NOAA	Univ Bremen	30
+NOAA	Univ British Columbia	36
+NOAA	Univ Calif Berkeley	22
+NOAA	Univ Calif Davis	34
+NOAA	Univ Calif Irvine	64
+NOAA	Univ Calif Los Angeles	28
+NOAA	Univ Calif San Diego	132
+NOAA	Univ Calif Santa Barbara	64
+NOAA	Univ Calif Santa Cruz	36
+NOAA	Univ Cambridge	20
+NOAA	Univ Coll London	22
+NOAA	Univ Colorado	594
+NOAA	Univ Copenhagen	24
+NOAA	Univ East Anglia	32
+NOAA	Univ Gothenburg	22
+NOAA	Univ Grenoble Alpes	24
+NOAA	Univ Hamburg	20
+NOAA	Univ Hawaii	20
+NOAA	Univ Illinois	46
+NOAA	Univ Kiel	20
+NOAA	Univ Leeds	24
+NOAA	Univ Maine	30
+NOAA	Univ Maryland	122
+NOAA	Univ Massachusetts	26
+NOAA	Univ Miami	68
+NOAA	Univ Michigan	46
+NOAA	Univ New Hampshire	46
+NOAA	Univ New South Wales	22
+NOAA	Univ Oslo	60
+NOAA	Univ Pierre & Marie Curie	24
+NOAA	Univ Rhode Island	46
+NOAA	Univ S Florida	28
+NOAA	Univ St Andrews	24
+NOAA	Univ Tasmania	30
+NOAA	Univ Texas	50
+NOAA	Univ Texas Austin	24
+NOAA	Univ Tokyo	26
+NOAA	Univ Toronto	36
+NOAA	Univ Tromso	24
+NOAA	Univ Utrecht	26
+NOAA	Univ Victoria	34
+NOAA	Univ Washington	992
+NOAA	Univ Waterloo	26
+NOAA	Univ Wisconsin	122
+NOAA	Univ Wisconsin Madison	104
+NOAA	Woods Hole Oceanog Inst	114
+NOAA	Yale Univ	24
+NPI	Natl Inst Earth Sciences & Astronomy - CNRS	24
+NPI	Natl Oceanog Ctr - UK	28
+NPI	Norwegian Inst Air Res	126
+NPI	Norwegian Inst Marine Res	158
+NPI	Norwegian Inst Nat Res	142
+NPI	Norwegian Meteorol Inst	48
+NPI	Norwegian Univ Life Sci	182
+NPI	Norwegian Univ Sci & Technol	222
+NPI	Polish Acad Sci	130
+NPI	Royal Netherlands Inst Sea Res NIOZ	38
+NPI	Russian Acad Sci	70
+NPI	Sorbonne Univ	26
+NPI	Stockholm Univ	78
+NPI	Swansea Univ	20
+NPI	Tech Univ Denmark	36
+NPI	UHI Millenium Inst	36
+NPI	US Fish & Wildlife Serv	28
+NPI	US Geol Survey	30
+NPI	Univ Alaska	20
+NPI	Univ Alaska Fairbanks	54
+NPI	Univ Alberta	86
+NPI	Univ Bergen	180
+NPI	Univ Bremen	74
+NPI	Univ Bristol	20
+NPI	Univ Calif San Diego	24
+NPI	Univ Cambridge	34
+NPI	Univ Cape Town	24
+NPI	Univ Colorado	38
+NPI	Univ Copenhagen	52
+NPI	Univ Ctr Svalbard UNIS	244
+NPI	Univ East Anglia	20
+NPI	Univ Georgia	20
+NPI	Univ Gothenburg	46
+NPI	Univ Groningen	26
+NPI	Univ Hamburg	30
+NPI	Univ Helsinki	28
+NPI	Univ Iceland	38
+NPI	Univ Lapland	56
+NPI	Univ Laval	52
+NPI	Univ Manitoba	46
+NPI	Univ Oslo	358
+NPI	Univ Oulu	30
+NPI	Univ Pierre & Marie Curie	46
+NPI	Univ Quebec	36
+NPI	Univ Sheffield	36
+NPI	Univ Southampton	24
+NPI	Univ St Andrews	44
+NPI	Univ Tasmania	20
+NPI	Univ Tromso	614
+NPI	Univ Utrecht	90
+NPI	Univ Washington	74
+NPI	Uppsala Univ	120
+NPI	Vrije Univ Amsterdam	28
+NPI	Woods Hole Oceanog Inst	42
+NPI	York Univ	22
+Nagoya Univ	Tohoku Univ	38
+Nagoya Univ	Univ Alaska Fairbanks	34
+Nagoya Univ	Univ Oulu	26
+Nagoya Univ	Univ Saskatchewan	58
+Nagoya Univ	Univ Tokyo	32
+Nagoya Univ	Univ Tromso	82
+Nanjing Univ	Univ Calif Los Angeles	20
+Nanjing Univ Informat Sci & Technol	Univ Chinese Acad Sci	28
+Nansen Environm & Remote Sensing Ctr	Norwegian Inst Marine Res	42
+Nansen Environm & Remote Sensing Ctr	St Petersburg State Univ	24
+Nansen Environm & Remote Sensing Ctr	Univ Bergen	166
+Nansen Environm & Remote Sensing Ctr	Univ Washington	20
+Natl Environm Res Inst Denmark	Univ Copenhagen	112
+Natl Environm Res Inst Denmark	Univ Southern Denmark	20
+Natl Environm Res Inst Denmark	Univ Washington	20
+Natl Inst Adv Ind Sci & Technol AIST - Japan	Natl Inst Environm Studies - Japan	20
+Natl Inst Adv Ind Sci & Technol AIST - Japan	Univ Tokyo	28
+Natl Inst Earth Sciences & Astronomy - CNRS	Niels Bohr Inst	30
+Natl Inst Earth Sciences & Astronomy - CNRS	Norwegian Inst Air Res	20
+Natl Inst Earth Sciences & Astronomy - CNRS	Russian Acad Sci	58
+Natl Inst Earth Sciences & Astronomy - CNRS	Shirshov Inst Oceanol - RAS	20
+Natl Inst Earth Sciences & Astronomy - CNRS	Sorbonne Univ	108
+Natl Inst Earth Sciences & Astronomy - CNRS	Univ Bergen	26
+Natl Inst Earth Sciences & Astronomy - CNRS	Univ Bern	30
+Natl Inst Earth Sciences & Astronomy - CNRS	Univ Bordeaux	144
+Natl Inst Earth Sciences & Astronomy - CNRS	Univ Bremen	36
+Natl Inst Earth Sciences & Astronomy - CNRS	Univ Bristol	20
+Natl Inst Earth Sciences & Astronomy - CNRS	Univ Cambridge	24
+Natl Inst Earth Sciences & Astronomy - CNRS	Univ Colorado	40
+Natl Inst Earth Sciences & Astronomy - CNRS	Univ Copenhagen	54
+Natl Inst Earth Sciences & Astronomy - CNRS	Univ Grenoble Alpes	104
+Natl Inst Earth Sciences & Astronomy - CNRS	Univ Iceland	22
+Natl Inst Earth Sciences & Astronomy - CNRS	Univ Laval	124
+Natl Inst Earth Sciences & Astronomy - CNRS	Univ Libre Brussels	34
+Natl Inst Earth Sciences & Astronomy - CNRS	Univ Liege	20
+Natl Inst Earth Sciences & Astronomy - CNRS	Univ Oxford	20
+Natl Inst Earth Sciences & Astronomy - CNRS	Univ Paris	68
+Natl Inst Earth Sciences & Astronomy - CNRS	Univ Pierre & Marie Curie	208
+Natl Inst Earth Sciences & Astronomy - CNRS	Univ Quebec	82
+Natl Inst Earth Sciences & Astronomy - CNRS	Univ Toulouse	96
+Natl Inst Earth Sciences & Astronomy - CNRS	Univ Tromso	36
+Natl Inst Earth Sciences & Astronomy - CNRS	Univ Washington	24
+Natl Inst Earth Sciences & Astronomy - CNRS	Woods Hole Oceanog Inst	30
+Natl Inst Environm Studies - Japan	Univ Tokyo	36
+Natl Inst Water & Atmospher Res NIWA	Univ Bremen	32
+Natl Inst Water & Atmospher Res NIWA	Univ Calif San Diego	24
+Natl Inst Water & Atmospher Res NIWA	Univ Washington	24
+Natl Marine Fisheries Serv - US	Oregon State Univ	30
+Natl Marine Fisheries Serv - US	US Geol Survey	24
+Natl Marine Fisheries Serv - US	Univ Alaska	56
+Natl Marine Fisheries Serv - US	Univ Alaska Fairbanks	46
+Natl Marine Fisheries Serv - US	Univ Washington	74
+Natl Oceanog Ctr - UK	UHI Millenium Inst	28
+Natl Oceanog Ctr - UK	Univ Alaska Fairbanks	40
+Natl Oceanog Ctr - UK	Univ Bremen	24
+Natl Oceanog Ctr - UK	Univ Bristol	20
+Natl Oceanog Ctr - UK	Univ East Anglia	22
+Natl Oceanog Ctr - UK	Univ Southampton	78
+Natl Oceanog Ctr - UK	Univ Tromso	22
+Natl Oceanog Ctr - UK	Univ Utrecht	24
+Natl Oceanog Ctr - UK	Univ Washington	22
+Natl Oceanog Ctr - UK	Woods Hole Oceanog Inst	34
+Natl Res Council Canada	Univ Alberta	28
+Natl Res Council Canada	Univ Ottawa	32
+Natl Res Council Canada	Univ Quebec	22
+Natl Res Council Canada	Univ Victoria	24
+Natural Environment Research Council NERC	Univ Aberdeen	22
+Natural Environment Research Council NERC	Univ Birmingham	22
+Natural Environment Research Council NERC	Univ Leeds	30
+Natural Environment Research Council NERC	Univ Reading	22
+Natural History Museum London	Polish Acad Sci	66
+Natural History Museum London	Univ Bergen	24
+Natural History Museum London	Univ Coll London	34
+Natural Resources Institute Finland	Norwegian Inst Nat Res	30
+Natural Resources Institute Finland	Russian Acad Sci	42
+Natural Resources Institute Finland	Univ E Finland	46
+Natural Resources Institute Finland	Univ Helsinki	114
+Natural Resources Institute Finland	Univ Lapland	20
+Natural Resources Institute Finland	Univ Oulu	76
+Natural Resources Institute Finland	Univ Tromso	32
+Natural Resources Institute Finland	Univ Turku	28
+Naval Res Lab - US	US Navy	230
+Naval Res Lab - US	Univ Alaska Fairbanks	30
+Naval Res Lab - US	Univ Bergen	28
+Naval Res Lab - US	Univ Colorado	32
+Naval Res Lab - US	Univ Washington	28
+Newcastle Univ	Swansea Univ	20
+Newcastle Univ	Univ Alaska Fairbanks	20
+Newcastle Univ	Univ Bristol	26
+Newcastle Univ	Univ Edinburgh	24
+Newcastle Univ	Univ Leeds	30
+Niels Bohr Inst	Oregon State Univ	26
+Niels Bohr Inst	Royal Holloway Univ London	26
+Niels Bohr Inst	Ruprecht Karls Univ Heidelberg	22
+Niels Bohr Inst	Stockholm Univ	48
+Niels Bohr Inst	Swansea Univ	28
+Niels Bohr Inst	Tech Univ Denmark	34
+Niels Bohr Inst	Univ Bern	140
+Niels Bohr Inst	Univ Calif San Diego	24
+Niels Bohr Inst	Univ Colorado	56
+Niels Bohr Inst	Univ Copenhagen	610
+Niels Bohr Inst	Univ East Anglia	28
+Niels Bohr Inst	Univ Grenoble Alpes	70
+Niels Bohr Inst	Univ Iceland	68
+Niels Bohr Inst	Univ Libre Brussels	20
+Niels Bohr Inst	Univ Utrecht	38
+Niels Bohr Inst	Univ Washington	20
+Norwegian Inst Air Res	Norwegian Inst Nat Res	28
+Norwegian Inst Air Res	Norwegian Meteorol Inst	20
+Norwegian Inst Air Res	Norwegian Univ Sci & Technol	46
+Norwegian Inst Air Res	Russian Acad Sci	24
+Norwegian Inst Air Res	Stockholm Univ	74
+Norwegian Inst Air Res	Univ Alaska Fairbanks	20
+Norwegian Inst Air Res	Univ Bergen	22
+Norwegian Inst Air Res	Univ Bremen	26
+Norwegian Inst Air Res	Univ Colorado	38
+Norwegian Inst Air Res	Univ Ctr Svalbard UNIS	32
+Norwegian Inst Air Res	Univ Oslo	74
+Norwegian Inst Air Res	Univ Tromso	102
+Norwegian Inst Marine Res	Norwegian Inst Nat Res	66
+Norwegian Inst Marine Res	Norwegian Meteorol Inst	24
+Norwegian Inst Marine Res	Norwegian Univ Life Sci	20
+Norwegian Inst Marine Res	Norwegian Univ Sci & Technol	44
+Norwegian Inst Marine Res	Polish Acad Sci	42
+Norwegian Inst Marine Res	Research lnstitute of Fisheries & Oceanography - RAS	132
+Norwegian Inst Marine Res	Russian Acad Sci	46
+Norwegian Inst Marine Res	SINTEF	44
+Norwegian Inst Marine Res	Shirshov Inst Oceanol - RAS	20
+Norwegian Inst Marine Res	Stockholm Univ	20
+Norwegian Inst Marine Res	Tech Univ Denmark	34
+Norwegian Inst Marine Res	Univ Alaska Fairbanks	38
+Norwegian Inst Marine Res	Univ Bergen	340
+Norwegian Inst Marine Res	Univ Copenhagen	20
+Norwegian Inst Marine Res	Univ Ctr Svalbard UNIS	64
+Norwegian Inst Marine Res	Univ Gothenburg	32
+Norwegian Inst Marine Res	Univ Oslo	166
+Norwegian Inst Marine Res	Univ St Andrews	24
+Norwegian Inst Marine Res	Univ Tasmania	20
+Norwegian Inst Marine Res	Univ Tromso	244
+Norwegian Inst Marine Res	Univ Washington	44
+Norwegian Inst Marine Res	Woods Hole Oceanog Inst	36
+Norwegian Inst Nat Res	Norwegian Univ Life Sci	86
+Norwegian Inst Nat Res	Norwegian Univ Sci & Technol	136
+Norwegian Inst Nat Res	Russian Acad Sci	34
+Norwegian Inst Nat Res	UK Centre for Ecology & Hydrology UKCEH	28
+Norwegian Inst Nat Res	Univ Aberdeen	22
+Norwegian Inst Nat Res	Univ Copenhagen	22
+Norwegian Inst Nat Res	Univ Ctr Svalbard UNIS	56
+Norwegian Inst Nat Res	Univ Iceland	20
+Norwegian Inst Nat Res	Univ Oslo	90
+Norwegian Inst Nat Res	Univ Tromso	196
+Norwegian Meteorol Inst	Stockholm Univ	22
+Norwegian Meteorol Inst	Univ Bergen	36
+Norwegian Meteorol Inst	Univ Ctr Svalbard UNIS	26
+Norwegian Meteorol Inst	Univ Oslo	80
+Norwegian Meteorol Inst	Univ Tromso	24
+Norwegian Meteorol Inst	Univ Washington	22
+Norwegian Univ Life Sci	Norwegian Univ Sci & Technol	78
+Norwegian Univ Life Sci	Univ Bergen	42
+Norwegian Univ Life Sci	Univ Copenhagen	20
+Norwegian Univ Life Sci	Univ Ctr Svalbard UNIS	82
+Norwegian Univ Life Sci	Univ Oslo	120
+Norwegian Univ Life Sci	Univ Tromso	146
+Norwegian Univ Sci & Technol	Russian Acad Sci	24
+Norwegian Univ Sci & Technol	SINTEF	110
+Norwegian Univ Sci & Technol	Univ Aberdeen	22
+Norwegian Univ Sci & Technol	Univ Alberta	20
+Norwegian Univ Sci & Technol	Univ Bergen	94
+Norwegian Univ Sci & Technol	Univ Copenhagen	54
+Norwegian Univ Sci & Technol	Univ Ctr Svalbard UNIS	178
+Norwegian Univ Sci & Technol	Univ Gothenburg	20
+Norwegian Univ Sci & Technol	Univ Helsinki	22
+Norwegian Univ Sci & Technol	Univ Hosp N Norway	62
+Norwegian Univ Sci & Technol	Univ Oslo	164
+Norwegian Univ Sci & Technol	Univ Tromso	242
+Obukhov Inst Atmospher Phys - RAS	Russian Acad Sci	180
+Obukhov Inst Atmospher Phys - RAS	Shirshov Inst Oceanol - RAS	30
+Ocean Univ China	State Ocean Adm China	64
+Ohio State Univ	Old Dominion Univ	46
+Ohio State Univ	Oregon State Univ	22
+Ohio State Univ	Penn State Univ	28
+Ohio State Univ	Russian Acad Sci	40
+Ohio State Univ	Stockholm Univ	52
+Ohio State Univ	Tech Univ Denmark	48
+Ohio State Univ	US Geol Survey	28
+Ohio State Univ	Univ Alaska	22
+Ohio State Univ	Univ Alaska Fairbanks	52
+Ohio State Univ	Univ Arizona	22
+Ohio State Univ	Univ Bristol	36
+Ohio State Univ	Univ Calif Irvine	32
+Ohio State Univ	Univ Calif Los Angeles	20
+Ohio State Univ	Univ Calif San Diego	20
+Ohio State Univ	Univ Cambridge	22
+Ohio State Univ	Univ Colorado	160
+Ohio State Univ	Univ Copenhagen	38
+Ohio State Univ	Univ Illinois	26
+Ohio State Univ	Univ Kansas	50
+Ohio State Univ	Univ Liege	22
+Ohio State Univ	Univ Maryland	30
+Ohio State Univ	Univ New Hampshire	34
+Ohio State Univ	Univ S Florida	20
+Ohio State Univ	Univ Sheffield	26
+Ohio State Univ	Univ Tromso	26
+Ohio State Univ	Univ Utah	24
+Ohio State Univ	Univ Utrecht	76
+Ohio State Univ	Univ Washington	78
+Ohio State Univ	Univ Wisconsin	22
+Ohio State Univ	Univ Wisconsin Madison	20
+Ohio State Univ	Woods Hole Oceanog Inst	28
+Old Dominion Univ	Oregon State Univ	20
+Old Dominion Univ	US Geol Survey	20
+Old Dominion Univ	Univ Alaska Fairbanks	24
+Old Dominion Univ	Univ Maryland	26
+Old Dominion Univ	Univ Washington	34
+Old Dominion Univ	Woods Hole Oceanog Inst	30
+Open Univ	Russian Acad Sci	28
+Oregon State Univ	Penn State Univ	30
+Oregon State Univ	Purdue Univ	20
+Oregon State Univ	US Fish & Wildlife Serv	50
+Oregon State Univ	US Geol Survey	70
+Oregon State Univ	Univ Alaska	40
+Oregon State Univ	Univ Alaska Fairbanks	114
+Oregon State Univ	Univ Alberta	20
+Oregon State Univ	Univ Bergen	30
+Oregon State Univ	Univ Bern	20
+Oregon State Univ	Univ Bremen	34
+Oregon State Univ	Univ British Columbia	24
+Oregon State Univ	Univ Calif Davis	30
+Oregon State Univ	Univ Calif San Diego	104
+Oregon State Univ	Univ Calif Santa Barbara	50
+Oregon State Univ	Univ Calif Santa Cruz	38
+Oregon State Univ	Univ Colorado	64
+Oregon State Univ	Univ Copenhagen	50
+Oregon State Univ	Univ Florida	34
+Oregon State Univ	Univ Grenoble Alpes	24
+Oregon State Univ	Univ Kansas	24
+Oregon State Univ	Univ Maryland	26
+Oregon State Univ	Univ Massachusetts	30
+Oregon State Univ	Univ New Hampshire	30
+Oregon State Univ	Univ Oregon	22
+Oregon State Univ	Univ Oslo	28
+Oregon State Univ	Univ Quebec	40
+Oregon State Univ	Univ Rhode Island	24
+Oregon State Univ	Univ Texas	46
+Oregon State Univ	Univ Texas Austin	30
+Oregon State Univ	Univ Tromso	22
+Oregon State Univ	Univ Utrecht	30
+Oregon State Univ	Univ Victoria	20
+Oregon State Univ	Univ Washington	154
+Oregon State Univ	Univ Wisconsin	64
+Oregon State Univ	Univ Wisconsin Madison	68
+Oregon State Univ	Woods Hole Oceanog Inst	96
+Oregon State Univ	Yale Univ	22
+PRIC	State Ocean Adm China	54
+Pacific Northwest Natl Lab	Penn State Univ	24
+Pacific Northwest Natl Lab	Univ Colorado	28
+Pacific Northwest Natl Lab	Univ Wisconsin	26
+Pacific Northwest Natl Lab	Univ Wisconsin Madison	24
+Penn State Univ	State Univ New York	20
+Penn State Univ	Stockholm Univ	20
+Penn State Univ	US Geol Survey	44
+Penn State Univ	Univ Alaska Anchorage	20
+Penn State Univ	Univ Alaska Fairbanks	46
+Penn State Univ	Univ Bristol	20
+Penn State Univ	Univ Calif Berkeley	28
+Penn State Univ	Univ Calif San Diego	26
+Penn State Univ	Univ Colorado	62
+Penn State Univ	Univ Copenhagen	52
+Penn State Univ	Univ Maryland	22
+Penn State Univ	Univ Massachusetts	24
+Penn State Univ	Univ Nevada	32
+Penn State Univ	Univ New Hampshire	42
+Penn State Univ	Univ Tokyo	20
+Penn State Univ	Univ Washington	96
+Penn State Univ	Univ Wisconsin	30
+Penn State Univ	Univ Wisconsin Madison	32
+Plymouth Marine Lab	Polish Acad Sci	24
+Polish Acad Sci	Russian Acad Sci	68
+Polish Acad Sci	Univ Alaska Fairbanks	30
+Polish Acad Sci	Univ Bergen	52
+Polish Acad Sci	Univ Copenhagen	24
+Polish Acad Sci	Univ Ctr Svalbard UNIS	88
+Polish Acad Sci	Univ Helsinki	32
+Polish Acad Sci	Univ Maryland	26
+Polish Acad Sci	Univ Oslo	50
+Polish Acad Sci	Univ Pierre & Marie Curie	20
+Polish Acad Sci	Univ Tromso	88
+Polish Acad Sci	Uppsala Univ	20
+Potsdam Inst Climate Impact Res	Univ Complutense	28
+Potsdam Inst Climate Impact Res	Univ Potsdam	36
+Princeton Univ	Univ Alaska Fairbanks	20
+Princeton Univ	Univ Calif San Diego	20
+Princeton Univ	Univ Colorado	20
+Princeton Univ	Univ Washington	36
+Princeton Univ	Woods Hole Oceanog Inst	30
+Purdue Univ	Ruprecht Karls Univ Heidelberg	22
+Purdue Univ	US Geol Survey	26
+Purdue Univ	Univ Alaska Fairbanks	42
+Purdue Univ	Univ Colorado	32
+Purdue Univ	Univ Michigan	24
+Queens Univ	Univ Alberta	70
+Queens Univ	Univ Copenhagen	28
+Queens Univ	Univ Laval	38
+Queens Univ	Univ Ottawa	72
+Queens Univ	Univ Toronto	82
+Research lnstitute of Fisheries & Oceanography - RAS	Russian Acad Sci	156
+Research lnstitute of Fisheries & Oceanography - RAS	Severtsov Inst Ecol & Evolut - RAS	34
+Research lnstitute of Fisheries & Oceanography - RAS	Univ Oslo	32
+Research lnstitute of Fisheries & Oceanography - RAS	Univ Tromso	28
+Royal Holloway Univ London	Univ Bristol	22
+Royal Holloway Univ London	Univ Cambridge	36
+Royal Holloway Univ London	Univ Copenhagen	40
+Royal Holloway Univ London	Univ London	152
+Royal Holloway Univ London	Univ Oxford	30
+Royal Holloway Univ London	Univ Utrecht	32
+Royal Holloway Univ London	Univ Wales	24
+Royal Netherlands Inst Sea Res NIOZ	Univ Bergen	32
+Royal Netherlands Inst Sea Res NIOZ	Univ Bremen	20
+Royal Netherlands Inst Sea Res NIOZ	Univ Groningen	100
+Royal Netherlands Inst Sea Res NIOZ	Univ Manitoba	28
+Royal Netherlands Inst Sea Res NIOZ	Univ Tromso	34
+Royal Netherlands Inst Sea Res NIOZ	Univ Utrecht	172
+Royal Netherlands Inst Sea Res NIOZ	Woods Hole Oceanog Inst	26
+Royal Netherlands Meteorol Inst	Univ Colorado	20
+Royal Netherlands Meteorol Inst	Univ Utrecht	74
+Royal Netherlands Meteorol Inst	Wageningen Univ	20
+Ruprecht Karls Univ Heidelberg	Univ Alaska Fairbanks	30
+Ruprecht Karls Univ Heidelberg	Univ Bern	50
+Ruprecht Karls Univ Heidelberg	Univ Colorado	20
+Ruprecht Karls Univ Heidelberg	Univ Copenhagen	28
+Ruprecht Karls Univ Heidelberg	Univ Grenoble Alpes	20
+Russian Acad Sci	Senckenberg Gesellschaft fur Naturforschung SGN	24
+Russian Acad Sci	Severtsov Inst Ecol & Evolut - RAS	364
+Russian Acad Sci	Shirshov Inst Oceanol - RAS	1598
+Russian Acad Sci	St Petersburg State Univ	456
+Russian Acad Sci	Stanford Univ	36
+Russian Acad Sci	Stockholm Univ	202
+Russian Acad Sci	Swedish Museum Nat Hist	26
+Russian Acad Sci	Tech Univ Denmark	24
+Russian Acad Sci	Texas A&M Univ	20
+Russian Acad Sci	US Geol Survey	72
+Russian Acad Sci	US Navy	22
+Russian Acad Sci	Umea Univ	24
+Russian Acad Sci	Univ Alaska	128
+Russian Acad Sci	Univ Alaska Fairbanks	366
+Russian Acad Sci	Univ Alberta	30
+Russian Acad Sci	Univ Arizona	36
+Russian Acad Sci	Univ Bergen	98
+Russian Acad Sci	Univ Bern	48
+Russian Acad Sci	Univ Bremen	46
+Russian Acad Sci	Univ Bristol	24
+Russian Acad Sci	Univ Calif Berkeley	30
+Russian Acad Sci	Univ Calif Los Angeles	30
+Russian Acad Sci	Univ Calif San Diego	24
+Russian Acad Sci	Univ Calif Santa Barbara	22
+Russian Acad Sci	Univ Cambridge	50
+Russian Acad Sci	Univ Coll London	20
+Russian Acad Sci	Univ Cologne	28
+Russian Acad Sci	Univ Colorado	70
+Russian Acad Sci	Univ Copenhagen	94
+Russian Acad Sci	Univ Ctr Svalbard UNIS	102
+Russian Acad Sci	Univ E Finland	32
+Russian Acad Sci	Univ Gothenburg	52
+Russian Acad Sci	Univ Grenoble Alpes	44
+Russian Acad Sci	Univ Groningen	44
+Russian Acad Sci	Univ Hamburg	36
+Russian Acad Sci	Univ Helsinki	64
+Russian Acad Sci	Univ Iceland	28
+Russian Acad Sci	Univ Illinois	28
+Russian Acad Sci	Univ Innsbruck	20
+Russian Acad Sci	Univ Kansas	28
+Russian Acad Sci	Univ Kiel	50
+Russian Acad Sci	Univ Leicester	36
+Russian Acad Sci	Univ Manchester	28
+Russian Acad Sci	Univ Manitoba	24
+Russian Acad Sci	Univ Maryland	28
+Russian Acad Sci	Univ Massachusetts	28
+Russian Acad Sci	Univ Michigan	30
+Russian Acad Sci	Univ New Hampshire	44
+Russian Acad Sci	Univ Oslo	114
+Russian Acad Sci	Univ Oulu	88
+Russian Acad Sci	Univ Oxford	34
+Russian Acad Sci	Univ Potsdam	20
+Russian Acad Sci	Univ Southampton	22
+Russian Acad Sci	Univ Toronto	28
+Russian Acad Sci	Univ Toulouse	52
+Russian Acad Sci	Univ Tromso	182
+Russian Acad Sci	Univ Turku	20
+Russian Acad Sci	Univ Utrecht	42
+Russian Acad Sci	Univ Vienna	68
+Russian Acad Sci	Univ Washington	72
+Russian Acad Sci	Univ Zurich	24
+Russian Acad Sci	Uppsala Univ	32
+Russian Acad Sci	Vernadsky Inst Geochem & Analyt Chem - RAS	258
+Russian Acad Sci	Vrije Univ Amsterdam	42
+Russian Acad Sci	Wageningen Univ	42
+Russian Acad Sci	Woods Hole Oceanog Inst	70
+Russian Acad Sci	Zoo Inst - RAS	550
+Rutgers State Univ	Univ Alaska Fairbanks	56
+Rutgers State Univ	Univ Calif Los Angeles	30
+Rutgers State Univ	Univ Colorado	44
+Rutgers State Univ	Univ Georgia	30
+Rutgers State Univ	Univ Washington	52
+Rutgers State Univ	Univ Wisconsin	20
+Rutgers State Univ	Univ Wisconsin Madison	26
+Rutgers State Univ	Woods Hole Oceanog Inst	26
+SINTEF	Univ Bergen	22
+SINTEF	Univ Ctr Svalbard UNIS	32
+SINTEF	Univ Oslo	34
+SINTEF	Univ Tromso	138
+Severtsov Inst Ecol & Evolut - RAS	Shirshov Inst Oceanol - RAS	24
+Severtsov Inst Ecol & Evolut - RAS	St Petersburg State Univ	20
+Severtsov Inst Ecol & Evolut - RAS	Zoo Inst - RAS	38
+Shirshov Inst Oceanol - RAS	St Petersburg State Univ	28
+Shirshov Inst Oceanol - RAS	Univ Alaska	22
+Shirshov Inst Oceanol - RAS	Univ Alaska Fairbanks	78
+Shirshov Inst Oceanol - RAS	Univ Bergen	22
+Shirshov Inst Oceanol - RAS	Univ Bremen	24
+Shirshov Inst Oceanol - RAS	Univ Ctr Svalbard UNIS	22
+Shirshov Inst Oceanol - RAS	Univ Tromso	68
+Shirshov Inst Oceanol - RAS	Vernadsky Inst Geochem & Analyt Chem - RAS	26
+Shirshov Inst Oceanol - RAS	Woods Hole Oceanog Inst	22
+Shirshov Inst Oceanol - RAS	Zoo Inst - RAS	36
+Simon Fraser Univ	US Geol Survey	22
+Simon Fraser Univ	Univ Alberta	34
+Simon Fraser Univ	Univ British Columbia	34
+Simon Fraser Univ	Univ Colorado	22
+Smithsonian Inst	US Geol Survey	22
+Smithsonian Inst	Univ Colorado	26
+Smithsonian Inst	Univ Kansas	22
+Smithsonian Inst	Univ Toronto	24
+Sorbonne Univ	Univ Bergen	24
+Sorbonne Univ	Univ Calif San Diego	20
+Sorbonne Univ	Univ Colorado	20
+Sorbonne Univ	Univ Grenoble Alpes	20
+Sorbonne Univ	Univ Laval	68
+Sorbonne Univ	Univ Paris	34
+Sorbonne Univ	Univ Pierre & Marie Curie	300
+Sorbonne Univ	Univ Quebec	42
+Sorbonne Univ	Univ Toronto	20
+St Petersburg State Univ	Univ Bergen	24
+St Petersburg State Univ	Univ Bern	20
+St Petersburg State Univ	Univ Oslo	32
+St Petersburg State Univ	Univ Tromso	28
+St Petersburg State Univ	Zoo Inst - RAS	106
+Stanford Univ	Tech Univ Denmark	22
+Stanford Univ	US Geol Survey	42
+Stanford Univ	Univ Alaska Fairbanks	30
+Stanford Univ	Univ Calif San Diego	20
+Stanford Univ	Univ Calif Santa Barbara	26
+Stanford Univ	Univ Colorado	30
+Stanford Univ	Univ Copenhagen	32
+Stanford Univ	Univ Laval	22
+Stanford Univ	Univ Washington	22
+Stanford Univ	Woods Hole Oceanog Inst	42
+State Univ New York	State Univ New York Stony Brook	170
+State Univ New York	Univ Colorado	22
+Stockholm Univ	Swansea Univ	24
+Stockholm Univ	Swedish Museum Nat Hist	72
+Stockholm Univ	Swedish Univ Agr Sci	30
+Stockholm Univ	US Geol Survey	52
+Stockholm Univ	Umea Univ	20
+Stockholm Univ	Univ Aberdeen	20
+Stockholm Univ	Univ Alaska	38
+Stockholm Univ	Univ Alaska Fairbanks	142
+Stockholm Univ	Univ Bergen	66
+Stockholm Univ	Univ Bern	42
+Stockholm Univ	Univ Bremen	28
+Stockholm Univ	Univ Cambridge	50
+Stockholm Univ	Univ Colorado	84
+Stockholm Univ	Univ Copenhagen	98
+Stockholm Univ	Univ Ctr Svalbard UNIS	80
+Stockholm Univ	Univ Gothenburg	102
+Stockholm Univ	Univ Helsinki	88
+Stockholm Univ	Univ Iceland	46
+Stockholm Univ	Univ Leeds	40
+Stockholm Univ	Univ Manchester	30
+Stockholm Univ	Univ New Hampshire	66
+Stockholm Univ	Univ Oslo	52
+Stockholm Univ	Univ Oxford	36
+Stockholm Univ	Univ Rhode Island	32
+Stockholm Univ	Univ Sheffield	28
+Stockholm Univ	Univ Stockholm	258
+Stockholm Univ	Univ Tromso	76
+Stockholm Univ	Univ Utrecht	46
+Stockholm Univ	Univ Vienna	20
+Stockholm Univ	Univ Washington	44
+Stockholm Univ	Uppsala Univ	80
+Stockholm Univ	Vrije Univ Amsterdam	26
+Stockholm Univ	Woods Hole Oceanog Inst	30
+Swansea Univ	Univ Bergen	22
+Swansea Univ	Univ Bern	22
+Swansea Univ	Univ Copenhagen	40
+Swansea Univ	Univ Ctr Svalbard UNIS	34
+Swansea Univ	Univ Leeds	48
+Swansea Univ	Univ Sheffield	22
+Swansea Univ	Univ St Andrews	42
+Swansea Univ	Univ Tromso	22
+Swansea Univ	Uppsala Univ	20
+Swedish Museum Nat Hist	Univ Copenhagen	26
+Swedish Museum Nat Hist	Univ Gothenburg	28
+Swedish Museum Nat Hist	Univ Oxford	40
+Swedish Museum Nat Hist	Uppsala Univ	36
+Swedish Univ Agr Sci	Umea Univ	36
+Swedish Univ Agr Sci	Univ Copenhagen	38
+Swedish Univ Agr Sci	Univ Ctr Svalbard UNIS	20
+Swedish Univ Agr Sci	Univ Gothenburg	22
+Swedish Univ Agr Sci	Univ Helsinki	26
+Swedish Univ Agr Sci	Uppsala Univ	20
+Swiss Fed Inst Forest Snow & Landscape Res	Univ Bern	32
+Swiss Fed Inst Forest Snow & Landscape Res	Univ Colorado	34
+Swiss Fed Inst Forest Snow & Landscape Res	Univ Utrecht	22
+Swiss Fed Inst Forest Snow & Landscape Res	Univ Zurich	22
+Tech Univ Denmark	Univ Bergen	24
+Tech Univ Denmark	Univ Bristol	34
+Tech Univ Denmark	Univ Calif Irvine	38
+Tech Univ Denmark	Univ Calif San Diego	20
+Tech Univ Denmark	Univ Cambridge	20
+Tech Univ Denmark	Univ Colorado	62
+Tech Univ Denmark	Univ Copenhagen	226
+Tech Univ Denmark	Univ Ctr Svalbard UNIS	42
+Tech Univ Denmark	Univ Iceland	20
+Tech Univ Denmark	Univ Kansas	24
+Tech Univ Denmark	Univ Leeds	24
+Tech Univ Denmark	Univ Maine	20
+Tech Univ Denmark	Univ Oslo	20
+Tech Univ Denmark	Univ Ottawa	22
+Tech Univ Denmark	Univ Tromso	40
+Tech Univ Denmark	Univ Utrecht	52
+Tech Univ Denmark	Univ Washington	38
+Tech Univ Denmark	Univ Zurich	22
+Tech Univ Denmark	Uppsala Univ	34
+Texas A&M Univ	US Geol Survey	28
+Texas A&M Univ	Univ Alaska	22
+Texas A&M Univ	Univ Alaska Fairbanks	56
+Texas A&M Univ	Univ Texas	28
+Texas A&M Univ	Univ Texas Austin	24
+Trent Univ	Univ Alberta	28
+Trent Univ	Univ Manitoba	24
+Trent Univ	Univ Ottawa	20
+UHI Millenium Inst	Univ Ctr Svalbard UNIS	44
+UHI Millenium Inst	Univ Manitoba	22
+UHI Millenium Inst	Univ Southern Denmark	28
+UHI Millenium Inst	Univ Tromso	40
+UK Centre for Ecology & Hydrology UKCEH	Univ Aberdeen	22
+UK Centre for Ecology & Hydrology UKCEH	Univ Ctr Svalbard UNIS	22
+UK Centre for Ecology & Hydrology UKCEH	Univ Oslo	24
+US Fish & Wildlife Serv	US Geol Survey	268
+US Fish & Wildlife Serv	Univ Alaska	54
+US Fish & Wildlife Serv	Univ Alaska Fairbanks	146
+US Fish & Wildlife Serv	Univ Alberta	24
+US Fish & Wildlife Serv	Univ British Columbia	24
+US Fish & Wildlife Serv	Univ Calif Davis	20
+US Fish & Wildlife Serv	Univ Calif Santa Barbara	24
+US Fish & Wildlife Serv	Univ Calif Santa Cruz	26
+US Fish & Wildlife Serv	Univ Washington	66
+US Geol Survey	United States Department of Agriculture USDA	22
+US Geol Survey	Univ Alaska	186
+US Geol Survey	Univ Alaska Anchorage	32
+US Geol Survey	Univ Alaska Fairbanks	538
+US Geol Survey	Univ Alberta	54
+US Geol Survey	Univ British Columbia	26
+US Geol Survey	Univ Calif Berkeley	24
+US Geol Survey	Univ Calif Davis	50
+US Geol Survey	Univ Calif Irvine	20
+US Geol Survey	Univ Calif Los Angeles	20
+US Geol Survey	Univ Calif San Diego	32
+US Geol Survey	Univ Calif Santa Barbara	50
+US Geol Survey	Univ Calif Santa Cruz	48
+US Geol Survey	Univ Colorado	128
+US Geol Survey	Univ Copenhagen	24
+US Geol Survey	Univ Florida	26
+US Geol Survey	Univ Maine	20
+US Geol Survey	Univ Maryland	32
+US Geol Survey	Univ Massachusetts	30
+US Geol Survey	Univ Minnesota	52
+US Geol Survey	Univ Nevada	32
+US Geol Survey	Univ New Hampshire	24
+US Geol Survey	Univ Oregon	20
+US Geol Survey	Univ Oslo	30
+US Geol Survey	Univ Texas	44
+US Geol Survey	Univ Texas Austin	32
+US Geol Survey	Univ Utrecht	22
+US Geol Survey	Univ Washington	146
+US Geol Survey	Univ Wisconsin	34
+US Geol Survey	Univ Wisconsin Madison	32
+US Geol Survey	Univ Wyoming	22
+US Geol Survey	Woods Hole Oceanog Inst	56
+US Navy	Univ Alaska Fairbanks	40
+US Navy	Univ Bergen	36
+US Navy	Univ Colorado	54
+US Navy	Univ Washington	44
+US Navy	Woods Hole Oceanog Inst	38
+Umea Univ	Univ Tromso	22
+United States Department of Agriculture USDA	Univ Alaska Fairbanks	44
+United States Department of Agriculture USDA	Univ Saskatchewan	22
+Univ Aberdeen	Univ Cambridge	42
+Univ Aberdeen	Univ Copenhagen	20
+Univ Aberdeen	Univ Ctr Svalbard UNIS	26
+Univ Aberdeen	Univ Edinburgh	76
+Univ Aberdeen	Univ Glasgow	26
+Univ Aberdeen	Univ Laval	24
+Univ Aberdeen	Univ Leeds	20
+Univ Aberdeen	Univ Oslo	32
+Univ Aberdeen	Univ Sheffield	24
+Univ Aberdeen	Univ Tromso	30
+Univ Alabama	Univ Alaska Fairbanks	22
+Univ Alabama	Woods Hole Oceanog Inst	20
+Univ Alaska	Univ Alaska Anchorage	104
+Univ Alaska	Univ Alaska Fairbanks	1956
+Univ Alaska	Univ Alberta	20
+Univ Alaska	Univ Bergen	24
+Univ Alaska	Univ Birmingham	24
+Univ Alaska	Univ Calif Irvine	22
+Univ Alaska	Univ Calif San Diego	42
+Univ Alaska	Univ Calif Santa Barbara	40
+Univ Alaska	Univ Calif Santa Cruz	22
+Univ Alaska	Univ Colorado	74
+Univ Alaska	Univ Copenhagen	24
+Univ Alaska	Univ Florida	24
+Univ Alaska	Univ Hawaii	26
+Univ Alaska	Univ Illinois	36
+Univ Alaska	Univ Maryland	32
+Univ Alaska	Univ Massachusetts	26
+Univ Alaska	Univ Minnesota	24
+Univ Alaska	Univ New Hampshire	28
+Univ Alaska	Univ Oslo	26
+Univ Alaska	Univ Southampton	30
+Univ Alaska	Univ Texas	42
+Univ Alaska	Univ Texas Austin	20
+Univ Alaska	Univ Toronto	20
+Univ Alaska	Univ Tromso	36
+Univ Alaska	Univ Washington	180
+Univ Alaska	Univ Wisconsin	24
+Univ Alaska	Univ Wisconsin Madison	22
+Univ Alaska	Woods Hole Oceanog Inst	56
+Univ Alaska Anchorage	Univ Alaska Fairbanks	108
+Univ Alaska Anchorage	Univ Oulu	32
+Univ Alaska Anchorage	Univ Tromso	26
+Univ Alaska Anchorage	Univ Washington	22
+Univ Alaska Fairbanks	Univ Alberta	54
+Univ Alaska Fairbanks	Univ Arizona	24
+Univ Alaska Fairbanks	Univ Bergen	52
+Univ Alaska Fairbanks	Univ Birmingham	26
+Univ Alaska Fairbanks	Univ Bremen	26
+Univ Alaska Fairbanks	Univ Bristol	20
+Univ Alaska Fairbanks	Univ British Columbia	40
+Univ Alaska Fairbanks	Univ Calgary	22
+Univ Alaska Fairbanks	Univ Calif Berkeley	34
+Univ Alaska Fairbanks	Univ Calif Davis	30
+Univ Alaska Fairbanks	Univ Calif Irvine	72
+Univ Alaska Fairbanks	Univ Calif Los Angeles	20
+Univ Alaska Fairbanks	Univ Calif San Diego	70
+Univ Alaska Fairbanks	Univ Calif Santa Barbara	84
+Univ Alaska Fairbanks	Univ Calif Santa Cruz	46
+Univ Alaska Fairbanks	Univ Colorado	198
+Univ Alaska Fairbanks	Univ Copenhagen	82
+Univ Alaska Fairbanks	Univ Ctr Svalbard UNIS	54
+Univ Alaska Fairbanks	Univ Delaware	24
+Univ Alaska Fairbanks	Univ Florida	48
+Univ Alaska Fairbanks	Univ Georgia	36
+Univ Alaska Fairbanks	Univ Gothenburg	44
+Univ Alaska Fairbanks	Univ Grenoble Alpes	22
+Univ Alaska Fairbanks	Univ Hamburg	22
+Univ Alaska Fairbanks	Univ Hawaii	44
+Univ Alaska Fairbanks	Univ Hawaii Manoa	28
+Univ Alaska Fairbanks	Univ Helsinki	20
+Univ Alaska Fairbanks	Univ Illinois	66
+Univ Alaska Fairbanks	Univ Kansas	30
+Univ Alaska Fairbanks	Univ Kiel	26
+Univ Alaska Fairbanks	Univ Laval	56
+Univ Alaska Fairbanks	Univ Leeds	24
+Univ Alaska Fairbanks	Univ Maine	24
+Univ Alaska Fairbanks	Univ Manchester	24
+Univ Alaska Fairbanks	Univ Manitoba	26
+Univ Alaska Fairbanks	Univ Maryland	92
+Univ Alaska Fairbanks	Univ Massachusetts	56
+Univ Alaska Fairbanks	Univ Michigan	56
+Univ Alaska Fairbanks	Univ Minnesota	40
+Univ Alaska Fairbanks	Univ Nevada	26
+Univ Alaska Fairbanks	Univ New Hampshire	64
+Univ Alaska Fairbanks	Univ Oregon	20
+Univ Alaska Fairbanks	Univ Oslo	72
+Univ Alaska Fairbanks	Univ Ottawa	30
+Univ Alaska Fairbanks	Univ Oxford	22
+Univ Alaska Fairbanks	Univ Potsdam	24
+Univ Alaska Fairbanks	Univ Quebec	32
+Univ Alaska Fairbanks	Univ Rhode Island	32
+Univ Alaska Fairbanks	Univ S Florida	34
+Univ Alaska Fairbanks	Univ Saskatchewan	26
+Univ Alaska Fairbanks	Univ Sheffield	28
+Univ Alaska Fairbanks	Univ Southampton	66
+Univ Alaska Fairbanks	Univ Tasmania	30
+Univ Alaska Fairbanks	Univ Tennessee	24
+Univ Alaska Fairbanks	Univ Texas	98
+Univ Alaska Fairbanks	Univ Texas Austin	48
+Univ Alaska Fairbanks	Univ Tokyo	26
+Univ Alaska Fairbanks	Univ Toronto	48
+Univ Alaska Fairbanks	Univ Tromso	102
+Univ Alaska Fairbanks	Univ Utrecht	46
+Univ Alaska Fairbanks	Univ Victoria	34
+Univ Alaska Fairbanks	Univ Washington	438
+Univ Alaska Fairbanks	Univ Waterloo	20
+Univ Alaska Fairbanks	Univ Wisconsin	52
+Univ Alaska Fairbanks	Univ Wisconsin Madison	52
+Univ Alaska Fairbanks	Univ Wyoming	28
+Univ Alaska Fairbanks	Uppsala Univ	50
+Univ Alaska Fairbanks	Victoria Univ Wellington	22
+Univ Alaska Fairbanks	Vrije Univ Amsterdam	28
+Univ Alaska Fairbanks	Woods Hole Oceanog Inst	174
+Univ Alaska Fairbanks	Yale Univ	20
+Univ Alberta	Univ Bristol	28
+Univ Alberta	Univ British Columbia	62
+Univ Alberta	Univ Calgary	26
+Univ Alberta	Univ Calif San Diego	22
+Univ Alberta	Univ Cambridge	30
+Univ Alberta	Univ Colorado	56
+Univ Alberta	Univ Copenhagen	62
+Univ Alberta	Univ Ctr Svalbard UNIS	24
+Univ Alberta	Univ Edinburgh	24
+Univ Alberta	Univ Laval	26
+Univ Alberta	Univ Manitoba	40
+Univ Alberta	Univ N Carolina	22
+Univ Alberta	Univ Oslo	58
+Univ Alberta	Univ Ottawa	62
+Univ Alberta	Univ Quebec	30
+Univ Alberta	Univ Saskatchewan	44
+Univ Alberta	Univ Toronto	54
+Univ Alberta	Univ Victoria	24
+Univ Alberta	Univ Washington	44
+Univ Alberta	Univ Waterloo	26
+Univ Alberta	Univ Wisconsin	20
+Univ Alberta	Univ Wisconsin Madison	20
+Univ Alberta	Woods Hole Oceanog Inst	24
+Univ Alberta	Yale Univ	20
+Univ Alberta	York Univ	50
+Univ Antwerp	Univ Copenhagen	22
+Univ Antwerp	Univ Grenoble Alpes	22
+Univ Arizona	Univ Colorado	52
+Univ Barcelona	Univ Tromso	22
+Univ Bergen	Univ Bern	24
+Univ Bergen	Univ Bremen	48
+Univ Bergen	Univ Calif San Diego	32
+Univ Bergen	Univ Cambridge	22
+Univ Bergen	Univ Coll London	66
+Univ Bergen	Univ Colorado	52
+Univ Bergen	Univ Copenhagen	122
+Univ Bergen	Univ Ctr Svalbard UNIS	322
+Univ Bergen	Univ East Anglia	30
+Univ Bergen	Univ Exeter	20
+Univ Bergen	Univ Gothenburg	102
+Univ Bergen	Univ Hamburg	28
+Univ Bergen	Univ Helsinki	44
+Univ Bergen	Univ Hosp N Norway	28
+Univ Bergen	Univ Iceland	84
+Univ Bergen	Univ Kiel	30
+Univ Bergen	Univ Massachusetts	20
+Univ Bergen	Univ New Hampshire	30
+Univ Bergen	Univ Oslo	354
+Univ Bergen	Univ Oxford	42
+Univ Bergen	Univ Pierre & Marie Curie	32
+Univ Bergen	Univ Quebec	22
+Univ Bergen	Univ Rhode Island	20
+Univ Bergen	Univ Toronto	32
+Univ Bergen	Univ Tromso	290
+Univ Bergen	Univ Utrecht	20
+Univ Bergen	Univ Vienna	28
+Univ Bergen	Univ Washington	64
+Univ Bergen	Uppsala Univ	26
+Univ Bergen	Vrije Univ Amsterdam	22
+Univ Bergen	Woods Hole Oceanog Inst	76
+Univ Bern	Univ Calif San Diego	26
+Univ Bern	Univ Cambridge	24
+Univ Bern	Univ Cologne	20
+Univ Bern	Univ Colorado	40
+Univ Bern	Univ Copenhagen	190
+Univ Bern	Univ East Anglia	28
+Univ Bern	Univ Grenoble Alpes	76
+Univ Bern	Univ Iceland	28
+Univ Bern	Univ Minnesota	22
+Univ Bern	Univ Utrecht	66
+Univ Birmingham	Univ Cambridge	20
+Univ Birmingham	Univ Southampton	24
+Univ Bonn	Univ Cologne	30
+Univ Bonn	Univ Copenhagen	22
+Univ Bordeaux	Univ Paris	20
+Univ Bordeaux	Univ Quebec	40
+Univ Bremen	Univ Bristol	26
+Univ Bremen	Univ Calif Irvine	20
+Univ Bremen	Univ Calif Santa Barbara	22
+Univ Bremen	Univ Cambridge	28
+Univ Bremen	Univ Colorado	38
+Univ Bremen	Univ Copenhagen	24
+Univ Bremen	Univ Ctr Svalbard UNIS	22
+Univ Bremen	Univ Ghent	20
+Univ Bremen	Univ Gothenburg	24
+Univ Bremen	Univ Hamburg	62
+Univ Bremen	Univ Kiel	82
+Univ Bremen	Univ Leeds	20
+Univ Bremen	Univ Liege	26
+Univ Bremen	Univ New South Wales	24
+Univ Bremen	Univ Oslo	32
+Univ Bremen	Univ Potsdam	20
+Univ Bremen	Univ Tromso	60
+Univ Bremen	Univ Utrecht	42
+Univ Bremen	Univ Washington	24
+Univ Bremen	Vrije Univ Amsterdam	28
+Univ Bremen	Woods Hole Oceanog Inst	28
+Univ Bristol	Univ Calif Irvine	26
+Univ Bristol	Univ Cambridge	64
+Univ Bristol	Univ Colorado	48
+Univ Bristol	Univ Copenhagen	54
+Univ Bristol	Univ Edinburgh	52
+Univ Bristol	Univ Grenoble Alpes	22
+Univ Bristol	Univ Innsbruck	24
+Univ Bristol	Univ Kansas	28
+Univ Bristol	Univ Leeds	80
+Univ Bristol	Univ Liege	26
+Univ Bristol	Univ Oslo	22
+Univ Bristol	Univ Oxford	20
+Univ Bristol	Univ Reading	36
+Univ Bristol	Univ Sheffield	72
+Univ Bristol	Univ Southampton	36
+Univ Bristol	Univ Utrecht	88
+Univ Bristol	Univ Washington	34
+Univ Bristol	Woods Hole Oceanog Inst	36
+Univ British Columbia	Univ Calgary	26
+Univ British Columbia	Univ Colorado	28
+Univ British Columbia	Univ Copenhagen	24
+Univ British Columbia	Univ Laval	60
+Univ British Columbia	Univ Manitoba	34
+Univ British Columbia	Univ Ottawa	20
+Univ British Columbia	Univ Quebec	52
+Univ British Columbia	Univ Toronto	64
+Univ British Columbia	Univ Victoria	62
+Univ British Columbia	Univ Washington	32
+Univ British Columbia	Woods Hole Oceanog Inst	32
+Univ Calgary	Univ Laval	22
+Univ Calgary	Univ Leeds	24
+Univ Calgary	Univ Manitoba	54
+Univ Calgary	Univ Ottawa	20
+Univ Calgary	Univ Quebec	20
+Univ Calgary	Univ Saskatchewan	36
+Univ Calgary	Univ Toronto	24
+Univ Calgary	Univ Tromso	20
+Univ Calif Berkeley	Univ Calif Los Angeles	24
+Univ Calif Berkeley	Univ Calif Santa Barbara	34
+Univ Calif Berkeley	Univ Colorado	42
+Univ Calif Berkeley	Univ Copenhagen	38
+Univ Calif Berkeley	Univ Washington	28
+Univ Calif Berkeley	Univ Wisconsin	24
+Univ Calif Berkeley	Univ Wisconsin Madison	24
+Univ Calif Berkeley	Woods Hole Oceanog Inst	24
+Univ Calif Davis	Univ Calif Santa Barbara	26
+Univ Calif Davis	Univ Calif Santa Cruz	30
+Univ Calif Davis	Univ Colorado	22
+Univ Calif Irvine	Univ Calif Los Angeles	26
+Univ Calif Irvine	Univ Cambridge	24
+Univ Calif Irvine	Univ Colorado	64
+Univ Calif Irvine	Univ Copenhagen	44
+Univ Calif Irvine	Univ Grenoble Alpes	22
+Univ Calif Irvine	Univ Kansas	28
+Univ Calif Irvine	Univ New Hampshire	36
+Univ Calif Irvine	Univ Ottawa	20
+Univ Calif Irvine	Univ Oxford	20
+Univ Calif Irvine	Univ Texas	36
+Univ Calif Irvine	Univ Texas Austin	34
+Univ Calif Irvine	Univ Utrecht	54
+Univ Calif Irvine	Univ Washington	48
+Univ Calif Irvine	Woods Hole Oceanog Inst	38
+Univ Calif Los Angeles	Univ Colorado	38
+Univ Calif Los Angeles	Univ Copenhagen	24
+Univ Calif Los Angeles	Univ New Hampshire	20
+Univ Calif Los Angeles	Univ Utah	22
+Univ Calif San Diego	Univ Calif Santa Barbara	24
+Univ Calif San Diego	Univ Colorado	74
+Univ Calif San Diego	Univ Copenhagen	38
+Univ Calif San Diego	Univ Gothenburg	42
+Univ Calif San Diego	Univ Grenoble Alpes	42
+Univ Calif San Diego	Univ Hosp N Norway	24
+Univ Calif San Diego	Univ Laval	28
+Univ Calif San Diego	Univ Maryland	26
+Univ Calif San Diego	Univ Oslo	20
+Univ Calif San Diego	Univ Texas	28
+Univ Calif San Diego	Univ Texas Austin	20
+Univ Calif San Diego	Univ Toronto	20
+Univ Calif San Diego	Univ Tromso	52
+Univ Calif San Diego	Univ Utrecht	22
+Univ Calif San Diego	Univ Washington	112
+Univ Calif San Diego	Univ Wisconsin	26
+Univ Calif San Diego	Univ Wisconsin Madison	28
+Univ Calif San Diego	Woods Hole Oceanog Inst	104
+Univ Calif San Diego	Yale Univ	22
+Univ Calif Santa Barbara	Univ Calif Santa Cruz	382
+Univ Calif Santa Barbara	Univ Colorado	32
+Univ Calif Santa Barbara	Univ Oslo	22
+Univ Calif Santa Barbara	Univ Washington	52
+Univ Calif Santa Barbara	Univ Wisconsin	22
+Univ Calif Santa Barbara	Univ Wisconsin Madison	24
+Univ Calif Santa Barbara	Woods Hole Oceanog Inst	28
+Univ Calif Santa Cruz	Univ Washington	30
+Univ Cambridge	Univ Coll London	42
+Univ Cambridge	Univ Colorado	70
+Univ Cambridge	Univ Copenhagen	62
+Univ Cambridge	Univ Ctr Svalbard UNIS	56
+Univ Cambridge	Univ East Anglia	24
+Univ Cambridge	Univ Edinburgh	52
+Univ Cambridge	Univ Florida	22
+Univ Cambridge	Univ Grenoble Alpes	26
+Univ Cambridge	Univ Iceland	50
+Univ Cambridge	Univ Kiel	24
+Univ Cambridge	Univ Leeds	34
+Univ Cambridge	Univ Oslo	30
+Univ Cambridge	Univ Oxford	44
+Univ Cambridge	Univ Quebec	20
+Univ Cambridge	Univ Sheffield	44
+Univ Cambridge	Univ Southampton	28
+Univ Cambridge	Univ St Andrews	38
+Univ Cambridge	Univ Tromso	62
+Univ Cambridge	Univ Utrecht	38
+Univ Cambridge	Univ Washington	42
+Univ Cambridge	Uppsala Univ	44
+Univ Cambridge	Woods Hole Oceanog Inst	34
+Univ Coll London	Univ Colorado	34
+Univ Coll London	Univ Copenhagen	34
+Univ Coll London	Univ Edinburgh	30
+Univ Coll London	Univ Helsinki	20
+Univ Coll London	Univ Leeds	26
+Univ Coll London	Univ Leicester	22
+Univ Coll London	Univ Liverpool	28
+Univ Coll London	Univ London Imperial Coll Sci & Technol	22
+Univ Coll London	Univ Maryland	24
+Univ Coll London	Univ Oxford	32
+Univ Coll London	Univ Reading	24
+Univ Coll London	Univ Southampton	32
+Univ Coll London	Univ Southern Denmark	22
+Univ Coll London	Univ Tromso	36
+Univ Coll London	Univ Utrecht	20
+Univ Coll London	Woods Hole Oceanog Inst	22
+Univ Cologne	Univ Copenhagen	20
+Univ Colorado	Univ Copenhagen	128
+Univ Colorado	Univ Ctr Svalbard UNIS	24
+Univ Colorado	Univ Delaware	20
+Univ Colorado	Univ East Anglia	26
+Univ Colorado	Univ Edinburgh	26
+Univ Colorado	Univ Gothenburg	24
+Univ Colorado	Univ Grenoble Alpes	34
+Univ Colorado	Univ Hawaii	20
+Univ Colorado	Univ Iceland	102
+Univ Colorado	Univ Illinois	82
+Univ Colorado	Univ Innsbruck	22
+Univ Colorado	Univ Kansas	34
+Univ Colorado	Univ Kiel	20
+Univ Colorado	Univ Leeds	36
+Univ Colorado	Univ Liege	42
+Univ Colorado	Univ Maine	26
+Univ Colorado	Univ Maryland	94
+Univ Colorado	Univ Massachusetts	54
+Univ Colorado	Univ Miami	20
+Univ Colorado	Univ Michigan	32
+Univ Colorado	Univ New Hampshire	56
+Univ Colorado	Univ Oslo	30
+Univ Colorado	Univ Plymouth	22
+Univ Colorado	Univ Quebec	46
+Univ Colorado	Univ S Florida	20
+Univ Colorado	Univ Sheffield	30
+Univ Colorado	Univ Texas	46
+Univ Colorado	Univ Texas Austin	30
+Univ Colorado	Univ Tokyo	32
+Univ Colorado	Univ Toronto	38
+Univ Colorado	Univ Tromso	46
+Univ Colorado	Univ Utah	24
+Univ Colorado	Univ Utrecht	108
+Univ Colorado	Univ Victoria	22
+Univ Colorado	Univ Washington	188
+Univ Colorado	Univ Wisconsin	114
+Univ Colorado	Univ Wisconsin Madison	110
+Univ Colorado	Univ Wyoming	34
+Univ Colorado	Univ Zurich	24
+Univ Colorado	Uppsala Univ	20
+Univ Colorado	Vrije Univ Amsterdam	26
+Univ Colorado	Woods Hole Oceanog Inst	62
+Univ Concepcion	Univ Washington	24
+Univ Copenhagen	Univ Ctr Svalbard UNIS	184
+Univ Copenhagen	Univ East Anglia	28
+Univ Copenhagen	Univ Edinburgh	34
+Univ Copenhagen	Univ Gothenburg	40
+Univ Copenhagen	Univ Grenoble Alpes	108
+Univ Copenhagen	Univ Helsinki	44
+Univ Copenhagen	Univ Iceland	190
+Univ Copenhagen	Univ Kansas	38
+Univ Copenhagen	Univ Kiel	22
+Univ Copenhagen	Univ Laval	30
+Univ Copenhagen	Univ Leeds	20
+Univ Copenhagen	Univ Libre Brussels	24
+Univ Copenhagen	Univ London	36
+Univ Copenhagen	Univ Manitoba	24
+Univ Copenhagen	Univ New Brunswick	22
+Univ Copenhagen	Univ New Hampshire	26
+Univ Copenhagen	Univ Oslo	108
+Univ Copenhagen	Univ Ottawa	40
+Univ Copenhagen	Univ Oulu	22
+Univ Copenhagen	Univ Oxford	62
+Univ Copenhagen	Univ Quebec	32
+Univ Copenhagen	Univ Sheffield	34
+Univ Copenhagen	Univ Southern Denmark	210
+Univ Copenhagen	Univ St Andrews	26
+Univ Copenhagen	Univ Tasmania	20
+Univ Copenhagen	Univ Tromso	130
+Univ Copenhagen	Univ Utrecht	116
+Univ Copenhagen	Univ Vienna	22
+Univ Copenhagen	Univ Washington	58
+Univ Copenhagen	Univ Zurich	20
+Univ Copenhagen	Uppsala Univ	46
+Univ Copenhagen	Woods Hole Oceanog Inst	42
+Univ Ctr Svalbard UNIS	Univ Edinburgh	22
+Univ Ctr Svalbard UNIS	Univ Gothenburg	50
+Univ Ctr Svalbard UNIS	Univ Helsinki	22
+Univ Ctr Svalbard UNIS	Univ Iceland	62
+Univ Ctr Svalbard UNIS	Univ Leicester	36
+Univ Ctr Svalbard UNIS	Univ New Hampshire	24
+Univ Ctr Svalbard UNIS	Univ Oslo	384
+Univ Ctr Svalbard UNIS	Univ Sheffield	42
+Univ Ctr Svalbard UNIS	Univ St Andrews	68
+Univ Ctr Svalbard UNIS	Univ Tromso	494
+Univ Ctr Svalbard UNIS	Univ Utrecht	28
+Univ Ctr Svalbard UNIS	Univ Washington	22
+Univ Ctr Svalbard UNIS	Univ Zurich	20
+Univ Ctr Svalbard UNIS	Uppsala Univ	52
+Univ Ctr Svalbard UNIS	Vrije Univ Amsterdam	22
+Univ Delaware	Univ Wisconsin	22
+Univ Delaware	Univ Wisconsin Madison	24
+Univ E Finland	Univ Helsinki	46
+Univ E Finland	Univ Oulu	20
+Univ East Anglia	Univ Gothenburg	20
+Univ East Anglia	Univ Grenoble Alpes	34
+Univ East Anglia	Univ Sheffield	26
+Univ East Anglia	Univ Southampton	22
+Univ East Anglia	Univ Toronto	36
+Univ East Anglia	Univ Utrecht	22
+Univ East Anglia	Woods Hole Oceanog Inst	38
+Univ Edinburgh	Univ Glasgow	20
+Univ Edinburgh	Univ Iceland	34
+Univ Edinburgh	Univ Leeds	44
+Univ Edinburgh	Univ Oslo	20
+Univ Edinburgh	Univ Sheffield	68
+Univ Edinburgh	Univ St Andrews	46
+Univ Edinburgh	Univ Utrecht	24
+Univ Edinburgh	Univ Washington	20
+Univ Edinburgh	Vrije Univ Amsterdam	20
+Univ Edinburgh	Woods Hole Oceanog Inst	40
+Univ Exeter	Univ Sheffield	22
+Univ Florida	Univ Quebec	24
+Univ Florida	Univ Texas	20
+Univ Florida	Woods Hole Oceanog Inst	28
+Univ Gothenburg	Univ Iceland	28
+Univ Gothenburg	Univ New Hampshire	20
+Univ Gothenburg	Univ Oslo	38
+Univ Gothenburg	Univ Oxford	20
+Univ Gothenburg	Univ Sheffield	20
+Univ Gothenburg	Univ Tromso	64
+Univ Gothenburg	Uppsala Univ	24
+Univ Gothenburg	Woods Hole Oceanog Inst	36
+Univ Grenoble Alpes	Univ Laval	34
+Univ Grenoble Alpes	Univ Leeds	20
+Univ Grenoble Alpes	Univ Libre Brussels	22
+Univ Grenoble Alpes	Univ Liege	34
+Univ Grenoble Alpes	Univ Oslo	50
+Univ Grenoble Alpes	Univ Paris	26
+Univ Grenoble Alpes	Univ Toulouse	20
+Univ Grenoble Alpes	Univ Tromso	22
+Univ Grenoble Alpes	Univ Utrecht	60
+Univ Grenoble Alpes	Univ Washington	20
+Univ Groningen	Univ Tromso	32
+Univ Groningen	Univ Utrecht	70
+Univ Groningen	Uppsala Univ	24
+Univ Groningen	Wageningen Univ	24
+Univ Guelph	Univ Laval	26
+Univ Guelph	Univ Toronto	24
+Univ Guelph	Univ Waterloo	22
+Univ Hamburg	Univ Iceland	20
+Univ Hamburg	Univ Kiel	36
+Univ Hamburg	Univ Tromso	20
+Univ Hawaii	Univ Washington	20
+Univ Helsinki	Univ Lapland	20
+Univ Helsinki	Univ Laval	26
+Univ Helsinki	Univ Oslo	24
+Univ Helsinki	Univ Oulu	74
+Univ Helsinki	Univ Quebec	30
+Univ Helsinki	Univ Tromso	28
+Univ Helsinki	Univ Turku	52
+Univ Helsinki	Uppsala Univ	24
+Univ Hosp N Norway	Univ Oslo	216
+Univ Hosp N Norway	Univ Southern Denmark	20
+Univ Hosp N Norway	Univ Tromso	872
+Univ Iceland	Univ Leeds	22
+Univ Iceland	Univ Oslo	48
+Univ Iceland	Univ Toulouse	24
+Univ Iceland	Univ Tromso	50
+Univ Iceland	Univ Washington	34
+Univ Iceland	Uppsala Univ	30
+Univ Illinois	Univ Washington	42
+Univ Illinois	Univ Wisconsin	20
+Univ Innsbruck	Univ Utrecht	22
+Univ Kansas	Univ Maine	32
+Univ Kansas	Univ Maryland	24
+Univ Kansas	Univ Oregon	32
+Univ Kansas	Univ Texas	36
+Univ Kansas	Univ Texas Austin	36
+Univ Kansas	Univ Utrecht	24
+Univ Kansas	Univ Washington	22
+Univ Kiel	Univ Oslo	26
+Univ Kiel	Univ Tromso	34
+Univ Kiel	Univ Washington	34
+Univ Kiel	Woods Hole Oceanog Inst	24
+Univ Lapland	Univ Oulu	54
+Univ Lapland	Univ Utrecht	36
+Univ Lapland	Uppsala Univ	58
+Univ Laval	Univ Manitoba	102
+Univ Laval	Univ Montreal	84
+Univ Laval	Univ Ottawa	28
+Univ Laval	Univ Pierre & Marie Curie	84
+Univ Laval	Univ Quebec	450
+Univ Laval	Univ Toronto	56
+Univ Laval	Univ Tromso	60
+Univ Laval	Univ Victoria	32
+Univ Laval	Univ Washington	28
+Univ Laval	Univ Waterloo	28
+Univ Leeds	Univ Oslo	32
+Univ Leeds	Univ Sheffield	28
+Univ Leeds	Univ Utrecht	32
+Univ Leicester	Univ Oslo	48
+Univ Leicester	Univ Oulu	22
+Univ Libre Brussels	Univ Liege	38
+Univ Libre Brussels	Univ Utrecht	42
+Univ Liege	Univ Sheffield	30
+Univ Liege	Univ Utrecht	68
+Univ London Imperial Coll Sci & Technol	Univ Oslo	20
+Univ Maine	Univ Oregon	20
+Univ Maine	Univ Toronto	20
+Univ Maine	Univ Washington	22
+Univ Maine	Woods Hole Oceanog Inst	24
+Univ Manchester	Univ Tromso	24
+Univ Manitoba	Univ Ottawa	36
+Univ Manitoba	Univ Quebec	104
+Univ Manitoba	Univ Southern Denmark	40
+Univ Manitoba	Univ Toronto	34
+Univ Manitoba	Univ Tromso	34
+Univ Manitoba	Univ Victoria	30
+Univ Manitoba	Univ Waterloo	30
+Univ Manitoba	York Univ	22
+Univ Maryland	Univ Texas	36
+Univ Maryland	Univ Texas Austin	30
+Univ Maryland	Univ Utrecht	26
+Univ Maryland	Univ Washington	64
+Univ Maryland	Univ Wisconsin	20
+Univ Maryland	Univ Wisconsin Madison	22
+Univ Maryland	Univ Wyoming	26
+Univ Maryland	Woods Hole Oceanog Inst	48
+Univ Massachusetts	Univ Washington	30
+Univ Massachusetts	Woods Hole Oceanog Inst	30
+Univ Miami	Univ Washington	28
+Univ Miami	Woods Hole Oceanog Inst	40
+Univ Michigan	Univ Washington	24
+Univ Michigan	Woods Hole Oceanog Inst	40
+Univ Minnesota	Univ Texas	28
+Univ Minnesota	Woods Hole Oceanog Inst	20
+Univ Montpellier	Univ Quebec	22
+Univ Montreal	Univ Ottawa	32
+Univ Montreal	Univ Quebec	72
+Univ N Carolina	Woods Hole Oceanog Inst	20
+Univ Nevada	Univ New Hampshire	38
+Univ Nevada	Univ Washington	26
+Univ New Brunswick	Univ Ottawa	22
+Univ New Hampshire	Univ Oslo	52
+Univ New Hampshire	Univ Rhode Island	20
+Univ New Hampshire	Univ Tromso	24
+Univ New Hampshire	Univ Washington	58
+Univ New Hampshire	Woods Hole Oceanog Inst	34
+Univ New South Wales	Univ Oxford	20
+Univ New South Wales	Woods Hole Oceanog Inst	20
+Univ Oregon	Univ Texas	28
+Univ Oregon	Univ Texas Austin	28
+Univ Oregon	Univ Washington	38
+Univ Oregon	Woods Hole Oceanog Inst	24
+Univ Oslo	Univ Oxford	22
+Univ Oslo	Univ Southampton	22
+Univ Oslo	Univ St Andrews	30
+Univ Oslo	Univ Tromso	560
+Univ Oslo	Univ Utrecht	62
+Univ Oslo	Univ Wales	20
+Univ Oslo	Univ Washington	78
+Univ Oslo	Univ Zurich	24
+Univ Oslo	Uppsala Univ	64
+Univ Oslo	Woods Hole Oceanog Inst	22
+Univ Otago	Univ Oulu	24
+Univ Ottawa	Univ Quebec	24
+Univ Ottawa	Univ Toronto	32
+Univ Ottawa	Univ Washington	20
+Univ Oulu	Univ Tromso	62
+Univ Oulu	Univ Turku	36
+Univ Oulu	Uppsala Univ	30
+Univ Oxford	Woods Hole Oceanog Inst	22
+Univ Paris	Univ Pierre & Marie Curie	22
+Univ Paris	Univ Quebec	22
+Univ Pierre & Marie Curie	Univ Quebec	48
+Univ Pierre & Marie Curie	Univ Washington	22
+Univ Pierre & Marie Curie	Woods Hole Oceanog Inst	20
+Univ Plymouth	Univ Tromso	32
+Univ Quebec	Univ Toronto	28
+Univ Quebec	Univ Tromso	48
+Univ Quebec	Univ Victoria	36
+Univ Quebec	Woods Hole Oceanog Inst	26
+Univ Rhode Island	Univ Washington	42
+Univ Rhode Island	Woods Hole Oceanog Inst	74
+Univ S Florida	Univ Washington	26
+Univ S Florida	Woods Hole Oceanog Inst	24
+Univ Saskatchewan	Univ Tromso	68
+Univ Saskatchewan	Univ Western Ontario	26
+Univ Saskatchewan	Western Univ	28
+Univ Sheffield	Univ Tromso	24
+Univ Sheffield	Univ Utrecht	30
+Univ Southampton	Univ Tromso	60
+Univ Southampton	Univ Washington	30
+Univ Southern Denmark	Univ Tromso	32
+Univ St Andrews	Univ Tromso	24
+Univ St Andrews	Univ Washington	22
+Univ Tasmania	Univ Washington	28
+Univ Tasmania	Woods Hole Oceanog Inst	30
+Univ Texas	Univ Texas Austin	534
+Univ Texas	Univ Washington	48
+Univ Texas	Woods Hole Oceanog Inst	110
+Univ Texas	Yale Univ	20
+Univ Texas Austin	Univ Washington	30
+Univ Texas Austin	Woods Hole Oceanog Inst	54
+Univ Tokyo	Woods Hole Oceanog Inst	20
+Univ Toronto	Univ Washington	40
+Univ Toronto	Univ Waterloo	50
+Univ Toronto	Univ Western Ontario	42
+Univ Toronto	Western Univ	48
+Univ Toronto	Woods Hole Oceanog Inst	94
+Univ Toronto	York Univ	22
+Univ Tromso	Univ Utrecht	50
+Univ Tromso	Univ Washington	36
+Univ Tromso	Univ Waterloo	20
+Univ Tromso	Uppsala Univ	48
+Univ Tromso	Woods Hole Oceanog Inst	22
+Univ Utah	Univ Utrecht	22
+Univ Utrecht	Univ Washington	48
+Univ Utrecht	Univ Zurich	28
+Univ Utrecht	Uppsala Univ	86
+Univ Utrecht	Vrije Univ Amsterdam	60
+Univ Utrecht	Woods Hole Oceanog Inst	52
+Univ Victoria	Univ Washington	32
+Univ Washington	Univ Wisconsin	32
+Univ Washington	Univ Wisconsin Madison	34
+Univ Washington	Victoria Univ Wellington	22
+Univ Washington	Woods Hole Oceanog Inst	172
+Univ Washington	Yale Univ	36
+Univ Western Ontario	Western Univ	362
+Univ Wisconsin	Univ Wisconsin Madison	584
+Univ Wisconsin	Woods Hole Oceanog Inst	30
+Univ Wisconsin Madison	Woods Hole Oceanog Inst	30
+Univ Wyoming	Woods Hole Oceanog Inst	28
+Vrije Univ Amsterdam	Wageningen Univ	26
+Vrije Univ Amsterdam	Woods Hole Oceanog Inst	28
+Wageningen Univ	Woods Hole Oceanog Inst	20
+Woods Hole Oceanog Inst	Yale Univ	78
